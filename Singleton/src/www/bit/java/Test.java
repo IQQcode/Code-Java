@@ -6,7 +6,9 @@ package www.bit.java;
 
 //首先控制对象的产生数量--将构造方法私有化(从源头控制对象数量 new Person();)
 
-//类构造方法私有化：任何其他类均无法参生此对象(本质是任何其他类均无法调用构造方法,所以无法产生对象)
+//构造方法私有化：任何其他类均无法参生此对象(本质是任何他类均无法调用构造方法,所以无法产生对象)
+//对象的产生？？？
+//  Person  per = new   Person();
 
 //唯一的一个对象产生于类内部
 
@@ -21,9 +23,9 @@ package www.bit.java;
 // 3.类内部提供静态方法返回唯一对象
 
 
-/*class Singleton {
+class Singleton {
     //类中提供了一个对象
-     private static Singleton singleton = new Singleton();//所有普通属性拿private封装
+    private static Singleton singleton = new Singleton();//所有普通属性拿private封装
     private Singleton() { }
 
     //静态方法-----为什么是静态方法？？
@@ -35,7 +37,7 @@ package www.bit.java;
     public void print() {
         System.out.println("Hello World");
     }
-}*/
+}
 
 
 
@@ -67,9 +69,9 @@ class Singleton {
 
 public class Test {
     public static void main(String[] args) {
-        //Singleton singleton1 = Singleton.getSingleton();
+        Singleton singleton1 = Singleton.getSingleton();
         //取得singleton对象，不能直接new；
-        // 而是通过 Singleton.getSingleton();静态方法取得类中已经产生好的对象
+        //而是通过 Singleton.getSingleton();静态方法取得类中已经产生好的对象
 
         //singleton1.print();
 
