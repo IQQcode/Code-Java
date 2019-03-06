@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2a9ce57-d610-4117-88fa-fad97f8eea22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Sequence/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/src/bitlearn/ds/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sequence/src/bitlearn/ds/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sequence/src/bitlearn/ds/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sequence/src/bitlearn/ds/Sequence.java" afterDir="false" />
-    </list>
+    <list default="true" id="c2a9ce57-d610-4117-88fa-fad97f8eea22" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +15,11 @@
       <file leaf-file-name="Class4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Class4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="100" column="31" lean-forward="true" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="31" />
+            <state relative-caret-position="-122">
+              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+              <folding>
+                <element signature="e#0#2252#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,7 +52,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="160" />
     <option name="y" value="20" />
     <option name="width" value="1750" />
@@ -178,19 +174,18 @@
       <workItem from="1551688990963" duration="443000" />
       <workItem from="1551689915296" duration="607000" />
       <workItem from="1551691029140" duration="11483000" />
+      <workItem from="1551853593000" duration="1103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12780000" />
+    <option name="totallyTimeSpent" value="13883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32987013" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -216,6 +211,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32987013" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +221,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Class4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="100" column="31" lean-forward="true" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#2252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Class4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -248,8 +254,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Class4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="100" column="31" lean-forward="true" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="31" />
+        <state relative-caret-position="-122">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#0#2252#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
