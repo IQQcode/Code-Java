@@ -44,28 +44,55 @@ public class Class7 {
 
 
 
-abstract class Person {
+/*abstract class Person {
     public Person() {    //--2
-        this.print();    //--3 调用print()方法，再返回子类
+        this.print();    //--3 调用print()方法,this在本类中找同名方法
     }
-    public abstract void print();
+    public abstract void print();   //--4 抽象类没有具体实现，返回子类
 }
 
 class Student extends Person {
     private int num = 100;
 
     public Student(int num) {   //--1 :抽象类允许提供构造方法，实例化子类时，先调用父类的构造方法
-        super();
-        //int num = 100;
+        //super();  super回父类中找同名的print方法
+        //还在父类的构造方法中，父类的print方法执行完，才进入到子类里
+        //int num = 100;****** 还未执行到这一步
         this.num = num;
     }
-     public void print() {     //--4
-        System.out.println(this.num);  //--5  还在父类的构造方法中，还没到子类
+     public void print() {     //--5
+        System.out.println(this.num);  //--6  还在父类的构造方法中，还没到子类
      }
 }
 
 public class Class7 {
     public static void main(String[] args) {
-        new Student(30);     //--1
+        new Student(30);//--1
+        //new Student(30).print();
+    }
+}*/
+
+
+abstract class Person {
+    public abstract void test1();
+
+    abstract class Inner {
+        public abstract void test2();
+    }
+}
+class Student extends Person {
+    @Override
+    public void test1() { }
+
+    class Overreal extends Inner {
+        public void test2() { }
+
+    }
+
+}
+
+public class Class7 {
+    public static void main(String[] args) {
+        new Student();
     }
 }
