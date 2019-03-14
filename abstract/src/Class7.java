@@ -76,7 +76,7 @@ public class Class7 {
 abstract class Person {
     public abstract void test1();
 
-    abstract class Inner {
+    abstract class Inner {       //内部抽象类
         public abstract void test2();
     }
 }
@@ -86,7 +86,6 @@ class Student extends Person {
 
     class Overreal extends Inner {
         public void test2() { }
-
     }
 
 }

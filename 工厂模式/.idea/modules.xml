@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sequence.iml" filepath="$PROJECT_DIR$/Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工厂模式.iml" filepath="$PROJECT_DIR$/工厂模式.iml" />
     </modules>
   </component>
 </project>
