@@ -23,7 +23,7 @@ public class Gnericity {
 */
 
 /**
- * @泛型类: 在定义时类型不确定(啥类型都可以)，只有在具体使用时才能确定类型。
+ * 泛型类: 在定义时类型不确定(啥类型都可以)，只有在具体使用时才能确定类型。
  */
 
 
@@ -69,7 +69,7 @@ public  class Gnericity {
 class MyClass<T>{
     private  T t;
     public <T> T testMethod(T t) {
-        return e;
+        return t;
     }
 }
 
@@ -80,7 +80,7 @@ class MyClass<T>{
 
 public class Gnericity {
     public static void main(String[] args) {
-        MyClass<Object> myClass = new MyClass<>();
+        MyClass<String> myClass = new MyClass<>();
 
         System.out.println(myClass.testMethod(123));
     }
