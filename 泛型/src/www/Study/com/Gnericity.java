@@ -63,9 +63,10 @@ public  class Gnericity {
 }*/
 
 /**
- * @泛型方法
+ * 泛型方法
  * @param <T>
  */
+/*
 class MyClass<T>{
     private  T t;
     public <T> T testMethod(T t) {
@@ -73,15 +74,92 @@ class MyClass<T>{
     }
 }
 
+*/
 /**
  * 泛型类中的类型参数与泛型方法中的类型参数是没有相应的联系的
  *                           泛型方法始终以自己定义的类型参数为准
- */
+ *//*
+
 
 public class Gnericity {
     public static void main(String[] args) {
         MyClass<String> myClass = new MyClass<>();
+        MyClass<Integer>myClass1 = new MyClass<>();
+        System.out.println(myClass.testMethod("你好！"));
+        System.out.println(myClass1.testMethod(20));
+    }
+}*/
 
-        System.out.println(myClass.testMethod(123));
+/**
+ * 3.通配符
+ * extends,super---看关键字后面的类
+ * @param <T>
+ */
+
+
+/*
+class Message<T extends  String> {
+    private T message;
+
+    public  T getMessage() {
+        return message;
+    }
+
+    public void setMessage(T message) {
+        this.message = message;
     }
 }
+
+public  class  Gnericity{
+    public static void main(String[] args) {
+        Message<String> message = new Message<>();
+        message.setMessage("Hellow");
+        fun(message);
+    }
+
+    //  ? extends String(此时的子类必须是Number类型的)
+    //此时方法中依然不能设置值，只能取得值。
+    //现在只能确定是父类，由于子类不确定。此时发生向下转型存在不确定性因此无法设置具体值。
+
+    // ? super String 天然的向上转型
+    //Object obj = new String("java!");
+    public static void fun(Message<? super String> temp) {
+        temp.setMessage("java!");
+        System.out.println(temp.getMessage());
+    }
+}*/
+
+/**
+ * 4.泛型接口
+ * @param <T>
+ */
+
+/*
+interface IMessage<T> {
+    void print(T t);
+}
+
+
+class MessageImpl<T> implements IMessage<T> {
+
+//class MessageImpl<T> implements IMessage<T> {
+
+    @Override
+    public void print(T t) {
+        System.out.print(t);
+    }
+}
+
+public  class Gnericity {
+    public static void main(String[] args) {
+        IMessage<String> msg = new MessageImpl();
+        msg.print("在子类定义时继续使用泛型");
+
+        //msg.print("在子类实现接口的时候明确给出具体类型");
+    }
+}
+*/
+
+
+
+
