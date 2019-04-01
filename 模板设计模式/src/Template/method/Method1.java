@@ -156,8 +156,8 @@ public class Method1 {
         System.out.println("Making coffee...");
         coffee.prepareRecipe();
 
-        //System.out.println("\nMaking tea...");
-        //tea.prepareRecipe();
+        System.out.println("\nMaking tea...");
+        tea.prepareRecipe();
     }
 }
 

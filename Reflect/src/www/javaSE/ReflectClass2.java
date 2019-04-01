@@ -29,6 +29,9 @@ public class ReflectClass2 {
         //System.out.println(per.getName());
 
 
+
+
+        //反射处理
         //1.取得 Class对象
         Class<Person1> cls = Person1.class;
 
@@ -37,7 +40,7 @@ public class ReflectClass2 {
         String getMethodName = "get" + initCap(args[0]);
 
         //3.取得 Method对象
-        Method setMethod = cls.getMethod(setMethodName,String.class);
+        Method setMethod = cls.getMethod(setMethodName,String.class);//传入一个参数
         Method getMethod = cls.getMethod(getMethodName);
 
         //4.取得 Person类实例化对象后调用方法
@@ -49,8 +52,8 @@ public class ReflectClass2 {
     private static String initCap (String str) {
         return str.substring(0,1).toUpperCase() + str.substring(1);
     }
-}
-*/
+}*/
+
 
 /**
  * 反射与普通属性(field)

@@ -33,9 +33,9 @@ public class Reflect {
 
 /**
  * 取得类的class对象:
- * I.调用Object提供的getClass方法
+ * I.调用 Object提供的 getClass方法
  * II.类名称.class
- * III.调用Class类提供的静态方法Class.forName(类的全名称);
+ * III.调用Class类提供的静态方法 Class.forName(类的全名称);
  */
 
 /*
@@ -77,7 +77,9 @@ public class Reflect {
 
 /*
 interface IMessage { }
+
 interface INews { }
+
 class MyClassImpl implements IMessage,INews { }
 
 public class Reflect {
@@ -109,8 +111,8 @@ public class Reflect {
         }
     }
 }
-
 */
+
 
 /**
  * 反射调用构造
@@ -122,7 +124,7 @@ class Person {
 
     public Person() { }   //无参构造
 
-    Person(Integer age) {
+    Person(Integer age) {  //default权限的有参构造
         this.age = age;
     }
 
@@ -138,14 +140,31 @@ class Person {
  *
  * Class类提供的getDeclaredConstructors() : 可以取得类中所有构造方法
  */
-public  class Reflect {
+
+/*public  class Reflect {
     public static void main(String[] args) throws NoSuchMethodException {
         Class<Person> per = Person.class;    //取得 Person()类的class对象
 
         //取得所有构造方法
         Constructor[] constructors = per.getDeclaredConstructors();//多个构造方法，放入数组
-        for(Constructor constructor : constructors) {
+        for (Constructor constructor : constructors) {
             System.out.println(constructor);
         }
+    }
+}
+*/
+
+
+public class Reflect {
+    public static void main(String[] args) throws  Exception {
+        Class<Person> cls = Person.class;
+
+        //取得有参构造
+        Constructor constructor = cls.getConstructor(String.class,int.class);
+
+        //实例化对象
+        //相当于调用 Person per = new Person("大二",20)
+        Person per = (Person) constructor.newInstance("大二",20);
+        System.out.println(per);
     }
 }

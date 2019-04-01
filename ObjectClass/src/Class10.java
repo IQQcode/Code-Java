@@ -3,8 +3,7 @@
  * 二、包装类
  */
 
-/*
-class Person {
+/*class Person {
     private String thing;
     private  int age;
     public Person(int age,String thing) {
@@ -12,7 +11,7 @@ class Person {
         this.age = age;
     }
 
-    //覆写String方法来输出对象内容
+    //覆写String方法来输出对象内容,否则输出的是 Class类名称和地址
     public String toString() {
         return age + " 了" + thing;
     }
@@ -26,8 +25,7 @@ public class Class10 {
     public static void fun(Object obj) {
         System.out.println(obj.toString());
     }
-}
-*/
+}*/
 
 
 /**
@@ -44,11 +42,14 @@ class Person {
         this.age = age;
     }
 
-    */
-/**
+*/
+/*
+
      * @Override toString();
      * @return
-     *//*
+
+*//*
+
 
     public String toSting() {
         return "姓名：" + name + ", 年龄：" + age;
@@ -70,11 +71,12 @@ class Person {
             return false;
         }
 
-        //传入的对象为Person类对象并且地址不相等
         */
-/**
+/*传入的对象为Person类对象并且地址不相等
+
          * 向下转型，将Object类还原为Person类的对象，比较属性值
          *//*
+
 
         Person per = (Person) obj;
         return per.name.equals(this.name) && per.age == this.age;  //this表示当前对象
@@ -97,8 +99,7 @@ public class Class10 {
 
 //1.2.I 使用Object来接收数组对象
 
-/*
-public class Class10 {
+/*public class Class10 {
     public static void main(String[] args) {
         //Object接收数组对象，向上转型
         Object obj = new int[] {1,2,3,4,5,6};
@@ -109,8 +110,7 @@ public class Class10 {
             System.out.print(i + "、");
         }
     }
-}
-*/
+}*/
 
 //1.2.II 使用Object接收接口对象
 
