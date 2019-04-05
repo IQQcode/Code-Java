@@ -66,6 +66,7 @@ public class FileTest1 {
 
 
 /**
+ *@public File[] listFiles()
  *
  * 列出文件目录下的所有内容(第一级信息)
  *
@@ -76,15 +77,73 @@ public class FileTest1 {
 public class FileTest1 {
     public static void main(String[] args) {
         File file = new File(File.separator + "F:" + File.separator + "IDEA");
-        //保证目录存在
-        if(file.exists() && file.isDirectory()) {
-            //列出目录中的全部内容
-            File[] result = file.listFiles();
-            for(File file1 : result) {
-                System.out.println(file1);
+
+        //将 I/O 操作放在子线程中进行
+        new Thread(()->{
+            long start = System.currentTimeMillis();
+            listAllFiles(file);
+            long end = System.currentTimeMillis();
+            System.out.println("桌面文件遍历结束，共耗时： " + (end - start) + "毫秒");
+        }).start();
+        System.out.println("main线程结束");
+    }
+
+    public static void listAllFiles(File file) {
+        if(file.isFile()) {
+            System.out.println(file);
+        }else {
+            if(file.exists() && file.isDirectory()) {
+                //列出该目录的文件夹组成
+                File[] files = file.listFiles();
+                for(File file1 : files) {
+                    //递归调用，进入子目录直至全部列举完该文件夹
+                    listAllFiles(file1);
+                }
             }
         }
     }
-
-
 }
+
+
+/*
+public class FileTest1 {
+    public static void main(String[] args) {
+        File file = new File("F:" + File.separator + "IDEA");
+        //多线程，异步遍历
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                int level = 0;
+                System.out.println(file.getName());
+                listFiles(file,level + 1);
+            }
+        }).start();
+        System.out.println("main方法执行代码");
+    }
+
+    public static String computerPrefix(int level) {
+       StringBuilder msg = new StringBuilder("|");
+       for(int i =0; i < level; i++) {
+           msg.append("-");
+       }
+       return msg.toString();
+    }
+
+    public static void listFiles(File file,int level) {
+        if(file.isDirectory()) {
+            //file对象下的所有目录及文件夹列出来
+            File[] files = file.listFiles();
+            if(file != null) {
+                for(File f : files) {
+                    System.out.println(computerPrefix(level) + file.getName());
+                    if(f.isDirectory()) {
+                        listFiles(f, level + 1);
+                    }else {
+                        System.out.println(computerPrefix(level) + file.getName());
+                    }
+                }
+            }
+        }
+    }
+}
+*/

@@ -31,12 +31,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/Reflect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="167" column="32" lean-forward="true" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+            <state relative-caret-position="6560">
+              <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2356#2357#0" expanded="true" />
-                <element signature="e#2386#2387#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/ReflectClass2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+            <state relative-caret-position="21">
+              <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,7 +90,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java I_O" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -193,14 +191,16 @@
       <workItem from="1553941547913" duration="11533000" />
       <workItem from="1554001393164" duration="20000" />
       <workItem from="1554107473769" duration="7380000" />
+      <workItem from="1554470531773" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41336000" />
+    <option name="totallyTimeSpent" value="41340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.17382812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -251,20 +251,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/Reflect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="167" column="32" lean-forward="true" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+        <state relative-caret-position="6560">
+          <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2356#2357#0" expanded="true" />
-            <element signature="e#2386#2387#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/ReflectClass2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+        <state relative-caret-position="21">
+          <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
