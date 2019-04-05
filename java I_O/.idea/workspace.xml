@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2424c51-bc6d-4418-a3f5-af2d89a2c048" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javase-329/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javase-329/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2424c51-bc6d-4418-a3f5-af2d89a2c048" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="80">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -192,12 +184,12 @@
       <workItem from="1554460761045" duration="32000" />
       <workItem from="1554460863888" duration="2162000" />
       <workItem from="1554463056952" duration="4326000" />
-      <workItem from="1554467896148" duration="2631000" />
+      <workItem from="1554467896148" duration="3115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19729000" />
+    <option name="totallyTimeSpent" value="20213000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,7 +202,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15885417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -266,8 +257,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="80">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
