@@ -32,7 +32,6 @@ public class Class10 {
  * 1.1对象的比较
  */
 
-/*
 class Person {
     private  String name;
     private  int age;
@@ -42,20 +41,16 @@ class Person {
         this.age = age;
     }
 
-*/
-/*
-
+    /**
      * @Override toString();
      * @return
-
-*//*
-
-
+     */
     public String toSting() {
         return "姓名：" + name + ", 年龄：" + age;
     }
 
-    @Override  //覆写equals方法
+    @Override
+    //覆写equals方法
     public boolean equals(Object obj) {
         if(obj == null) {
             return false;
@@ -71,13 +66,10 @@ class Person {
             return false;
         }
 
-        */
-/*传入的对象为Person类对象并且地址不相等
-
-         * 向下转型，将Object类还原为Person类的对象，比较属性值
-         *//*
-
-
+         /**传入的对象为Person类对象并且地址不相等
+          *
+          * 向下转型，将Object类还原为Person类的对象，比较属性值
+          */
         Person per = (Person) obj;
         return per.name.equals(this.name) && per.age == this.age;  //this表示当前对象
     }
@@ -90,7 +82,6 @@ public class Class10 {
         System.out.println(per.equals(per1));
     }
 }
-*/
 
 
 /**

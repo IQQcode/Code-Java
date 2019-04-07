@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c23c4117-36b7-4870-bba7-b9cb42b57dee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reflect/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../工厂模式/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ObjectClass/Class10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObjectClass/Class10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionsFramework_List/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionsFramework_List/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CollectionsFramework_List/src/www/javaSE/List/CollectionsFramework_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CollectionsFramework_List/src/www/javaSE/List/CollectionsFramework_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Class10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/out/production/Reflect/www/javaSE/Reflect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/out/production/Reflect/www/javaSE/Reflect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/src/www/javaSE/Reflect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/src/www/javaSE/Reflect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../工厂模式/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/AlienWare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/ComputerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/SurfaceBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/iPad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/src/Factory_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/../工厂模式/src/www/bit/java/FactoryMethord.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +22,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Class10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+            <state relative-caret-position="200">
+              <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#2490#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../模板设计模式" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -145,14 +136,16 @@
       <workItem from="1552717725882" duration="64000" />
       <workItem from="1553338077698" duration="3613000" />
       <workItem from="1553508376698" duration="28000" />
+      <workItem from="1554610049692" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11536000" />
+    <option name="totallyTimeSpent" value="11769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22526042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -217,8 +210,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Class10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        <state relative-caret-position="200">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#2490#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
