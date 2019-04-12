@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5586ce-6f2d-4e19-8012-368ec736c61e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/www/javaSE/List/CollectionsFramework_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/Home.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/List/CollectionsFramework_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/List/CollectionsFramework_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/Class10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/src/Class10.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,10 +19,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/List/CollectionsFramework_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="160">
+              <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
+                <element signature="e#1059#1060#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,9 +75,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ObjectClass" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,11 +127,18 @@
       <workItem from="1554606141353" duration="105000" />
       <workItem from="1554606434841" duration="10127000" />
       <workItem from="1554635864499" duration="73000" />
+      <workItem from="1554690848136" duration="1407000" />
+      <workItem from="1554693319731" duration="729000" />
+      <workItem from="1554798598947" duration="211000" />
+      <workItem from="1554870344917" duration="383000" />
+      <workItem from="1554870755908" duration="97000" />
+      <workItem from="1554870874690" duration="18000" />
+      <workItem from="1555072915276" duration="45000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10305000" />
+    <option name="totallyTimeSpent" value="13195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -173,10 +180,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/List/CollectionsFramework_List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="160">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
           </folding>
         </state>
       </provider>
