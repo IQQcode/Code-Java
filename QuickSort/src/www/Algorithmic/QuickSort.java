@@ -36,26 +36,3 @@ public class QuickSort {
     }
 }
 
-/*while(i < j) {
-                while(arr[j] >= temp && i < j)
-                    j--;
-                while(arr[i] <= temp && i < j)
-                    i++;
-                if(i < j) {
-                    int tmp = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = temp;
-                }
-            }
-            arr[left] = arr[i];
-            arr[i] = temp;
-            QuickSort(arr,left,i-1);
-            QuickSort(arr,i+1,right);
-             */
-
-
-
-
-
-
-
