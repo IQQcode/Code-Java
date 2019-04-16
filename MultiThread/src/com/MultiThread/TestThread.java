@@ -14,6 +14,7 @@ import java.util.concurrent.FutureTask;
 //一、继承 Thread
 
 
+/*
 class MyThread extends Thread {
     private String title;
     public MyThread(String title) {
@@ -38,10 +39,12 @@ public class TestThread {
     }
 }
 
+*/
 
 
 //二、Runnable接口
 
+/*
 
 class MyThread implements Runnable {
     private String title;
@@ -87,6 +90,7 @@ public class TestThread {
     }
 }
 
+*/
 
 
 //三、Callable实现多线程
