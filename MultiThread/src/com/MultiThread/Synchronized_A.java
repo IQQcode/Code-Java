@@ -30,7 +30,7 @@ package com.MultiThread;
  *  使用synchronized关键字处理有两种模式：同步代码块、同步方法
  */
 
-//同步代码快
+//同步代码块
 
 /*
 class MythreadA implements Runnable {
