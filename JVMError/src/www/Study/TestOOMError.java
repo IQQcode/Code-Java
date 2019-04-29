@@ -3,7 +3,9 @@ package www.Study;
 import java.util.List;
 import java.util.ArrayList;
 
-
+/**
+ * JVM参数 -Xmx20m -Xms20m -XX:+HeapDumpOnOutOfMemoryError
+ */
 public class TestOOMError {
     static class OOMObject{
 
