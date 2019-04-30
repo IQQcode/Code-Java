@@ -2,30 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1010bf8c-e639-4dc3-9a5f-9d51a1da5204" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ObjectClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reflect/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../工厂模式/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../模板设计模式/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../模板设计模式/src/Template/method/Pratise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java I_O/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JVMError/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVMError/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/Class10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/Class10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/Class10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/src/Class10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/out/production/Reflect/www/javaSE/Reflect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/out/production/Reflect/www/javaSE/Reflect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/src/www/javaSE/Reflect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/src/www/javaSE/Reflect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/out/production/Singleton/www/bit/java/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/out/production/Singleton/www/bit/java/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/out/production/Singleton/www/bit/java/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/out/production/Singleton/www/bit/java/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../工厂模式/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/AlienWare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/ComputerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/SurfaceBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/out/production/工厂模式/iPad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../工厂模式/src/Factory_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/../工厂模式/src/www/bit/java/FactoryMethord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../模板设计模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../模板设计模式/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../模板设计模式/src/Template/method/Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../模板设计模式/src/Template/method/Method1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/Class10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/IMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/MessageImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/Class10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/Class10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/IMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/MessageImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/PrintUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/PrintUtil.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/Study/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="49" column="38" lean-forward="true" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+            <state relative-caret-position="1640">
+              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -81,9 +69,10 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Reflect" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ObjectClass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -181,15 +170,18 @@
       <workItem from="1553856074509" duration="942000" />
       <workItem from="1553936929351" duration="1238000" />
       <workItem from="1553938198232" duration="597000" />
+      <workItem from="1556624276740" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5434000" />
+    <option name="totallyTimeSpent" value="6045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
+      <window_info id="Alibaba Cloud Explorer" />
+      <window_info id="Learn" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.12890625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -197,6 +189,8 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3294271" />
@@ -210,6 +204,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3294271" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -228,8 +223,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/www/Study/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="49" column="38" lean-forward="true" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        <state relative-caret-position="1640">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
         </state>
       </provider>
     </entry>
