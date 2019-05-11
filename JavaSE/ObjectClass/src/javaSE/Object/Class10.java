@@ -4,34 +4,37 @@ package javaSE.Object;
  * 一、Object类
  * 二、包装类
  */
+/*
 
-/*class Person {
+class Person1 {
     private String thing;
     private  int age;
-    public Person(int age,String thing) {
+    public Person1(int age,String thing) {
         this. thing = thing;
         this.age = age;
     }
 
-    //覆写String方法来输出对象内容,否则输出的是 Class类名称和地址
     public String toString() {
-        return age + " 了" + thing;
+        return "今年" + this.age + "了，应该" + this.thing;
     }
 }
 
 public class Class10 {
     public static void main(String[] args) {
-       fun(new Person(20,"要好好学习！"));
+        fun1(new Person1(20,"好好学习！不能断断续续假装努力..."));
     }
 
-    public static void fun(Object obj) {
+    public static void fun1(Object obj) {
         System.out.println(obj.toString());
     }
-}*/
+}
+*/
 
 
 /**
  * 1.1对象的比较
+ *
+ * 覆写 equals方法
  */
 
 class Person {

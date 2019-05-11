@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c6aa297-ed6c-47cb-90e9-f0ef61a9320a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Experiment6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectClass/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/META-INF/ObjectClass.kotlin_module" beforeDir="false" />
@@ -12,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/javaSE/Object/UnderStandObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/out/production/ObjectClass/javaSE/Object/UnderStandObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectClass/src/javaSE/Object/Class10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/src/javaSE/Object/Class10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectClass/src/javaSE/Object/UnderStandObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/src/javaSE/Object/UnderStandObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java返回数组的方法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java返回数组的方法/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaClass/Section11/TriangleFromSimpleGeometricObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="400">
               <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -41,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaClass/Section11/PersonCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
+            <state relative-caret-position="635">
               <caret line="292" column="1" selection-start-line="292" selection-start-column="1" selection-end-line="292" selection-end-column="1" />
               <folding>
                 <element signature="e#2451#2452#0" expanded="true" />
@@ -56,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaClass/Section11/package-info.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1000">
@@ -107,8 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,13 +140,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/Code-and-Notes/Code/ExpermentSectiob11" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -211,11 +215,13 @@
       <workItem from="1557130146797" duration="3170000" />
       <workItem from="1557143260484" duration="51000" />
       <workItem from="1557152729883" duration="428000" />
+      <workItem from="1557201996424" duration="48000" />
+      <workItem from="1557402034073" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9314000" />
+    <option name="totallyTimeSpent" value="9381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -260,9 +266,16 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/JavaClass/Section11/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaClass/Section11/TriangleFromSimpleGeometricObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="400">
           <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -276,7 +289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaClass/Section11/PersonCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
+        <state relative-caret-position="635">
           <caret line="292" column="1" selection-start-line="292" selection-start-column="1" selection-end-line="292" selection-end-column="1" />
           <folding>
             <element signature="e#2451#2452#0" expanded="true" />
@@ -284,13 +297,6 @@
             <element signature="e#4384#4385#0" expanded="true" />
             <element signature="e#4412#4413#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaClass/Section11/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>

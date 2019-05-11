@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c23c4117-36b7-4870-bba7-b9cb42b57dee" name="Default" comment="" />
+    <list default="true" id="c23c4117-36b7-4870-bba7-b9cb42b57dee" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObjectClass/META-INF/ObjectClass.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/Class10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/Class10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/Person1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/Student2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/UnderStandObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObjectClass/javaSE/Object/UnderStandObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaSE/Object/Class10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSE/Object/Class10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaSE/Object/UnderStandObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSE/Object/UnderStandObject.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,38 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javaSE/Object/Class10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3120">
-              <caret line="80" column="44" selection-start-line="80" selection-start-column="44" selection-end-line="80" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaSE/Object/UnderStandObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="101">
+              <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
               <folding>
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSE/Object/UnderStandObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21040">
-              <caret line="553" column="7" selection-start-line="553" selection-start-column="7" selection-end-line="553" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#25830#0" expanded="true" />
-                <element signature="e#5748#5749#0" expanded="true" />
-                <element signature="e#5784#5785#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="880">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -60,14 +57,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Class10.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/Object/Class10.java" />
         <option value="$PROJECT_DIR$/src/javaSE/Object/UnderStandObject.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/Object/Class10.java" />
       </list>
     </option>
   </component>
@@ -128,7 +125,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MultiThread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeWorkSection11" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -148,7 +145,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UnderStandObject">
+  <component name="RunManager" selected="Application.Class10 (1)">
+    <configuration name="Class10 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSE.Object.Class10" />
+      <module name="ObjectClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaSE.Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Class10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class10" />
       <module name="ObjectClass" />
@@ -195,6 +206,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class10 (1)" />
         <item itemvalue="Application.UnderStandObject" />
         <item itemvalue="Application.Class10" />
       </list>
@@ -221,11 +233,13 @@
       <workItem from="1556623377402" duration="896000" />
       <workItem from="1556628843190" duration="1190000" />
       <workItem from="1556689731089" duration="21000" />
+      <workItem from="1557143314782" duration="4696000" />
+      <workItem from="1557152710102" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16822000" />
+    <option name="totallyTimeSpent" value="21534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -241,7 +255,7 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3372396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5338542" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,16 +300,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Class10.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaSE/Object/Class10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="80" column="44" selection-start-line="80" selection-start-column="44" selection-end-line="80" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21040">
+        <state relative-caret-position="635">
           <caret line="553" column="7" selection-start-line="553" selection-start-column="7" selection-end-line="553" selection-end-column="7" />
           <folding>
             <element signature="e#0#25830#0" expanded="true" />
@@ -305,14 +312,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/Object/Class10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+          <folding>
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSE/Object/UnderStandObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="880">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>

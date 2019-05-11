@@ -4,15 +4,25 @@ package javaSE.Object;
  * 使用Object 接收所有类的对象
  */
 
-class Person1 { }
-class Student2 { }
+
+
+class Student {
+    private String name;
+    private int age;
+    public Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+    @Override
+    public String toString() {
+        return "姓名：" + this.name + " 年龄：" + this.age;
+    } }
 public class UnderStandObject {
     public static void main(String[] args) {
-        // 等价于Object obj = new Object();
-        fun(new Person1());
-        fun(new Student2());
-    }
-    public static void fun(Object obj) {
-        System.out.println(obj);
+      Student stu1 = new Student("张三",20);
+      Student stu2 = new Student("张三",20);
+        System.out.println(stu1.equals(stu2));
     }
 }
+
+
