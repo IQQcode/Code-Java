@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2424c51-bc6d-4418-a3f5-af2d89a2c048" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JVMError/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JVMError/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/Class10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/Class10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/IMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/src/MessageImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/out/production/Singleton/Pratise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/out/production/Singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java I_O/META-INF/java I_O.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/PrintUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/PrintUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,20 +51,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="4" selection-start-line="4" selection-end-line="5" />
+            <state relative-caret-position="4983">
+              <caret line="154" column="5" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2680">
-              <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+            <state relative-caret-position="-190">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -62,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1280">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="1023">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -71,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/PrintUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1760">
-              <caret line="54" column="76" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
+            <state relative-caret-position="1749">
+              <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -80,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/System_IO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1480">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="429">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,17 +112,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" />
         <option value="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamAndSystem.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" />
         <option value="$PROJECT_DIR$/src/www/javaSE/IO/System_IO.java" />
         <option value="$PROJECT_DIR$/src/www/javaSE/IO/PrintUtil.java" />
+        <option value="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" />
+        <option value="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" />
+        <option value="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" />
       </list>
     </option>
   </component>
@@ -129,7 +142,39 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java I_O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java I_O" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java I_O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java I_O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java I_O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java I_O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java I_O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java I_O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IO" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintUtil.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -141,10 +186,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintUtil">
+  <component name="RunManager" selected="Application.FileTest1">
     <configuration name="FileTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="www.javaSE.IO.FileTest1" />
       <module name="java I_O" />
@@ -226,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintUtil" />
-        <item itemvalue="Application.System_IO" />
+        <item itemvalue="Application.FileTest1" />
         <item itemvalue="Application.PrintStreamIO" />
         <item itemvalue="Application.FileTest2" />
-        <item itemvalue="Application.FileTest1" />
+        <item itemvalue="Application.PrintUtil" />
+        <item itemvalue="Application.System_IO" />
       </list>
     </recent_temporary>
   </component>
@@ -257,11 +303,23 @@
       <workItem from="1554604726638" duration="850000" />
       <workItem from="1556591061300" duration="786000" />
       <workItem from="1556611650749" duration="45000" />
+      <workItem from="1557924817527" duration="72000" />
+      <workItem from="1557925012057" duration="12000" />
+      <workItem from="1557925372297" duration="682000" />
+      <workItem from="1558020585800" duration="156000" />
+      <workItem from="1558228373575" duration="3725000" />
+      <workItem from="1558233570597" duration="25000" />
+      <workItem from="1558235202484" duration="3478000" />
+      <workItem from="1558267008445" duration="400000" />
+      <workItem from="1558267679134" duration="19000" />
+      <workItem from="1558323323765" duration="1894000" />
+      <workItem from="1558329430565" duration="3270000" />
+      <workItem from="1558362367810" duration="645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44541000" />
+    <option name="totallyTimeSpent" value="58919000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,20 +332,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19140625" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.1484375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24283855" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" weight="0.15147454" />
+      <window_info id="Favorites" order="6" sideWeight="0.5013405" side_tool="true" weight="0.16957104" />
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4127604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.80078125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,10 +353,11 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50065106" side_tool="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50065106" side_tool="true" weight="0.32707775" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49934897" weight="0.328125" />
       <window_info anchor="bottom" id="CheckStyle" order="13" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
+      <window_info anchor="bottom" id="Tail" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -315,95 +373,77 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/OutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3146">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/color/CMMException.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/OutputStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/color/CMMException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Scanner.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/nio/fs/AbstractAclFileAttributeView.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/AbstractAction.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/软件测试">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java IO ---打印流和System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
+        <state relative-caret-position="-495" />
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="303" column="19" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/nio/fs/AbstractAclFileAttributeView.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/AbstractAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/java I_O.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2680">
-          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+        <state relative-caret-position="4983">
+          <caret line="154" column="5" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1280">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="1023">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/PrintUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="54" column="76" selection-start-line="54" selection-start-column="76" selection-end-line="54" selection-end-column="76" />
+        <state relative-caret-position="1749">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/System_IO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1480">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="429">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>

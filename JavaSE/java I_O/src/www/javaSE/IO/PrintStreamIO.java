@@ -10,7 +10,7 @@ import  java.io.*;
 
 
 public class PrintStreamIO {
-    public static void main(String[] args) throws  Exception {
+    public static void main(String[] args) throws Exception {
         String str = "hellow world!";
         //1.取得终端对象以及输入输出流
         ByteArrayInputStream byteArrayInputStream =

@@ -48,10 +48,11 @@ public class FileTest1 {
         //1.取得File对象  C:\Users\HASEE\Desktop
 
         File file = new File(File.separator + "C:" + File.separator +
-                "Users" + File.separator + "HASEE" + File.separator + "Desktop"
+                "Users" + File.separator + "j2726" + File.separator + "Desktop"
                 + File.separator + "0.jpg");
 
-        if(file.exists() && file.isFile()) {
+        if(file.exists() && file.isFile()) { //保证文件存在，且一定是文件
+
             System.out.println(file.length()/1024 + "kb");
             Date date = new Date(file.lastModified());
             SimpleDateFormat simpleDateFormat =
@@ -73,7 +74,7 @@ public class FileTest1 {
  * 递归打印当前目录下所有层级的文件信息
  */
 
-
+/*
 public class FileTest1 {
     public static void main(String[] args) {
         File file = new File(File.separator + "F:" + File.separator + "IDEA");
@@ -83,7 +84,8 @@ public class FileTest1 {
             long start = System.currentTimeMillis();
             listAllFiles(file);
             long end = System.currentTimeMillis();
-            System.out.println("桌面文件遍历结束，共耗时： " + (end - start) + "毫秒");
+            System.out.println("桌面文件遍历结束，共耗时： "
+            + (end - start) + "毫秒");
         }).start();
         System.out.println("main线程结束");
     }
@@ -103,19 +105,24 @@ public class FileTest1 {
         }
     }
 }
+*/
 
 
-/*
 public class FileTest1 {
     public static void main(String[] args) {
-        File file = new File("F:" + File.separator + "IDEA");
+        File file = new File("F:" + File.separator +
+                "Code-Java" + File.separator + "JavaSE");
         //多线程，异步遍历
         new Thread(new Runnable() {
             @Override
             public void run() {
                 int level = 0;
+                long start = System.currentTimeMillis();
                 System.out.println(file.getName());
                 listFiles(file,level + 1);
+                long end = System.currentTimeMillis();
+                System.out.println("桌面文件遍历结束，共耗时： "
+                        + (end - start) + "毫秒");
             }
         }).start();
         System.out.println("main方法执行代码");
@@ -135,7 +142,8 @@ public class FileTest1 {
             File[] files = file.listFiles();
             if(file != null) {
                 for(File f : files) {
-                    System.out.println(computerPrefix(level) + file.getName());
+                    System.out.println(computerPrefix(level) +
+                            file.getName());
                     if(f.isDirectory()) {
                         listFiles(f, level + 1);
                     }else {
@@ -146,4 +154,4 @@ public class FileTest1 {
         }
     }
 }
-*/
+
