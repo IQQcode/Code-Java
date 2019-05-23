@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7401cebb-9e9f-458f-ba59-0a00cacfcc80" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Stack/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/META-INF/java I_O.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/PrintUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/PrintUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/PrintStreamIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/PrintStreamIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/www/bit/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="e#1519#1520#0" expanded="true" />
                 <element signature="e#1577#1578#0" expanded="true" />
@@ -67,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/bit/java/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1518">
-              <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+            <state relative-caret-position="132">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -151,7 +138,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java I_O" />
+    <property name="last_opened_file_path" value="F:/Code-and-Notes/Code/ExperimentSection13.11" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -278,23 +265,24 @@
       <workItem from="1553855777583" duration="27000" />
       <workItem from="1553938181243" duration="15000" />
       <workItem from="1558325589505" duration="2074000" />
+      <workItem from="1558433566174" duration="874000" />
+      <workItem from="1558492706385" duration="694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17944000" />
+    <option name="totallyTimeSpent" value="19512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16015625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14192708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3297587" />
-      <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
@@ -308,6 +296,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32987013" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -332,7 +321,7 @@
     <entry file="file://$PROJECT_DIR$/src/www/bit/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#1519#1520#0" expanded="true" />
             <element signature="e#1577#1578#0" expanded="true" />
@@ -342,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/bit/java/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+        <state relative-caret-position="132">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>

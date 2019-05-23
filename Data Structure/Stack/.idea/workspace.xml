@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fae99e7-69ef-412b-8473-eda440697631" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/META-INF/java I_O.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/FileTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/PrintUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/out/production/java I_O/www/javaSE/IO/PrintUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/FileTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/PrintStreamIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/src/www/javaSE/IO/PrintStreamIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSE/Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/Singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSE/java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/java I_O/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,23 +21,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
+            <state relative-caret-position="561">
               <caret line="17" column="18" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/ArrayStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+            <state relative-caret-position="231">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1112#1113#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1198#1199#0" expanded="true" />
+                <element signature="e#1467#1468#0" expanded="true" />
+                <element signature="e#1502#1503#0" expanded="true" />
+                <element signature="e#1548#1549#0" expanded="true" />
+                <element signature="e#1588#1589#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,21 +46,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/LinkedStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1034">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding>
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1266#1267#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="33">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="561">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,8 +83,8 @@
         <option value="$PROJECT_DIR$/src/javaSE/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/javaSE/dataStruct/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/LinkedStack.java" />
-        <option value="$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/ArrayStack.java" />
         <option value="$PROJECT_DIR$/src/javaSE/dataStruct/stack/Test.java" />
+        <option value="$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/ArrayStack.java" />
       </list>
     </option>
   </component>
@@ -124,6 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,26 +128,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Stack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java I_O" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -213,14 +191,25 @@
       <updated>1558313691496</updated>
       <workItem from="1558313694352" duration="1117000" />
       <workItem from="1558315034575" duration="6254000" />
+      <workItem from="1558368180529" duration="496000" />
+      <workItem from="1558423186140" duration="95000" />
+      <workItem from="1558521247038" duration="250000" />
+      <workItem from="1558521528252" duration="4000" />
+      <workItem from="1558528605787" duration="86000" />
+      <workItem from="1558528836853" duration="679000" />
+      <workItem from="1558529727955" duration="150000" />
+      <workItem from="1558529964946" duration="13000" />
+      <workItem from="1558531600083" duration="139000" />
+      <workItem from="1558613887058" duration="219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7371000" />
+    <option name="totallyTimeSpent" value="9502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1438802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -229,7 +218,6 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3294271" />
@@ -243,6 +231,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -258,44 +247,40 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/LinkedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1034">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1266#1267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/ArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="561">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="561">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSE/dataStruct/stack/impl/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
           </folding>
         </state>
       </provider>

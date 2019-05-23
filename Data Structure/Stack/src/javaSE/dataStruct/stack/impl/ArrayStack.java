@@ -17,6 +17,26 @@ public class ArrayStack<T> implements Stack {
         elementData = new Object[maxsize];
     }
 
+
+    /*
+    @Override
+    public boolean push(Object o) {
+        if(currrentSize == maxsize) {
+            System.err.println("栈已满，无法添加新的元素！！！");
+            return false;
+        }
+        elementData[currrentSize++] = o;
+        return true;
+    }
+    */
+
+
+    /**
+     * 扩容栈
+     * @param o
+     * @return
+     */
+
     @Override
     public boolean push(Object o) {
         if(currrentSize == maxsize) {
@@ -29,9 +49,6 @@ public class ArrayStack<T> implements Stack {
             }
             maxsize = newSize;
             elementData = Arrays.copyOf(elementData,maxsize);
-
-            //System.out.println("栈已满，无法放入新的元素...");
-            //return false;
         }
         elementData[currrentSize++] = o;
         return true;

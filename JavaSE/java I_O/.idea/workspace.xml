@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2424c51-bc6d-4418-a3f5-af2d89a2c048" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorkSection11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/out/production/Singleton/Pratise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/out/production/Singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/META-INF/java I_O.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/PrintUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/PrintUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Learning.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="a2424c51-bc6d-4418-a3f5-af2d89a2c048" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-190">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="2673">
+              <caret line="81" column="19" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -180,7 +160,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Data Structure/Stack" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -315,11 +295,12 @@
       <workItem from="1558323323765" duration="1894000" />
       <workItem from="1558329430565" duration="3270000" />
       <workItem from="1558362367810" duration="645000" />
+      <workItem from="1558367676654" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58919000" />
+    <option name="totallyTimeSpent" value="59414000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="2673">
+          <caret line="81" column="19" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="19" />
         </state>
       </provider>
     </entry>
