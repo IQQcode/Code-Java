@@ -5,7 +5,6 @@ import DataStruct.Queue.impl.ArrayLoopQueue;
 public class TestLoopQueue {
     public static void main(String args[]) {
         //Queue<Integer> queue = new LinkedQueue<>();
-
         Queue<Integer> queue = new ArrayLoopQueue<>(5);
 
         queue.inQueue(1);
