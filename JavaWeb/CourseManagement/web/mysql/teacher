@@ -1,0 +1,12 @@
+CREATE TABLE `teacher` (
+  `teaTno` int(10) NOT NULL AUTO_INCREMENT,
+  `teaSex` varchar(32) NOT NULL,
+  `teaAge` smallint(4) NOT NULL,
+  `teaDept` varchar(32) NOT NULL,
+  `Remin` int(10) NOT NULL,
+  `Total ` int(10) DEFAULT NULL,
+  PRIMARY KEY (`teaTno`)
+  );
+
+
+

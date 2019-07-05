@@ -7,4 +7,4 @@ CREATE TABLE `student` (
   `sgrade` varchar(50) NOT NULL,
   `selected_course` varchar(10) DEFAULT NULL,
   PRIMARY KEY (`sid`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+);

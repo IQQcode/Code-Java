@@ -5,12 +5,11 @@
   Time: 9:51
   To change this template use File | Settings | File Templates.
 --%>
-<!-- JSTL1.1 的声明是： -->
 
-<%@page import="java.sql.ResultSet"%>
-<%@page import="java.sql.PreparedStatement"%>
-<%@page import="java.sql.DriverManager"%>
-<%@page import="java.sql.Connection"%>
+<!--学生选课主页
+-->
+
+<!-- JSTL1.1 的声明是： -->
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page contentType="text/html; ISO-8859-1" language="java" import="java.util.*" pageEncoding="utf-8" %>
 <%
@@ -34,7 +33,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!--<link rel="stylesheet" type="text/css" href="pages/css/studentIndex.css">  -->
 
-    <script type="text/javascript" src="../href/jquery-3.4.0.js"></script>
+    <script type="text/javascript" src="href/jquery-3.4.0.js"></script>
     <script type="text/javascript">
         //选择课程
         $(document).ready(
@@ -47,7 +46,7 @@
                     console.log(remainNum);
                     if (!(remainNum == "0")) {
                         $.ajax({
-                            url:"http://localhost:8080/CourseManagement/RemainAddServlet",    //请求的url地址
+                            url:"http://localhost:8080/ db_course_management/RemainAddServlet",    //请求的url地址
                             dataType:"json",    //返回格式为json
                             async:true,    //请求是否异步，默认为异步，这也是ajax重要特性
                             data:{"id":$(this).attr("id")},    //参数值
@@ -80,7 +79,7 @@
 </head>
 
 <body>
-<header><a style="flow :right" href="../index.jsp">退出登录</a></header>
+<header><a style="flow :right" href="index.jsp">退出登录</a></header>
 <h3>学生选课界面</h3>
 <form action="SearchServlet" method="post">
     查找：<input type="text" name="search" value=<%=request.getParameter("search") == null?"":request.getParameter("search")%> >
@@ -124,4 +123,3 @@
 </frameset>
 </body>
 </html>
-

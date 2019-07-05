@@ -5,12 +5,11 @@
   Time: 9:51
   To change this template use File | Settings | File Templates.
 --%>
-<!-- JSTL1.1 的声明是： -->
 
-<%@page import="java.sql.ResultSet"%>
-<%@page import="java.sql.PreparedStatement"%>
-<%@page import="java.sql.DriverManager"%>
-<%@page import="java.sql.Connection"%>
+<!--学生选课主页
+-->
+
+<!-- JSTL1.1 的声明是： -->
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page contentType="text/html; ISO-8859-1" language="java" import="java.util.*" pageEncoding="utf-8" %>
 <%
@@ -47,7 +46,7 @@
                     console.log(remainNum);
                     if (!(remainNum == "0")) {
                         $.ajax({
-                            url:"http://localhost:8080/CourseManagement/RemainAddServlet",    //请求的url地址
+                            url:"http://localhost:8080/ db_course_management/RemainAddServlet",    //请求的url地址
                             dataType:"json",    //返回格式为json
                             async:true,    //请求是否异步，默认为异步，这也是ajax重要特性
                             data:{"id":$(this).attr("id")},    //参数值
@@ -124,4 +123,3 @@
 </frameset>
 </body>
 </html>
-

@@ -11,10 +11,12 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class StudentDao extends Dbutil {
+
     Connection conn =null;
+
     public StudentDao() {
+
         try {
             conn= super.getConnection();
         } catch (SQLException e) {
@@ -23,6 +25,7 @@ public class StudentDao extends Dbutil {
         }
     }
 
+
     /**
      * 添加学生用户
      * @param student
@@ -30,10 +33,12 @@ public class StudentDao extends Dbutil {
      */
     public boolean addUser(Student student){
         boolean r = false;
-        String sql = "INSERT INTO student(sid,sname,spassword,smajor,sclass,sgrade) VALUES(?,?,?,?,?,?);";
+
+        String sql = "INSERT INTO student(sno,sname,spassword,smajor,sclass,sgrade) VALUES(?,?,?,?,?,?);";
+
         try{
 
-            int num = this.executeUpdate(sql,new String[]{student.getId(),student.getName(),student.getPasswd(),student.getMajor(),student.getSclass(),student.getGrade()});
+            int num = this.executeUpdate(sql,new String[]{student.getNo(),student.getName(),student.getPasswd(),student.getMajor(),student.getSclass(),student.getGrade()});
             if(num > 0){
                 r = true;
 
@@ -45,6 +50,6 @@ public class StudentDao extends Dbutil {
         }
         return r;
     }
-}
 
+}
 

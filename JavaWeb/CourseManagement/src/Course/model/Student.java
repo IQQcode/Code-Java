@@ -2,37 +2,44 @@ package Course.model;
 
 /**
  * 学生实体类
- * @author Course
+ * @author Mr.Q
  *
  */
-
 public class Student {
 
-    String id;
+    String no;
     String name;
-    String password;
+    String passwd;
     String major;
     String grade;
     String sclass;
     String selectedCourse;
 
 
-    public Student() {  }
+    public Student() {
+
+    }
+
+
 
     public String getSelectedCourse() {
         return selectedCourse;
     }
 
+
+
     public void setSelectedCourse(String cid) {
         this.selectedCourse = cid;
     }
 
-    public String getId() {
-        return id;
+
+
+    public String getNo() {
+        return no;
     }
 
-    public void setId(String id) {
-        this.id = id;
+    public void setNo(String no) {
+        this.no = no;
     }
 
     public String getName() {
@@ -44,11 +51,11 @@ public class Student {
     }
 
     public String getPasswd() {
-        return password;
+        return passwd;
     }
 
-    public void setPassword(String password) {
-        this.password = password;
+    public void setPasswd(String passwd) {
+        this.passwd = passwd;
     }
 
     public String getMajor() {
@@ -74,4 +81,6 @@ public class Student {
     public void setSclass(String sclass) {
         this.sclass = sclass;
     }
+
+
 }

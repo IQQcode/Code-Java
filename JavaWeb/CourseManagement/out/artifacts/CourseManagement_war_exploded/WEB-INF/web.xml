@@ -5,14 +5,10 @@
          version="4.0">
 
     <display-name>CourseManagement</display-name>
-    <error-page>
-        <error-code>404</error-code>
-        <location>/404.jsp</location>
-    </error-page>
-    <error-page>
-        <error-code>500</error-code>
-        <location>/500.jsp</location>
-    </error-page>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
 
 </web-app>
 

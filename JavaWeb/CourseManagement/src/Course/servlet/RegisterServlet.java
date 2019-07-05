@@ -3,43 +3,60 @@ package Course.servlet;
 import Course.Dao.StudentDao;
 import Course.model.Student;
 
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.sql.Connection;
-import java.sql.SQLException;
-import static java.lang.System.out;
 
 @WebServlet("/RegisterServlet")
 public class RegisterServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
     public RegisterServlet() {
+
         super();
+        // TODO Auto-generated constructor stub
     }
 
-    @Override
+    /**
+     * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+     */
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        // TODO Auto-generated method stub
         doPost(request,response);
     }
-    public void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {
+
+    /**
+     * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+     */
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        // TODO Auto-generated method stub
         request.setCharacterEncoding("utf-8");
         response.setContentType("text/html;charset = utf-8");
-        String userid = request.getParameter("userId");
-        String username = request.getParameter("uerName");
-        String userpassword = request.getParameter("userPassword");
+        String userno = request.getParameter("userNo");
+        String username = request.getParameter("userName");
+        String userpass = request.getParameter("password");
         String major = request.getParameter("major");
         String grade = request.getParameter("grade");
         String sclass = request.getParameter("sclass");
+        PrintWriter out = response.getWriter();
 
         Student user = new Student();
-        user.setId(userid);
+        user.setNo(userno);
         user.setName(username);
-        user.setPassword(userpassword);
+        user.setPasswd(userpass);
         user.setMajor(major);
         user.setGrade(grade);
         user.setSclass(sclass);
@@ -47,7 +64,7 @@ public class RegisterServlet extends HttpServlet {
         StudentDao dao = new StudentDao();
         try {
             Connection conn = dao.getConnection();
-            if(conn != null) {
+            if(conn!=null) {
                 out.print("conn is not null");
             }
             if(dao.addUser(user)){
@@ -57,8 +74,8 @@ public class RegisterServlet extends HttpServlet {
             else{
                 out.print("注册失败！");
             }
-
         } catch (SQLException e) {
+            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }
