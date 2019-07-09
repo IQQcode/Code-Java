@@ -16,23 +16,15 @@ public class Student {
     String selectedCourse;
 
 
-    public Student() {
-
-    }
-
-
+    public Student() { }
 
     public String getSelectedCourse() {
         return selectedCourse;
     }
 
-
-
     public void setSelectedCourse(String cid) {
         this.selectedCourse = cid;
     }
-
-
 
     public String getNo() {
         return no;
@@ -81,6 +73,4 @@ public class Student {
     public void setSclass(String sclass) {
         this.sclass = sclass;
     }
-
-
 }

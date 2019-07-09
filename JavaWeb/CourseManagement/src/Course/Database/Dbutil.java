@@ -7,7 +7,6 @@ import java.sql.*;
  */
 
 public class Dbutil {
-
     //数据库驱动
     private String driver="com.mysql.jdbc.Driver";
     private String url = "jdbc:mysql://localhost:3306/db_course_management?useUnicode=true&characterEncoding=utf8";
@@ -35,7 +34,6 @@ public class Dbutil {
         }//加载驱动
         return conn;
     }
-
     //执行sql语句，可以进行查询
     /**
      * statement 用于执行静态SQL语句并返回其生成的结果的对象

@@ -27,9 +27,9 @@
 <body>
 <center>
   <h2>欢迎进入选课系统</h2>
-  <a href="page/login.jsp">学生登录</a>
-  <a href="page/regist.jsp">学生注册</a>
-  <a href="page/admin.jsp">管理员登录</a>
+  <a href="login.jsp">学生登录</a>
+  <a href="regist.jsp">学生注册</a>
+  <a href="admin.jsp">管理员登录</a>
 </center>
 </body>
 </html>

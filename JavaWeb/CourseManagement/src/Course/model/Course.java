@@ -4,7 +4,6 @@ package Course.model;
  * 课程
  *
  * @author Mr.Q
- *
  */
 public class Course {
 
@@ -17,9 +16,7 @@ public class Course {
     String courseTime;
     String courseTimelength;
 
-    public Course() {
-
-    }
+    public Course() { }
 
     public int getCourseId() {
         return courseId;
@@ -84,7 +81,4 @@ public class Course {
     public void setCourseTimelength(String courseTimelength) {
         this.courseTimelength = courseTimelength;
     }
-
-
-
 }
