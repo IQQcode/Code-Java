@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
  * args 普通方法参数
  */
 
-/*
+
 class Person1 {
     private String name;
 
@@ -27,7 +27,6 @@ public class ReflectClass2 {
         //Person1 per = new Person1();
         //per.setName("张三");
         //System.out.println(per.getName());
-
 
 
 
@@ -52,7 +51,7 @@ public class ReflectClass2 {
     private static String initCap (String str) {
         return str.substring(0,1).toUpperCase() + str.substring(1);
     }
-}*/
+}
 
 
 /**
@@ -85,9 +84,11 @@ public class ReflectClass2 {
  * *取得属性类型
  */
 
+/*
 class Person2 {
     public Integer age;
 }
+
 
 public class ReflectClass2 {
     public static void main(String[] args) throws  Exception{
@@ -107,3 +108,4 @@ public class ReflectClass2 {
         System.out.println(field.getType());
     }
 }
+ */

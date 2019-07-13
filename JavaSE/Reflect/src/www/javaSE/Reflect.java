@@ -33,8 +33,8 @@ public class Reflect {
 
 /**
  * 取得类的class对象:
- * I.调用 Object提供的 getClass方法
- * II.类名称.class
+ * I.  调用 Object提供的 getClass方法
+ * II. 类名称.class
  * III.调用Class类提供的静态方法 Class.forName(类的全名称);
  */
 

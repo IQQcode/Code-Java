@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/Reflect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6560">
-              <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+            <state relative-caret-position="-3300">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="45" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,13 +41,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/test/reflect/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/javaSE/ReflectClass2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+            <state relative-caret-position="-198">
+              <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/反射笔记温习.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -69,7 +96,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/ReflectClass2.java" />
         <option value="$PROJECT_DIR$/src/www/javaSE/Reflect.java" />
+        <option value="$PROJECT_DIR$/src/com/test/reflect/User.java" />
         <option value="$PROJECT_DIR$/src/www/javaSE/ReflectClass2.java" />
+        <option value="$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java" />
       </list>
     </option>
   </component>
@@ -84,7 +113,38 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaSE" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -110,14 +170,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reflect">
+  <component name="RunManager" selected="Application.DemoReflect">
+    <configuration name="DemoReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.reflect.DemoReflect" />
+      <module name="Reflect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="www.javaSE.Reflect" />
       <module name="Reflect" />
       <option name="PROGRAM_PARAMETERS" value="name" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="www.javaSE.*" />
+          <option name="PATTERN" value="com.test.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,7 +205,7 @@
       <option name="PROGRAM_PARAMETERS" value="name" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="www.javaSE.*" />
+          <option name="PATTERN" value="com.test.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,9 +238,11 @@
     <list>
       <item itemvalue="Application.Reflect" />
       <item itemvalue="Application.ReflectClass2" />
+      <item itemvalue="Application.DemoReflect" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoReflect" />
         <item itemvalue="Application.Reflect" />
         <item itemvalue="Application.ReflectClass2" />
       </list>
@@ -192,33 +268,36 @@
       <workItem from="1554001393164" duration="20000" />
       <workItem from="1554107473769" duration="7380000" />
       <workItem from="1554470531773" duration="4000" />
+      <workItem from="1562993460888" duration="1127000" />
+      <workItem from="1563003961905" duration="43000" />
+      <workItem from="1563004042113" duration="2673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41340000" />
+    <option name="totallyTimeSpent" value="45183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17382812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17382812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294271" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32509753" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3294271" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32899868" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3294271" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -232,27 +311,68 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="aiXcoder" order="10" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17382812" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Tail" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32769832" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32899868" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3294271" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="aiXcoder" order="10" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Packages/903DB504.QQ_a99ra4d2cbcxa/LocalState/User/2726109782/NetworkFile/0317下午笔记.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/903DB504.QQ_a99ra4d2cbcxa/LocalState/User/2726109782/NetworkFile/0317下午笔记.java" />
     <entry file="file://$PROJECT_DIR$/src/ReflectClass2.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java" />
+    <entry file="file://$PROJECT_DIR$/反射笔记温习.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="1702" column="18" selection-start-line="1702" selection-start-column="18" selection-end-line="1702" selection-end-column="18" />
+        <state relative-caret-position="780">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/reflect/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/Reflect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6560">
-          <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+        <state relative-caret-position="-3300">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="45" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -261,11 +381,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/javaSE/ReflectClass2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
+        <state relative-caret-position="-198">
+          <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
