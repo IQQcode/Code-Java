@@ -160,6 +160,7 @@ public class Reflect {
         Class<Person> cls = Person.class;
 
         //取得有参构造
+        //构造函数参数类型.class
         Constructor constructor = cls.getConstructor(String.class,int.class);
 
         //实例化对象
