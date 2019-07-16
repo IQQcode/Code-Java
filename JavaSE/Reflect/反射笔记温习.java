@@ -1,5 +1,7 @@
+Class类:描述接口与类的组成,Class对象由JVM在第一次加载类时产生，并且全局唯一
 
-一、取得class类的对象：
+
+一、取得任意类的class对象：
 
 1.调用Object类提供的getClass()方法
 2.类名.class
@@ -7,20 +9,19 @@
 
 Data date = new Date();//正向处理
 
-Class<Date> cls = (Class<Date>) date.getClass();
+Class<Date> cls = (Class<Date>) date.getClass(); //取得Date()对象的Class对象
 
 Date.class;
 
 Class cls = Class.forName("java.util.Date")
 
 
-二、通过反射实例化对象：
+二、newInstance()----> 通过反射产生类的实例化对象：
 
-     Class<Date> cls = Date.class;
+ * 1.取得Date类的Class对象:
 
- * 1.取得Date类对象:
-
-        Date date = cls.newInstance();
+        Class<Date> cls = Date.class;  //取得Date类的class对象
+        Date date = cls.newInstance(); //newInstance()实例化对象
         System.out.println(date);
 
  * 2.取得包名：
