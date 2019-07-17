@@ -28,34 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/EmpAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/BeanUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2607#2608#0" expanded="true" />
-                <element signature="e#2679#2680#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pattern/ReflectFactoryPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="-420">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pattern/SimpleFactoryPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -79,19 +65,19 @@
         <option value="$PROJECT_DIR$/src/www/javaSE/ReflectClass2.java" />
         <option value="$PROJECT_DIR$/src/www/javaSE/Reflect.java" />
         <option value="$PROJECT_DIR$/src/com/test/reflect/User.java" />
-        <option value="$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java" />
         <option value="$PROJECT_DIR$/反射笔记温习.java" />
         <option value="$PROJECT_DIR$/src/com/pattern/SimpleFactoryPattern.java" />
         <option value="$PROJECT_DIR$/src/com/pattern/ReflectFactoryPattern.java" />
         <option value="$PROJECT_DIR$/src/com/javaSE/Reflect.java" />
         <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect.java" />
-        <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect1.java" />
-        <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect2.java" />
         <option value="$PROJECT_DIR$/src/com/ReflectApply/Emp.java" />
         <option value="$PROJECT_DIR$/src/com/LearingReflect/ReflectClass3.java" />
         <option value="$PROJECT_DIR$/src/com/ReflectApply/EmpAction.java" />
         <option value="$PROJECT_DIR$/src/com/ReflectApply/BeanUtil.java" />
         <option value="$PROJECT_DIR$/src/com/ReflectApply/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect1.java" />
+        <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect2.java" />
+        <option value="$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java" />
       </list>
     </option>
   </component>
@@ -144,7 +130,16 @@
               <item name="Reflect" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ReflectApply" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="ReflectFactoryPattern.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="SimpleFactoryPattern.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -177,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.DemoReflect">
     <configuration name="DemoReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.reflect.DemoReflect" />
       <module name="Reflect" />
@@ -192,13 +187,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.javaSE.Reflect" />
+    <configuration name="Reflect1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LearingReflect.Reflect1" />
       <module name="Reflect" />
-      <option name="PROGRAM_PARAMETERS" value="name" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.reflect.*" />
+          <option name="PATTERN" value="com.LearingReflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reflect2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LearingReflect.Reflect2" />
+      <module name="Reflect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LearingReflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,20 +217,6 @@
     </configuration>
     <configuration name="ReflectFactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pattern.ReflectFactoryPattern" />
-      <module name="Reflect" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleFactoryPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pattern.SimpleFactoryPattern" />
       <module name="Reflect" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -271,19 +266,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Reflect" />
-      <item itemvalue="Application.DemoReflect" />
-      <item itemvalue="Application.SimpleFactoryPattern" />
       <item itemvalue="Application.ReflectFactoryPattern" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Reflect1" />
+      <item itemvalue="Application.Reflect2" />
+      <item itemvalue="Application.DemoReflect" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoReflect" />
+        <item itemvalue="Application.Reflect2" />
+        <item itemvalue="Application.Reflect1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ReflectFactoryPattern" />
-        <item itemvalue="Application.SimpleFactoryPattern" />
-        <item itemvalue="Application.DemoReflect" />
-        <item itemvalue="Application.Reflect" />
       </list>
     </recent_temporary>
   </component>
@@ -315,16 +310,18 @@
       <workItem from="1563195029060" duration="8032000" />
       <workItem from="1563237511274" duration="12188000" />
       <workItem from="1563267505061" duration="1802000" />
+      <workItem from="1563321919555" duration="6672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68258000" />
+    <option name="totallyTimeSpent" value="74930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18880208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20182292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +330,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32769832" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.313394" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5110533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,31 +399,40 @@
     <entry file="file://$PROJECT_DIR$/Reflect.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/反射笔记温习.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/Emp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-994">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state>
+          <caret column="24" selection-start-column="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pattern/SimpleFactoryPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/Reflect1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/Reflect2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2358">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/反射笔记温习.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="1" lean-forward="true" selection-end-line="36" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/reflect/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="900">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
+            <element signature="e#161#162#0" expanded="true" />
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#247#248#0" expanded="true" />
@@ -442,54 +448,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pattern/ReflectFactoryPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/Reflect1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-664">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="176">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/Reflect2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/Emp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/ReflectClass3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="-210">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/BeanUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2607#2608#0" expanded="true" />
+            <element signature="e#2679#2680#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -500,22 +491,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/BeanUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pattern/SimpleFactoryPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2607#2608#0" expanded="true" />
-            <element signature="e#2679#2680#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pattern/ReflectFactoryPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="-420">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>

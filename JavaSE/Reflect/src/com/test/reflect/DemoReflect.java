@@ -11,8 +11,8 @@ public class DemoReflect {
             Class<User> cls2 = User.class;//拿到类的对象
 
             Class<?> cls1 = path.getClass();
-            Class clazz = Class.forName("java.util.Date");
-            System.out.println(clazz);
+            Class<?> cls3 = Class.forName("java.util.Date");
+            System.out.println(cls3);
             System.out.println(cls1);
             System.out.println(cls2);
 
@@ -36,6 +36,8 @@ public class DemoReflect {
             User u2 = use.newInstance(2019,21,"Mr.Q");
             System.out.println("\n" + u2.getName());
 
+
+
             //通过反射API来调用普通方法
             //----> 正向调用   u3.setName("IQQCode")
 
@@ -46,6 +48,8 @@ public class DemoReflect {
             Method method = cls2.getDeclaredMethod("setName", String.class);
             method.invoke(u3,"IQQCode");
             System.out.println(u3.getName());
+
+
 
             //通过反射API操作属性
             User u4 = cls2.newInstance();
