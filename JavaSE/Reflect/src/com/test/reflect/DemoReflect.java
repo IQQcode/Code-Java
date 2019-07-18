@@ -54,7 +54,7 @@ public class DemoReflect {
             //通过反射API操作属性
             User u4 = cls2.newInstance();
             Field field = cls2.getDeclaredField("name");
-            field.setAccessible(true);  //直接访问到私有属性
+            field.setAccessible(true);  //直接访问到私有属性，跳过安全检查
             field.set(u4,"犹梦");  //通过反射直接写属性
             System.out.println(field.get(u4));  //通过反射直接读属性
 

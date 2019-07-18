@@ -48,14 +48,15 @@ class HUAWEI_RAM implements ARM {
     }
 }
 
-//抽象产品类 PhonePartsFactory
+//抽象工厂类 PhonePartsFactory
+
 interface PhonePartsFactory {
     CPU makingCPU();
 
     ARM produceARM();
 }
 
-//具体产品 HUAWEI P30 PhoneFactory
+//具体工厂制造商 HUAWEI P30 PhoneFactory
 class HUAWEI_P30 implements PhonePartsFactory {
 
     @Override
@@ -72,7 +73,7 @@ class HUAWEI_P30 implements PhonePartsFactory {
 }
 
 
-//具体产品 SAMSUNG Galaxy S10  PhoneFactory
+//具体工厂制造商 SAMSUNG Galaxy S10  PhoneFactory
 class GalaxyS10 implements PhonePartsFactory {
 
     @Override
