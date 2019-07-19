@@ -1,4 +1,4 @@
-package com.MultiThread;
+package com.Synchronized;
 
 /**
  *同步问题

@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1c34ce-4ac1-431f-8a8b-afc2cff8a9d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Sex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/ThreadStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/ThreadStop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyRunnableJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyRunnableJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyThreadStop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyThreadStop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MythreaB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MythreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MythreadReception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/Sync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/Synchronized_A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/Synchronized_B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/Synchronized_monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/ThreadMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/ThreadMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/ThreadStop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/ThreadStop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/Synchronized_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/Synchronized_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/Synchronized_monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/AchieveThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/进程与线程-多线程实现.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,59 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/MultiThread/TestThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3360">
-              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadStop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/MultiThread/Synchronized_A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/MultiThread/Synchronized_B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/MultiThread/Synchronized_monitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="2280">
+              <caret line="76" column="37" lean-forward="true" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -85,26 +63,32 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/MultiThread/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/thread_SynchronizedA.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/Thread_SynchronizedA.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/Synchronized_monitor.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/Synchronized_A.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/Synchronized_B.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/ThreadStop.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/A.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/AchieveThread.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="175" />
-    <option name="width" value="1750" />
-    <option name="height" value="1030" />
+    <option name="x" value="-10" />
+    <option name="y" value="20" />
+    <option name="width" value="1935" />
+    <option name="height" value="625" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -113,19 +97,66 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Synchronized" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Experiment6" />
+    <property name="last_opened_file_path" value="F:/Code-and-Notes/Class_Code/DataBase/java7_bintree" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code-Java\JavaSE\MultiThread" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,9 +170,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Synchronized_B">
-    <configuration name="Synchronized_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MultiThread.Synchronized_B" />
+  <component name="RunManager" selected="Application.ThreadStop">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MultiThread.Test" />
       <module name="MultiThread" />
       <extension name="coverage">
         <pattern>
@@ -153,8 +184,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronized_monitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MultiThread.Synchronized_monitor" />
+    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MultiThread.ThreadExample" />
       <module name="MultiThread" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thread_SynchronizedA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MultiThread.thread_SynchronizedA" />
+    <configuration name="Web123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MultiThread.Web123" />
       <module name="MultiThread" />
       <extension name="coverage">
         <pattern>
@@ -207,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Synchronized_B" />
-        <item itemvalue="Application.Synchronized_monitor" />
-        <item itemvalue="Application.thread_SynchronizedA" />
         <item itemvalue="Application.ThreadStop" />
         <item itemvalue="Application.ThreadMethod" />
+        <item itemvalue="Application.ThreadExample" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Web123" />
       </list>
     </recent_temporary>
   </component>
@@ -245,16 +276,18 @@
       <workItem from="1556186419768" duration="139000" />
       <workItem from="1556689756113" duration="999000" />
       <workItem from="1556934557806" duration="18000" />
+      <workItem from="1563497385250" duration="2540000" />
+      <workItem from="1563500306266" duration="20799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27404000" />
+    <option name="totallyTimeSpent" value="50743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17382812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20703125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,8 +296,9 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294271" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5078125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -288,76 +322,109 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="PlantUML" order="9" />
+      <window_info anchor="right" id="aiXcoder" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1034">
-          <caret line="708" lean-forward="true" selection-start-line="708" selection-end-line="708" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Callable.java" />
     <entry file="file://$PROJECT_DIR$/MultiThread.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/进程与线程-多线程实现.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1565" />
+    <entry file="file://$PROJECT_DIR$/进程与线程-多线程实现.java" />
+    <entry file="file://$PROJECT_DIR$/1.进程与线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/TestThread.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3360">
-          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#16583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/AchieveThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="491">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadStop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/Synchronized_B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/Synchronized_monitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/Synchronized_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="2280">
+          <caret line="76" column="37" lean-forward="true" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
         </state>
       </provider>
     </entry>

@@ -28,7 +28,7 @@ class MyThread extends Thread {
     }
 }
 
-public class TestThread {
+public class AchieveThread {
     public static void main(String[] args) {
         MyThread myThread1 = new MyThread("A");
         MyThread myThread2 = new MyThread("B");
@@ -42,10 +42,12 @@ public class TestThread {
 */
 
 
+
+
 //二、Runnable接口
 
-/*
 
+/*
 class MyThread implements Runnable {
     private String title;
     public MyThread(String title) {
@@ -59,7 +61,7 @@ class MyThread implements Runnable {
     }
 }
 
-public class TestThread {
+public class AchieveThread {
     public static void main(String[] args) {
         //I. Thread类提供的构造方法接收 Runnable对象
 
@@ -71,6 +73,8 @@ public class TestThread {
         MyThread myThread1 = new MyThread("A");
         MyThread myThread2 = new MyThread("B");
         MyThread myThread3 = new MyThread("C");
+
+        //Runnable 类的对象传入 Thread中
         new Thread(myThread1).start();
         new Thread(myThread2).start();
         new Thread(myThread3).start();
@@ -89,16 +93,17 @@ public class TestThread {
 
     }
 }
-
 */
+
 
 
 //三、Callable实现多线程
 
-class MyThread implements Callable<String> {
+class  MyThread implements Callable<String> {
     private Integer tickets = 6;
 
     @Override
+    //线程需要执行的任务 call()
     public String call() throws  Exception {
         while(this.tickets > 0) {
             System.out.println("剩余票数为" + (this.tickets--));
@@ -107,9 +112,11 @@ class MyThread implements Callable<String> {
     }
 }
 
-public class TestThread {
+public class AchieveThread {
     public static void main(String[] args) throws Exception {
+        //Future: 接收Callable接口的返回值
         FutureTask<String> task = new FutureTask<>(new MyThread());
+        //Callable 类的对象传入 Thread中
         new Thread(task).start();
         new Thread(task).start();
         System.out.println(task.get());

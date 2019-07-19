@@ -1,4 +1,4 @@
-package com.MultiThread;
+package com.Synchronized;
 
 /**
  * 对象锁(monitor)机制---JDK6之前的synchronized(重量级锁)

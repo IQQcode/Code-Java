@@ -7,7 +7,7 @@ package com.MultiThread;
  * 线程A继续执行(回到就绪)
  */
 
-/*
+
 
 class MyRunnableJoin implements Runnable {
     @Override
@@ -32,15 +32,17 @@ public class ThreadMethod {
         System.out.println(Thread.currentThread().getName() + "--> 结束！");
     }
 }
-*/
+
 
 /**
- * sleep 休眠，暂停线程，交出CPU，不释放锁（资源）
+ * 让线程暂缓执行，等到了预计时间在恢复执行
+ *
+ * `sleep()` 让当前线程立即交出CPU,但不会释放对象锁
  *
  * yield 让步，暂定线程，交出CPU（时机不确定），不释放锁;
  *       CPU时间片段只能供相同优先级的线程使用，回到就绪
  */
-
+/*
 class MyRunnableJoin implements Runnable {
     @Override
     public void run() {
@@ -60,3 +62,4 @@ public class ThreadMethod {
     }
 }
 
+*/
