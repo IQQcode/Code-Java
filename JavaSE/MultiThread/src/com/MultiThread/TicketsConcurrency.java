@@ -5,17 +5,19 @@ package com.MultiThread;
  *
  * 一份资源，多个线程共享，会带来并发问题(数据的不一致性)
  */
+
 class Web123 implements Runnable {
-    private Integer tickets = 50;
+    private Integer tickets = 20;
     @Override
     public void run() {
-        while (tickets >= 0) {
+        while (this.tickets >= 0) {
             try {
                 Thread.sleep(200);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println(Thread.currentThread().getName() + "---->" + tickets--);
+            System.out.println(Thread.currentThread().getName() +
+                    "还有" + this.tickets-- + "张票");;
         }
     }
 }
