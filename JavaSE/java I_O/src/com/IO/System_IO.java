@@ -1,4 +1,4 @@
-package www.javaSE.IO;
+package com.IO;
 
 import  java.io.*;
 import  java.io.IOException;

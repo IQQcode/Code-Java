@@ -1,4 +1,4 @@
-package www.javaSE.IO;
+package com.FileClass;
 
 import java.io.*;
 

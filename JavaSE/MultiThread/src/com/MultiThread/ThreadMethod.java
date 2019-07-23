@@ -8,7 +8,7 @@ package com.MultiThread;
  */
 
 
-
+/*
 class MyRunnableJoin implements Runnable {
     @Override
     public void run() {
@@ -33,6 +33,8 @@ public class ThreadMethod {
     }
 }
 
+ */
+
 
 /**
  * 让线程暂缓执行，等到了预计时间在恢复执行
@@ -42,11 +44,16 @@ public class ThreadMethod {
  * yield 让步，暂定线程，交出CPU（时机不确定），不释放锁;
  *       CPU时间片段只能供相同优先级的线程使用，回到就绪
  */
-/*
+
 class MyRunnableJoin implements Runnable {
     @Override
     public void run() {
         for (int i = 0; i < 10; i++) {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             Thread.yield();
             System.out.println(Thread.currentThread().getName() + " run  i = " + i);
         }
@@ -62,4 +69,3 @@ public class ThreadMethod {
     }
 }
 
-*/

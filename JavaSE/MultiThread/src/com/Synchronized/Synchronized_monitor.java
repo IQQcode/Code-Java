@@ -38,3 +38,5 @@ public class Synchronized_monitor {
         threadB.start();
     }
 }
+
+
