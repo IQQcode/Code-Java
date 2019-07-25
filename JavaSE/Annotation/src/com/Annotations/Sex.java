@@ -28,7 +28,7 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 
 public @interface Sex {
-    enum GenderType {
+     enum GenderType {
         Male("男"),
         Female("女");
         private String genderSex;
@@ -40,5 +40,6 @@ public @interface Sex {
             return genderSex;
         }
     }
+    //定义变量，默认值为 Male
     GenderType gender() default GenderType.Male;
 }

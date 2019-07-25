@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @Target 表示自定义的Annotation可以使用在方法或者类上
+ * @Target 表示自定义的 Annotation可以使用在方法或者类上
  */
 
 @Target(value = {ElementType.METHOD, ElementType.FIELD})
