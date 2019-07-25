@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1c34ce-4ac1-431f-8a8b-afc2cff8a9d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java EE/SpringDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java EE/SpringDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java EE/spring_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java EE/spring_demo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/AnnotationUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/AnnotationUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/Person.class" afterDir="false" />
@@ -10,12 +14,11 @@
       <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyRunnableJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/MyRunnableJoin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/ThreadMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/ThreadMethod.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/Synchronized/Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/Synchronized/Sync.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JSP_Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JSP_Test/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,10 +36,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/DeadLock/DeadLockTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="161">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -66,15 +78,17 @@
         <option value="$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/A.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/AchieveThread.java" />
-        <option value="$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java" />
         <option value="$PROJECT_DIR$/src/com/Synchronized/AchieveSynchronized.java" />
-        <option value="$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java" />
-        <option value="$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/Test.java" />
         <option value="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" />
         <option value="$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java" />
         <option value="$PROJECT_DIR$/src/com/Synchronized/Test.java" />
         <option value="$PROJECT_DIR$/src/com/DeadLock/DeadLockTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ThreadLocal/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/../Exception/src/com/Exception/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java" />
+        <option value="$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java" />
+        <option value="$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java" />
       </list>
     </option>
   </component>
@@ -84,7 +98,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="20" />
     <option name="width" value="1935" />
@@ -98,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,20 +149,53 @@
               <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="TicketsConcurrency.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="Synchronized" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Synchronized" type="462c0819:PsiDirectoryNode" />
+              <item name="Synchronized_A.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="MultiThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Synchronized" type="462c0819:PsiDirectoryNode" />
+              <item name="Synchronized_B.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java I_O" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -177,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadLockTest">
+  <component name="RunManager" selected="Application.Synchronized_A">
     <configuration name="DeadLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.DeadLock.DeadLockTest" />
       <module name="MultiThread" />
@@ -191,8 +237,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Synchronized.Test" />
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ThreadLocal.ExceptionDemo" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ThreadLocal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronized_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Synchronized.Synchronized_A" />
       <module name="MultiThread" />
       <extension name="coverage">
         <pattern>
@@ -204,25 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MultiThread.ThreadExample" />
+    <configuration name="Synchronized_B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Synchronized.Synchronized_B" />
       <module name="MultiThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MultiThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MultiThread.ThreadMethod" />
-      <module name="MultiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.MultiThread.*" />
+          <option name="PATTERN" value="com.Synchronized.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeadLockTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ThreadExample" />
+        <item itemvalue="Application.Synchronized_A" />
+        <item itemvalue="Application.Synchronized_B" />
         <item itemvalue="Application.TicketsConcurrency" />
-        <item itemvalue="Application.ThreadMethod" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.DeadLockTest" />
       </list>
     </recent_temporary>
   </component>
@@ -291,16 +337,22 @@
       <workItem from="1563578471528" duration="10601000" />
       <workItem from="1563704894926" duration="6986000" />
       <workItem from="1563751783175" duration="10146000" />
+      <workItem from="1563936546132" duration="5058000" />
+      <workItem from="1563961551495" duration="2534000" />
+      <workItem from="1564036320381" duration="1035000" />
+      <workItem from="1564058227301" duration="1806000" />
+      <workItem from="1564068483488" duration="828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78476000" />
+    <option name="totallyTimeSpent" value="89737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49731904" visible="true" weight="0.20963542" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731904" visible="true" weight="0.20963542" />
       <window_info id="Structure" order="1" sideWeight="0.50268096" side_tool="true" weight="0.21654338" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,7 +363,7 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294271" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36979166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47135416" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,27 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/MultiThread/com/MultiThread/Running.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -449,31 +480,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1001">
           <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -484,10 +495,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Exception/src/com/Exception/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1069">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/DeadLock/DeadLockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="120">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2364">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>

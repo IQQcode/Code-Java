@@ -9,7 +9,7 @@ package com.Synchronized;
 
 class SyncB {
     //锁的是 Sync的对象
-    public  synchronized void test() {
+    public synchronized void test() {
         System.out.println("test()方法开始，当前线程为： " + Thread.currentThread().getName());
         try {
             Thread.sleep(4000);
