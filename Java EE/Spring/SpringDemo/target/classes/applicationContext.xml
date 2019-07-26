@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+        xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:cache="http://www.springframework.org/schema/cache"
+       xsi:schemaLocation="
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd
+    http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--Spring???????-->
+
+    <!--UserInfo userInfo = new UserInfo();-->
+    <bean id="userInfo" class="com.iqqcode.bean.UserInfo">
+        <!--DI ??-->
+
+        <!--setter??-->
+        <!--<property name="username" value="Mr.Q"/>-->
+
+        <!--constructor??-->
+        <constructor-arg name="username" value="Mr.Q"/>
+
+    </bean>
+
+</beans>
