@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1c34ce-4ac1-431f-8a8b-afc2cff8a9d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ProducerConsumerModdle/ProducerConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MultiThread/META-INF/MultiThread.kotlin_module" beforeDir="false" />
@@ -70,13 +71,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Synchronized_monitor">
-    <configuration name="InterruptStop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MultiThread.InterruptStop" />
+  <component name="RunManager" selected="Application.NotifyTest">
+    <configuration name="NotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectWaitNotify.NotifyTest" />
       <module name="MultiThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.MultiThread.*" />
+          <option name="PATTERN" value="com.ObjectWaitNotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ProducerConsumerModdle.ProducerConsumer" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ProducerConsumerModdle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.DeadLock.Test" />
+    <configuration name="WaitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ObjectWaitNotify.WaitTest" />
       <module name="MultiThread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.DeadLock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadStop (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.MultiThread.ThreadStop" />
-      <module name="MultiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.MultiThread.*" />
+          <option name="PATTERN" value="com.ObjectWaitNotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotifyTest" />
+        <item itemvalue="Application.WaitTest" />
+        <item itemvalue="Application.ProducerConsumer" />
         <item itemvalue="Application.Synchronized_monitor" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.InterruptStop" />
-        <item itemvalue="Application.ThreadStop (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +201,7 @@
       <workItem from="1564196290609" duration="4652000" />
       <workItem from="1564226067205" duration="64000" />
       <workItem from="1564226252637" duration="40000" />
+      <workItem from="1564276119333" duration="12267000" />
     </task>
     <servers />
   </component>
