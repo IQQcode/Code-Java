@@ -2,15 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="348bbf89-69d5-4f92-9541-3cac75f7ef71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/spring_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/ming/bean/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/ming/bean/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/com/ming/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/com/ming/ObjectTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/target/classes/com/ming/bean/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/target/classes/com/ming/bean/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/target/test-classes/com/ming/ObjectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_demo/target/test-classes/com/ming/ObjectTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/Database/jdbc.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/test/JDBCDemoDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/test/JDBCDemoInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/test/JDBCDemoSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/JDBCDemoDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/JDBCDemoInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/JDBCDemoSelect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/META-INF/ChartRoom_WebSocket.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDemo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDemo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDemo/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDemo/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDemoAnnotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/ChartRoom_WebSocket.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaSE/MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaSE/MultiThread/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaSE/Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaSE/Reflect/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaSE/java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaSE/java I_O/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JDBC_Demo/JDBC_Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JDBC_Demo/src/mysql/jdbc/demo/JDBC_Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/artifacts/JSP_Test_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/libraries/JSP_Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/JSP_Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/out/artifacts/JSP_Test_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/out/artifacts/JSP_Test_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/out/artifacts/JSP_Test_war_exploded/page/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/web/page/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/XML_develop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/out/production/JDBC_Demo/mysql/jdbc/demo/JDBC_Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/src/main/resources/contact.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/xml01_basic.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,19 +85,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -44,55 +96,19 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="20" />
-    <option name="width" value="1935" />
-    <option name="height" value="625" />
-  </component>
+  <component name="ProjectId" id="1OjIuBGlW5loTeUt4zSzuto8wY2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SpringDemoAnnotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringDemoAnnotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringDemoAnnotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringDemoAnnotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringDemoAnnotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringDemoAnnotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringDemoAnnotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringDemoAnnotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JavaWeb/JDBC/JDBCDemo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -125,68 +141,27 @@
       <option name="presentableId" value="Default" />
       <updated>1564106762135</updated>
       <workItem from="1564106767302" duration="2607000" />
+      <workItem from="1564484800469" duration="40000" />
+      <workItem from="1564484886340" duration="115000" />
+      <workItem from="1564556127405" duration="616000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2607000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294271" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="aiXcoder" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iqqcode/bean/DemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>

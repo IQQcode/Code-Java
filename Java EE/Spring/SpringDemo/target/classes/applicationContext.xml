@@ -10,11 +10,10 @@
     http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!--Spring???????-->
 
     <!--UserInfo userInfo = new UserInfo();-->
     <bean id="userInfo" class="com.iqqcode.bean.UserInfo">
-        <!--DI ??-->
+
 
         <!--setter??-->
         <!--<property name="username" value="Mr.Q"/>-->
