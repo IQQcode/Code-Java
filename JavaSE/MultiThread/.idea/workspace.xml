@@ -2,16 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1c34ce-4ac1-431f-8a8b-afc2cff8a9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ProducerConsumerModdle/ProducerConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/com/ExceptionDemo/ExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/com/ExceptionDemo/ExceptionTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/com/ExceptionDemo/ExceptionTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lock/LockInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lock/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lock/LockTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/META-INF/MultiThread.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/Synchronized/MythreadReception.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/Synchronized/MythreadReception.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MultiThread/com/Synchronized/Synchronized_monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread/com/Synchronized/Synchronized_monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DeadLock/DeadLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DeadLock/DeadLockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/AchieveThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/AchieveThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/ThreadExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/ThreadMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/ThreadStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/ThreadStop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/MultiThread/TicketsConcurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ProducerConsumerModdle/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ProducerConsumerModdle/ProducerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Synchronized/AchieveSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/AchieveSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Synchronized/Synchronized_monitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JSP_Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JSP_Test/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +63,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -71,7 +95,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NotifyTest">
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DeadLock.Circle" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DeadLock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lock.LockInterrupt" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lock.LockTest" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lock.LockTime" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ObjectWaitNotify.NotifyTest" />
       <module name="MultiThread" />
@@ -85,70 +161,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ProducerConsumerModdle.ProducerConsumer" />
-      <module name="MultiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ProducerConsumerModdle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Synchronized_monitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Synchronized.Synchronized_monitor" />
-      <module name="MultiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Synchronized.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Synchronized.Test" />
-      <module name="MultiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Synchronized.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ObjectWaitNotify.WaitTest" />
-      <module name="MultiThread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ObjectWaitNotify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.LockTime" />
+        <item itemvalue="Application.LockInterrupt" />
+        <item itemvalue="Application.LockTest" />
         <item itemvalue="Application.NotifyTest" />
-        <item itemvalue="Application.WaitTest" />
-        <item itemvalue="Application.ProducerConsumer" />
-        <item itemvalue="Application.Synchronized_monitor" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,ALPHA_COMPARATOR" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,ALPHA_COMPARATOR,SHOW_ANONYMOUS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -202,6 +226,10 @@
       <workItem from="1564226067205" duration="64000" />
       <workItem from="1564226252637" duration="40000" />
       <workItem from="1564276119333" duration="12267000" />
+      <workItem from="1564482591010" duration="429000" />
+      <workItem from="1564893130273" duration="1124000" />
+      <workItem from="1564894309413" duration="15236000" />
+      <workItem from="1564919571474" duration="218000" />
     </task>
     <servers />
   </component>
