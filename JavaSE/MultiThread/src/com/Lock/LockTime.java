@@ -1,8 +1,7 @@
 package com.Lock;
-import	java.util.concurrent.TimeUnit;
-import	java.util.concurrent.locks.ReentrantLock;
 
-
+import java.util.concurrent.TimeUnit;
+import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.Lock;
 
 /**
@@ -11,7 +10,7 @@ import java.util.concurrent.locks.Lock;
  * @Description:
  */
 class ThreadLockTime implements Runnable {
-    private Lock lock = new ReentrantLock();
+    private Lock lock = new ReentrantLock(); //实现Lock的接口
     @Override
     public void run() {
         fun();

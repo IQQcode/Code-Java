@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * @Description: 在获取锁时能够响应中断
  */
 class TestLockInterrupt implements Runnable {
-    private Lock lock = new ReentrantLock();
+    private Lock lock = new ReentrantLock(); //实现Lock的接口
     @Override
     public void run() {
         try {
