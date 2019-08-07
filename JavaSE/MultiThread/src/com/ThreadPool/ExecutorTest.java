@@ -27,8 +27,11 @@ public class ExecutorTest {
         ThreadPoolTest threadPoolTest = new ThreadPoolTest();
 
         for(int i = 0; i < 5; i ++) {
-            executor.submit(threadPoolTest); //submit可以提交Callable,Runnable接口
+
+            //submit可以提交Callable,Runnable接口
+            executor.submit(threadPoolTest);
         }
+        // 关闭线程池
         executor.shutdown();
     }
 }

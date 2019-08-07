@@ -1,4 +1,6 @@
 package com.MultiThread;
+import	java.util.concurrent.Executors;
+import	java.util.concurrent.ExecutorService;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
@@ -99,6 +101,7 @@ public class AchieveThread {
 
 //三、Callable实现多线程
 
+/*
 class  MyThread implements Callable<String> {
     private Integer tickets = 6;
 
@@ -106,21 +109,57 @@ class  MyThread implements Callable<String> {
     //线程需要执行的任务 call()
     public String call() throws  Exception {
         while(this.tickets > 0) {
-            System.out.println("剩余票数为" + (this.tickets--));
+            System.out.println(Thread.currentThread().getName() + " 剩余票数为" + (this.tickets--));
         }
-        return "票卖完了……";
+        return Thread.currentThread().getName() + " 票卖完了……";
     }
 }
 
 public class AchieveThread {
     public static void main(String[] args) throws Exception {
-        //Future: 接收Callable接口的返回值
+        // Future: 接收Callable接口的返回值
+        // FutureTask 在多线程并发下可以保证任务(传入的Callable或Runnable)只执行一次
+
         FutureTask<String> task = new FutureTask<>(new MyThread());
+
         //Callable 类的对象传入 Thread中
         new Thread(task).start();
         new Thread(task).start();
         System.out.println(task.get());
     }
 }
+*/
+
+
+// 四、线程池
+
+class  MyThread implements Callable<String> {
+    private Integer tickets = 20;
+
+    @Override
+    //线程需要执行的任务 call()
+    public String call() throws  Exception {
+        while(this.tickets > 0) {
+            System.out.println(Thread.currentThread().getName() + " 剩余票数为" + (this.tickets--));
+        }
+        return Thread.currentThread().getName() + " 票卖完了……";
+    }
+}
+
+public class AchieveThread {
+    public static void main(String[] args) throws Exception {
+        // Future: 接收Callable接口的返回值
+        // FutureTask 在多线程并发下可以保证任务(传入的Callable或Runnable)只执行一次
+
+        //缓存线程池创建线程
+        ExecutorService exec = Executors.newCachedThreadPool();
+        Callable<String> callable = new MyThread();
+        for(int i = 0;i < 3; i++) {
+            exec.submit(callable);
+        }
+        exec.shutdown();
+    }
+}
+
 
 
