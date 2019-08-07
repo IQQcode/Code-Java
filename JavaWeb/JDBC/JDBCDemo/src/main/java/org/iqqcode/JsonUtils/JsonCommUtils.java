@@ -3,9 +3,6 @@ package org.iqqcode.JsonUtils;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.Properties;
 
 /**
  * @Author: Mr.Q
@@ -15,6 +12,7 @@ import java.util.Properties;
 
 public class JsonCommUtils {
     private static final Gson gson = new GsonBuilder().create();
+
     private JsonCommUtils(){ }
 
     public static String object2Json(Object obj) {

@@ -23,7 +23,7 @@ public class JDBCDemoDelete {
             Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc","root","1234");
 
             //3.执行SQl
-            String sql = "delete from  user where username = 'Tom'";
+            String sql = "delete from user where username = 'Tom'";
             Statement statement = connection.createStatement();
             int resultRows = statement.executeUpdate(sql,Statement.RETURN_GENERATED_KEYS);
 

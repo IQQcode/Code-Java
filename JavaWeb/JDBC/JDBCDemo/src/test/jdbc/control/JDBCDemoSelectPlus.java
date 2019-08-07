@@ -11,7 +11,7 @@ import java.sql.*;
  */
 public class JDBCDemoSelectPlus {
     @Test
-    public void testSelectPlus(){
+    public void testSelectPlus() {
         try {
             //1.加载驱动
             Class.forName("com.mysql.jdbc.Driver");
@@ -22,7 +22,7 @@ public class JDBCDemoSelectPlus {
             //3.执行SQl
 
             String userName = "zs";
-            String password = "1234";
+            String password = "asdnvjdvb";
             String sql = "select * from user" + " where username = ? and password = ?";
 
             //预编译SQl
