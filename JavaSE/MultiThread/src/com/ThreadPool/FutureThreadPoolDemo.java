@@ -49,7 +49,7 @@ class StepTwo implements Callable<String> {
     }
 }
 
-public class FutureDemo {
+public class FutureThreadPoolDemo {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
         FutureTask step2 = new FutureTask(new StepTwo());
         FutureTask step1 = new FutureTask(new StepOne(step2));
