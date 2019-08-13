@@ -2,38 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2424c51-bc6d-4418-a3f5-af2d89a2c048" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MultiThread/src/com/DeadLock/DeadLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/AnnotationUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/AnnotationUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/out/production/Annotation/com/Annotations/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Sex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/MyRunnableJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/MyRunnableJoin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/ThreadMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/ThreadMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Sync.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/ThreadMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/ThreadMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/Synchronized_monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/Synchronized_monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File与输入输出流.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java IO ---打印流和System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/notes/打印流和System" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/FileTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/PrintStreamIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/PrintUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/PrintUtil_io.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java I_O/www/javaSE/IO/System_IO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/FileClass/FileTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IO/PrintStreamIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/PrintUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IO/PrintUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/javaSE/IO/System_IO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IO/System_IO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件测试" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/notes/软件测试" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,31 +54,6 @@
   <component name="FavoritesManager">
     <favorites_list name="java I_O" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/FileClass/CreateFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/FileClass/TraversalFolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -96,73 +65,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamAndSystem.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/System_IO.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/PrintUtil.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/PrintStreamIO.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/FileTest1.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/IO/FileTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/IO/FileTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/FileTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/notes/package-info.java" />
-        <option value="$PROJECT_DIR$/src/com/notes/File与输入输出流.java" />
-        <option value="$PROJECT_DIR$/src/com/notes/java IO ---打印流和System.java" />
-        <option value="$PROJECT_DIR$/src/com/notes/印流和System" />
-        <option value="$PROJECT_DIR$/src/com/notes/File与输入输出流" />
-        <option value="$PROJECT_DIR$/src/com/FileClass/TraversalFolder.java" />
-        <option value="$PROJECT_DIR$/src/com/FileClass/FileTest1.java" />
-        <option value="$PROJECT_DIR$/src/com/FileClass/GainFileInformation.java" />
-        <option value="$PROJECT_DIR$/src/com/FileClass/CreateFile.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1935" />
-    <option name="height" value="625" />
-  </component>
+  <component name="ProjectId" id="1PLUv0Unep4LvBrlLloPkS5AlEC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java I_O" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java I_O" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java I_O" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java I_O" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java I_O" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java I_O" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -177,7 +81,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -199,13 +103,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GainFileInformation">
-    <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.FileClass.CreateFile" />
+  <component name="RunManager" selected="Application.CharTest">
+    <configuration name="CharTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Encoding.CharTest" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.FileClass.*" />
+          <option name="PATTERN" value="com.Encoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.javaSE.IO.FileTest1" />
+    <configuration name="CopyFileSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ByteStream.CopyFileSource" />
       <module name="java I_O" />
+      <option name="PROGRAM_PARAMETERS" value="G:\javaTest\0.jpg G:\javaTest\test.jpg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="www.javaSE.IO.*" />
+          <option name="PATTERN" value="com.ByteStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.javaSE.IO.FileTest2" />
+    <configuration name="InputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ByteStream.InputStreamDemo" />
       <module name="java I_O" />
+      <option name="PROGRAM_PARAMETERS" value="‪C:\Users\j2726\Desktop\0.jpg        ‪C:\Users\j2726\Desktop\Mr.Q.jpg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="www.javaSE.IO.*" />
+          <option name="PATTERN" value="com.ByteStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GainFileInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.FileClass.GainFileInformation" />
+    <configuration name="OutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ByteStream.OutputStreamDemo" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.FileClass.*" />
+          <option name="PATTERN" value="com.ByteStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStreamIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.javaSE.IO.PrintStreamIO" />
+    <configuration name="WriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CharacterStream.WriterTest" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="www.javaSE.IO.*" />
+          <option name="PATTERN" value="com.CharacterStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,13 +171,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.InputStreamDemo" />
+      <item itemvalue="Application.OutputStreamDemo" />
+      <item itemvalue="Application.CopyFileSource" />
+      <item itemvalue="Application.WriterTest" />
+      <item itemvalue="Application.CharTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GainFileInformation" />
-        <item itemvalue="Application.CreateFile" />
-        <item itemvalue="Application.FileTest1" />
-        <item itemvalue="Application.PrintStreamIO" />
-        <item itemvalue="Application.FileTest2" />
+        <item itemvalue="Application.CharTest" />
+        <item itemvalue="Application.WriterTest" />
+        <item itemvalue="Application.CopyFileSource" />
+        <item itemvalue="Application.InputStreamDemo" />
+        <item itemvalue="Application.OutputStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -315,11 +228,10 @@
       <workItem from="1558883107403" duration="94000" />
       <workItem from="1559717891711" duration="78000" />
       <workItem from="1563768009069" duration="1808000" />
+      <workItem from="1563936519646" duration="22000" />
+      <workItem from="1565653098310" duration="15128000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62217000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,49 +242,19 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.19401042" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.24283855" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5013405" side_tool="true" weight="0.16957104" />
-      <window_info id="Alibaba Cloud Explorer" order="7" />
-      <window_info id="Learn" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3294271" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.80078125" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.31903484" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50065106" side_tool="true" weight="0.32707775" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49934897" weight="0.328125" />
-      <window_info anchor="bottom" id="CheckStyle" order="13" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="14" />
-      <window_info anchor="bottom" id="Tail" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="PlantUML" order="9" />
-      <window_info anchor="right" id="aiXcoder" order="10" side_tool="true" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myShow1" value="true" />
@@ -380,198 +262,5 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/OutputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/color/CMMException.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Scanner.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/nio/fs/AbstractAclFileAttributeView.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/AbstractAction.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="148" column="13" selection-start-line="148" selection-start-column="13" selection-end-line="148" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java I_O.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/notes/软件测试">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/IO/System_IO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/IO/PrintStreamIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/IO/PrintUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/notes/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/notes/File与输入输出流.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/notes/java IO ---打印流和System.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/notes/打印流和System">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/notes/File与输入输出流">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/FileClass/FileTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/FileClass/GainFileInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/FileClass/TraversalFolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/FileClass/CreateFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
