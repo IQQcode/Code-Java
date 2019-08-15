@@ -103,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CharTest">
+  <component name="RunManager" selected="Application.TraversalFolderAll">
     <configuration name="CharTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Encoding.CharTest" />
       <module name="java I_O" />
@@ -117,13 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyFileSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ByteStream.CopyFileSource" />
+    <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FileClass.CreateFile" />
       <module name="java I_O" />
-      <option name="PROGRAM_PARAMETERS" value="G:\javaTest\0.jpg G:\javaTest\test.jpg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ByteStream.*" />
+          <option name="PATTERN" value="com.FileClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,13 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ByteStream.InputStreamDemo" />
+    <configuration name="GainFileInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FileClass.GainFileInformation" />
       <module name="java I_O" />
-      <option name="PROGRAM_PARAMETERS" value="‪C:\Users\j2726\Desktop\0.jpg        ‪C:\Users\j2726\Desktop\Mr.Q.jpg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ByteStream.*" />
+          <option name="PATTERN" value="com.FileClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ByteStream.OutputStreamDemo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Test" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ByteStream.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.CharacterStream.WriterTest" />
+    <configuration name="TraversalFolderAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FileClass.TraversalFolderAll" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.CharacterStream.*" />
+          <option name="PATTERN" value="com.FileClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InputStreamDemo" />
-      <item itemvalue="Application.OutputStreamDemo" />
-      <item itemvalue="Application.CopyFileSource" />
-      <item itemvalue="Application.WriterTest" />
       <item itemvalue="Application.CharTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CreateFile" />
+      <item itemvalue="Application.GainFileInformation" />
+      <item itemvalue="Application.TraversalFolderAll" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TraversalFolderAll" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GainFileInformation" />
+        <item itemvalue="Application.CreateFile" />
         <item itemvalue="Application.CharTest" />
-        <item itemvalue="Application.WriterTest" />
-        <item itemvalue="Application.CopyFileSource" />
-        <item itemvalue="Application.InputStreamDemo" />
-        <item itemvalue="Application.OutputStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +228,8 @@
       <workItem from="1563768009069" duration="1808000" />
       <workItem from="1563936519646" duration="22000" />
       <workItem from="1565653098310" duration="15128000" />
+      <workItem from="1565834564664" duration="226000" />
+      <workItem from="1565868130144" duration="3732000" />
     </task>
     <servers />
   </component>
@@ -250,7 +250,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
