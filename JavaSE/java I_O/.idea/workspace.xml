@@ -84,7 +84,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -103,13 +103,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TraversalFolderAll">
-    <configuration name="CharTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Encoding.CharTest" />
+  <component name="RunManager" selected="Application.DeSerialization">
+    <configuration name="DeSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Serialization.DeSerialization" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Encoding.*" />
+          <option name="PATTERN" value="com.Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.FileClass.CreateFile" />
+    <configuration name="LowerToUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Memorystream.LowerToUpper" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.FileClass.*" />
+          <option name="PATTERN" value="com.Memorystream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GainFileInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.FileClass.GainFileInformation" />
+    <configuration name="MyPrintStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Printstream.MyPrintStream" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.FileClass.*" />
+          <option name="PATTERN" value="com.Printstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Test" />
+    <configuration name="Serialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Serialization.Serialization" />
       <module name="java I_O" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CharTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.CreateFile" />
-      <item itemvalue="Application.GainFileInformation" />
       <item itemvalue="Application.TraversalFolderAll" />
+      <item itemvalue="Application.LowerToUpper" />
+      <item itemvalue="Application.MyPrintStream" />
+      <item itemvalue="Application.Serialization" />
+      <item itemvalue="Application.DeSerialization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeSerialization" />
+        <item itemvalue="Application.Serialization" />
+        <item itemvalue="Application.MyPrintStream" />
+        <item itemvalue="Application.LowerToUpper" />
         <item itemvalue="Application.TraversalFolderAll" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.GainFileInformation" />
-        <item itemvalue="Application.CreateFile" />
-        <item itemvalue="Application.CharTest" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +230,8 @@
       <workItem from="1565653098310" duration="15128000" />
       <workItem from="1565834564664" duration="226000" />
       <workItem from="1565868130144" duration="3732000" />
+      <workItem from="1565878117179" duration="1039000" />
+      <workItem from="1565911047471" duration="13319000" />
     </task>
     <servers />
   </component>
