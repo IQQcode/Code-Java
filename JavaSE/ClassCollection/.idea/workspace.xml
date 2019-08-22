@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d5586ce-6f2d-4e19-8012-368ec736c61e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ClassCollection" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Pm7Bhf1iLigztVkHG2oxlhFVdS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DynamicArray">
+    <configuration name="CollectionsFramework_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.javaSE.List.CollectionsFramework_List" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.javaSE.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.List.DynamicArray" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DynamicArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.List.ListMethod" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DynamicArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DynamicArray" />
+        <item itemvalue="Application.ListMethod" />
+        <item itemvalue="Application.CollectionsFramework_List" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d5586ce-6f2d-4e19-8012-368ec736c61e" name="Default Changelist" comment="" />
+      <created>1554606137635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554606137635</updated>
+      <workItem from="1554606141353" duration="105000" />
+      <workItem from="1554606434841" duration="10127000" />
+      <workItem from="1554635864499" duration="73000" />
+      <workItem from="1554690848136" duration="1407000" />
+      <workItem from="1554693319731" duration="729000" />
+      <workItem from="1554798598947" duration="211000" />
+      <workItem from="1554870344917" duration="383000" />
+      <workItem from="1554870755908" duration="97000" />
+      <workItem from="1554870874690" duration="18000" />
+      <workItem from="1555072915276" duration="45000" />
+      <workItem from="1566467478562" duration="9090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

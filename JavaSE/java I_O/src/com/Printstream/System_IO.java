@@ -1,4 +1,4 @@
-package com.IO;
+package com.Printstream;
 
 import  java.io.*;
 import  java.io.IOException;
