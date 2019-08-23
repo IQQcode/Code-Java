@@ -4,7 +4,7 @@ package com.DynamicArray;
 /**
  * @Author: Mr.Q
  * @Date: 2019-08-22 20:28
- * @Description:
+ * @Description:链表---实现动态数组扩容
  */
 public class ListOfDynamicArray<E> {
     private class Node {

@@ -68,7 +68,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,7 +82,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DynamicArray">
+  <component name="RunManager" selected="Application.ArrayOfDynamicArray">
+    <configuration name="ArrayOfDynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DynamicArray.ArrayOfDynamicArray" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DynamicArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionsFramework_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="www.javaSE.List.CollectionsFramework_List" />
       <module name="ClassCollection" />
@@ -124,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayOfDynamicArray" />
         <item itemvalue="Application.DynamicArray" />
         <item itemvalue="Application.ListMethod" />
         <item itemvalue="Application.CollectionsFramework_List" />
@@ -154,6 +168,10 @@
       <workItem from="1554870874690" duration="18000" />
       <workItem from="1555072915276" duration="45000" />
       <workItem from="1566467478562" duration="9090000" />
+      <workItem from="1566520790198" duration="608000" />
+      <workItem from="1566543365845" duration="4341000" />
+      <workItem from="1566548092267" duration="116000" />
+      <workItem from="1566548225930" duration="3112000" />
     </task>
     <servers />
   </component>
@@ -165,7 +183,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
