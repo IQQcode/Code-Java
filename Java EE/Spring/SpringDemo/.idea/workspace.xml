@@ -1,59 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fe73db6-a5e5-48f9-b3ad-d92114af05d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/ChartRoom_WebSocket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/Database/jdbc.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/test/JDBCDemoDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/test/JDBCDemoInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/src/test/JDBCDemoSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/JDBCDemoDelete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/JDBCDemoInsert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/JDBCDemoSelect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Projects/ChartRoom_WebSocket/target/test-classes/META-INF/ChartRoom_WebSocket.kotlin_module" afterDir="false" />
+    <list default="true" id="e27824ed-f7ce-4a08-a17c-110f47d0b3a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/bean/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/bean/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/bean/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/iqqcode/bean/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_demo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaSE/MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaSE/MultiThread/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaSE/Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaSE/Reflect/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../JavaSE/java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavaSE/java I_O/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JDBC_Demo/JDBC_Demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JDBC_Demo/src/mysql/jdbc/demo/JDBC_Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/artifacts/JSP_Test_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/libraries/JSP_Test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/JSP_Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/out/artifacts/JSP_Test_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/out/artifacts/JSP_Test_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/out/artifacts/JSP_Test_war_exploded/page/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/JSP_Test/web/page/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/XML_develop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/out/production/JDBC_Demo/mysql/jdbc/demo/JDBC_Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/XML_develop/src/main/resources/contact.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../JavaWeb/xml01_basic/xml01_basic.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +23,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,37 +36,24 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\develop\repository" />
-        <option name="userSettingsFile" value="D:\software\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1OjIkeUbMJBwyggmNjScE6IsdlU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="1OobSMbaMHt81erJv7nQN0JkCfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JavaWeb/JDBC/JDBCDemo" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.github.izhangzhihao.rainbow.brackets.settings.RainbowConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Code-Java\Java EE\SpringDemo\src\main\resources" />
+      <recent name="F:\Code-Java\Java EE\Spring\SpringDemo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -148,21 +93,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8fe73db6-a5e5-48f9-b3ad-d92114af05d7" name="Default Changelist" comment="" />
-      <created>1564037453825</created>
+      <changelist id="e27824ed-f7ce-4a08-a17c-110f47d0b3a2" name="Default Changelist" comment="" />
+      <created>1564646895580</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564037453825</updated>
-      <workItem from="1564037457825" duration="2506000" />
-      <workItem from="1564043153331" duration="2053000" />
-      <workItem from="1564045248999" duration="10004000" />
-      <workItem from="1564099436655" duration="1061000" />
-      <workItem from="1564100970489" duration="4873000" />
-      <workItem from="1564105961993" duration="2635000" />
-      <workItem from="1564484727500" duration="71000" />
-      <workItem from="1564553799522" duration="945000" />
-      <workItem from="1564556093705" duration="30000" />
-      <workItem from="1564562674407" duration="4529000" />
+      <updated>1564646895580</updated>
+      <workItem from="1564646899498" duration="1376000" />
+      <workItem from="1564668381458" duration="824000" />
+      <workItem from="1564892370096" duration="65000" />
     </task>
     <servers />
   </component>

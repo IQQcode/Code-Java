@@ -12,8 +12,9 @@ class ThreadPoolTest implements Callable<String> {
     @Override
     public String call() throws Exception {
         for (int i = 0; i < tickets; i++) {
-            if(tickets > 0)
+            if(tickets > 0) {
                 System.out.println(Thread.currentThread().getName() +"还剩 "+tickets--+" 票...");
+            }
         }
         return Thread.currentThread().getName() + "票卖完了！";
     }

@@ -1,7 +1,6 @@
 package org.iqqcode.utils;
 import	java.util.Properties;
 
-import org.iqqcode.utils.CommUtils;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -17,8 +16,10 @@ public class CommUtilsTest {
     public void loadProperties() {
        String fileNames = "db.properties";
        Properties properties = CommUtils.loadProperties(fileNames);
+       //System.out.println(properties);
+        // 如果加载成功,则 url不为空
        String url = properties.getProperty("url");
-       Assert.assertNotNull(url);
+       Assert.assertNotNull(url); //表示传入的对象不是空对象
 
     }
 }

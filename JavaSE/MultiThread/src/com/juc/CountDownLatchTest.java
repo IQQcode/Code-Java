@@ -26,6 +26,7 @@ class CountDownTest implements Runnable {
 public class CountDownLatchTest {
     public static void main(String[] args) throws InterruptedException {
         // 主线程等待三个子线程减为 0再恢复执行
+        //参数count为计数值
         CountDownLatch countDownLatch = new CountDownLatch(3);
         System.out.println("Game start...");
         new Thread(new CountDownTest(countDownLatch),"Runner A").start();

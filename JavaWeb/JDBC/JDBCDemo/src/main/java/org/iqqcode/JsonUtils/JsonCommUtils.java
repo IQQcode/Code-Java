@@ -15,10 +15,12 @@ public class JsonCommUtils {
 
     private JsonCommUtils(){ }
 
+    // JSON序列化
     public static String object2Json(Object obj) {
         return gson.toJson(obj);
     }
 
+    // JSON反序列化
     public static Object json2Object(String jsonStr,Class objClass) {
         return gson.fromJson(jsonStr,objClass);
     }

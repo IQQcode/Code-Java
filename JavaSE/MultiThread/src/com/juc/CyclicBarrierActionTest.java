@@ -10,6 +10,16 @@ import java.util.concurrent.TimeUnit;
  * @Description:所有调用await()阻塞的子线程在计数器值减为 0后
  * 随机挑选一个线程执行 barrierAction任务后,所有子线程恢复执行
  */
+import java.util.concurrent.BrokenBarrierException;
+import java.util.concurrent.CyclicBarrier;
+import java.util.concurrent.TimeUnit;
+
+/**
+ * @Author: Mr.Q
+ * @Date: 2019-08-12 15:02
+ * @Description:所有调用await()阻塞的子线程在计数器值减为 0后
+ * 随机挑选一个线程执行 barrierAction任务后,所有子线程恢复执行
+ */
 class CyclicActionTest implements Runnable {
     private CyclicBarrier cyclicBarrier;
 
@@ -31,6 +41,7 @@ class CyclicActionTest implements Runnable {
 }
 public class CyclicBarrierActionTest {
     public static void main(String[] args) throws InterruptedException {
+        // 传入线程组的数量和当线程达到时间节点后要做的操作
         CyclicBarrier cyclicBarrier = new CyclicBarrier(3, new Runnable() {
             @Override
             public void run() {

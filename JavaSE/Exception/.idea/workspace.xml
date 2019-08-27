@@ -14,7 +14,9 @@
       <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reflect/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exception/com/Exception/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exception/com/Exception/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exception/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java I_O/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MultiThread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Throwable" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +56,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -68,6 +71,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Test">
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Exception.ExceptionDemo" />
+      <module name="Exception" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ExceptionDemo.ExceptionTest01" />
       <module name="Exception" />
@@ -110,6 +126,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ExceptionDemo" />
         <item itemvalue="Application.ExceptionTest01" />
         <item itemvalue="Application.ExceptionTest03" />
       </list>
@@ -130,6 +147,10 @@
       <workItem from="1564919317457" duration="36000" />
       <workItem from="1564919549386" duration="18000" />
       <workItem from="1564994819935" duration="3616000" />
+      <workItem from="1565313877338" duration="578000" />
+      <workItem from="1565314481062" duration="71000" />
+      <workItem from="1565314575808" duration="6278000" />
+      <workItem from="1565337534056" duration="900000" />
     </task>
     <servers />
   </component>

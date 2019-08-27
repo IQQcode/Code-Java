@@ -23,7 +23,7 @@ public class JDBCUtilsPreparedStatementTest {
             connection = JDBCUtils.getConnection();
             String sql = "insert into user(username,password) VALUES (?,?)";
             statement = connection.prepareStatement(sql);
-            statement.setString(1,"Sunny");
+            statement.setString(1,"Tom");
             statement.setString(2, DigestUtils.md5Hex("1234"));
             int effect = statement.executeUpdate();
             // 如果 effect == 1则插入成功(受影响的行数)

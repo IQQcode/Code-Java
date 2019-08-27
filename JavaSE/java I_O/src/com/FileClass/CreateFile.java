@@ -19,8 +19,7 @@ public class CreateFile {
         //2.判断父路径是否存在，不存在则创建多级父路径
         if(!file.getParentFile().exists()) {
             //多级父路径 + mkdirs()创建文件
-            file.getParentFile().mkdirs();
-            // 如果直接 file.mkdirs()则会创建为文件夹
+            file.getParentFile().mkdirs(); // 如果直接 file.mkdirs()则会创建为文件夹
         }
 
         //3.判断文件是否存在，不存在则创建文件

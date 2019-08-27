@@ -16,7 +16,7 @@ import org.iqqcode.utils.CommUtils;
 /**
  * @Author: Mr.Q
  * @Date: 2019-08-01 10:23
- * @Description:基于Alibaba Druid DataSource
+ * @Description:基于Alibaba DruidDataSource
  */
 public class DruidUtils {
     private static DruidDataSource dataSource;
