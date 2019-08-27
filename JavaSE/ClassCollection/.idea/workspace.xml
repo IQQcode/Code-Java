@@ -161,7 +161,6 @@
       <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/js/jquery_min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/.idea/vcs.xml" afterDir="false" />
@@ -180,7 +179,6 @@
       <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CollectionsFramework_List/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/Data.java" beforeDir="false" />
@@ -357,7 +355,7 @@
       <workItem from="1566641462727" duration="5000" />
       <workItem from="1566696314697" duration="100000" />
       <workItem from="1566898411551" duration="1784000" />
-      <workItem from="1566904792609" duration="4669000" />
+      <workItem from="1566904792609" duration="5149000" />
     </task>
     <servers />
   </component>
