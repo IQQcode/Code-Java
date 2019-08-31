@@ -2,197 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5586ce-6f2d-4e19-8012-368ec736c61e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Code-practise/java/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Code-practise/java/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Structure/Sort/BubbleSort/out/production/BubbleSort/sort/Bubble/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Data Structure/Sort/BubbleSort/src/sort/Bubble/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/admin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/adminCourse.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/checkadmin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/studentIndex.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/studentInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/jdbc/control/JDBCDemoUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/jdbc/injection/SQLInjection01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/jdbc/injection/SQLInjection02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/META-INF/Demo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/jdbc/control/JDBCDemoUpdate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/jdbc/injection/SQLInjection01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/jdbc/injection/SQLInjection02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/.idea/artifacts/JSP_Test_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/.idea/libraries/JSP_Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/out/artifacts/JSP_Test_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/out/artifacts/JSP_Test_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/out/artifacts/JSP_Test_war_exploded/page/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/JSP/JSP_Test/web/page/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/XML_develop/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/XML_develop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/XML_develop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/XML_develop/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/XML_develop/out/production/JDBC_Demo/mysql/jdbc/demo/JDBC_Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/XML_develop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/XML_develop/src/main/resources/contact.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/xml01_basic/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/xml01_basic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/xml01_basic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/XML/xml01_basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/config/FreeMarkerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/controller/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/entity/MessageFromClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/entity/MessageToClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/service/WebSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/utils/CommUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/resources/datasource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/build.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/common_form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/qq.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/file.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/robot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/robot2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/js/common_form_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/assets/js/jquery_min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/chat.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/main/webapp/websocketTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/src/test/com/chartroom/dao/AccountDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/config/FreeMarkerListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/controller/AccountController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/dao/AccountDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/entity/MessageFromClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/entity/MessageToClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/service/AccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/service/WebSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/utils/CommUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/datasource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.28.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/junit-4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/build.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/common_form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/qq.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/file.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/robot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/robot2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/js/common_form_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/js/jquery_min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/chat.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/websocketTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/config/FreeMarkerListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/controller/AccountController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/dao/AccountDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/entity/MessageFromClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/entity/MessageToClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/service/AccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/service/WebSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/com/chartroom/utils/CommUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/datasource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/test-classes/META-INF/ChartRoom_WebSocket.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/test-classes/com/chartroom/dao/AccountDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/StudmentManament/out/artifacts/StudmentManament_war_exploded/img/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/build.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/common_form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/qq.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/file.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/robot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/robot2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/js/common_form_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/js/jquery_min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/WebSockets Page/registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/QuickSort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/out/production/QuickSort/www/Algorithmic/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/out/production/QuickSort/www/Algorithmic/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/QuickSort/src/www/Algorithmic/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/QuickSort/src/www/Algorithmic/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -231,7 +41,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -248,52 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetTestComparator">
-    <configuration name="ArrayOfDynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.DynamicArray.ArrayOfDynamicArray" />
-      <module name="ClassCollection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.DynamicArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionsFramework_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.javaSE.List.CollectionsFramework_List" />
-      <module name="ClassCollection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="www.javaSE.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.List.DynamicArray" />
-      <module name="ClassCollection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.DynamicArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListMethod">
     <configuration name="ListMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.List.ListMethod" />
       <module name="ClassCollection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.DynamicArray.*" />
+          <option name="PATTERN" value="com.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +72,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Set.SetTestComparator" />
+    <configuration name="MapIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Map.MapIterator" />
       <module name="ClassCollection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Set.TreeSet.*" />
+          <option name="PATTERN" value="com.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Set.HashSet.Test" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Set.HashSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Map.HashMap.Test_HashMap" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Map.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_ListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iterator.Test_ListIterator" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetTestComparator" />
-        <item itemvalue="Application.ArrayOfDynamicArray" />
-        <item itemvalue="Application.DynamicArray" />
         <item itemvalue="Application.ListMethod" />
-        <item itemvalue="Application.CollectionsFramework_List" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test_ListIterator" />
+        <item itemvalue="Application.MapIterator" />
+        <item itemvalue="Application.Test_HashMap" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +165,10 @@
       <workItem from="1566641462727" duration="5000" />
       <workItem from="1566696314697" duration="100000" />
       <workItem from="1566898411551" duration="1784000" />
-      <workItem from="1566904792609" duration="5149000" />
+      <workItem from="1566904792609" duration="5945000" />
+      <workItem from="1566915570022" duration="1721000" />
+      <workItem from="1567213784097" duration="179000" />
+      <workItem from="1567214227502" duration="21473000" />
     </task>
     <servers />
   </component>
