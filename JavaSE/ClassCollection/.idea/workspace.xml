@@ -58,7 +58,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListMethod">
+  <component name="RunManager" selected="Application.TreeSetTestComparator">
+    <configuration name="ArrayOfDynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DynamicArray.ArrayOfDynamicArray" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DynamicArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListAddClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.List.ListAddClass" />
+      <module name="ClassCollection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.List.ListMethod" />
       <module name="ClassCollection" />
@@ -72,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Map.MapIterator" />
+    <configuration name="ListOfDynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DynamicArray.ListOfDynamicArray" />
       <module name="ClassCollection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Map.*" />
+          <option name="PATTERN" value="com.DynamicArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,38 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Set.HashSet.Test" />
+    <configuration name="TreeSetTestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Set.TreeSet.TreeSetTestComparator" />
       <module name="ClassCollection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Set.HashSet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Map.HashMap.Test_HashMap" />
-      <module name="ClassCollection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Map.HashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test_ListIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iterator.Test_ListIterator" />
-      <module name="ClassCollection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.iterator.*" />
+          <option name="PATTERN" value="com.Set.TreeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetTestComparator" />
+        <item itemvalue="Application.ListOfDynamicArray" />
+        <item itemvalue="Application.ArrayOfDynamicArray" />
+        <item itemvalue="Application.ListAddClass" />
         <item itemvalue="Application.ListMethod" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test_ListIterator" />
-        <item itemvalue="Application.MapIterator" />
-        <item itemvalue="Application.Test_HashMap" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,7 @@
       <workItem from="1566904792609" duration="5945000" />
       <workItem from="1566915570022" duration="1721000" />
       <workItem from="1567213784097" duration="179000" />
-      <workItem from="1567214227502" duration="21473000" />
+      <workItem from="1567214227502" duration="26168000" />
     </task>
     <servers />
   </component>

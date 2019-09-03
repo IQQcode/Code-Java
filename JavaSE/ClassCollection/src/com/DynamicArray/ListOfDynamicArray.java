@@ -6,7 +6,7 @@ package com.DynamicArray;
  * @Date: 2019-08-22 20:28
  * @Description:链表---实现动态数组扩容
  */
-public class ListOfDynamicArray<E> {
+class MyArrayOfList<E> {
     private class Node {
         E data; //数据
         Node next; //前指针
@@ -33,5 +33,24 @@ public class ListOfDynamicArray<E> {
         tail.next = node;
         tail = node;
         size++;
+    }
+
+    @Override
+    public String toString() {
+        return "MyArrayOfList{" +
+                "size=" + size +
+                '}';
+    }
+}
+public class ListOfDynamicArray {
+    public static void main(String[] args) {
+        MyArrayOfList<String> msg = new MyArrayOfList<>();
+        msg.add("SchoolStarts..");
+        msg.add("大三了！！");
+        msg.add("A");
+        msg.add("B");
+        msg.add("C");
+        msg.add("D");
+        System.out.println(msg);
     }
 }
