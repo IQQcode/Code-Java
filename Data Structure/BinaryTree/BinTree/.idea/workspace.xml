@@ -65,7 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BinTree OJ" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -148,7 +148,7 @@
       <workItem from="1569422188839" duration="37000" />
       <workItem from="1569492575678" duration="95000" />
       <workItem from="1569492733780" duration="10151000" />
-      <workItem from="1569509769249" duration="2829000" />
+      <workItem from="1569509769249" duration="4225000" />
     </task>
     <servers />
   </component>
