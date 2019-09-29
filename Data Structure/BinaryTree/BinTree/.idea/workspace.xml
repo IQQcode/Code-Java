@@ -48,6 +48,9 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BinTree" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -88,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoTree">
+  <component name="RunManager" selected="Application.TestMain">
     <configuration name="DemoTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinTree.DemoBinTree.DemoTree" />
       <module name="BinTree" />
@@ -117,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoTree" />
         <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.DemoTree" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +152,8 @@
       <workItem from="1569492575678" duration="95000" />
       <workItem from="1569492733780" duration="10151000" />
       <workItem from="1569509769249" duration="4225000" />
+      <workItem from="1569746227269" duration="8783000" />
+      <workItem from="1569757005221" duration="4595000" />
     </task>
     <servers />
   </component>

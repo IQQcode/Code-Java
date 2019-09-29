@@ -7,7 +7,7 @@ import java.util.LinkedList;
 /**
  * @Comparable<E> 指定了泛型上限
  */
-public class BinSearchTree<E extends Comparable<E>> implements BinTree<E> {
+public class BinSearchTree<E extends Comparable> implements BinTree<E> {
     /**
      * 内部类定义节点
      * @Description: 二叉树的节点
@@ -28,7 +28,7 @@ public class BinSearchTree<E extends Comparable<E>> implements BinTree<E> {
     private int size;
 
     /**
-     * 以当前node节点作为根节点，插入新元素e
+     * 以当前node节点作为根节点,插入新元素e
      * @param e
      */
     @Override
@@ -37,7 +37,7 @@ public class BinSearchTree<E extends Comparable<E>> implements BinTree<E> {
     }
 
     /**
-     * 以当前node节点作为根节点，插入新元素e
+     * 以当前node节点作为根节点,插入新元素e
      * 返回插入后新树的根节点
      * @param node
      * @param e
@@ -56,43 +56,15 @@ public class BinSearchTree<E extends Comparable<E>> implements BinTree<E> {
         if (e.compareTo(node.data) > 0) {
             node.right = add(node.right,e);
         }
-        //如果插入的是重复元素，直接 return
+        //如果插入的是重复元素,直接 return
         return node;
     }
 
-//    /**
-//     * 以指定的node为根节点，插入元素e
-//     * @param node
-//     * @param e
-//     */
-//    private void add(Node node,E e) {
-//        // 插入的值刚好是当前树根节点的值
-//        if (node.data.compareTo(e) == 0) {
-//            return;
-//        }
-//        // 找到插入位置，在左子树做插入
-//        else if (e.compareTo(node.data) < 0 && node.left == null) {
-//            Node newNode = new Node(e);
-//            node.left = newNode;
-//            size ++;
-//        }
-//        else if (e.compareTo(node.data) > 0 && node.right == null) {
-//            Node newNode = new Node(e);
-//            node.right = newNode;
-//            size ++;
-//        }
-//        else if (e.compareTo(node.data) < 0) {
-//            // 递归寻找左树插入位置
-//            add(node.left,e);
-//        }
-//        else {
-//            // 递归寻找右树插入位置
-//            add(node.right,e);
-//        }
-//    }
-
-
-
+    /**
+     * 是否包含某一元素
+     * @param e
+     * @return
+     */
     @Override
     public boolean contains(E e) {
         if (root == null) {
@@ -238,22 +210,42 @@ public class BinSearchTree<E extends Comparable<E>> implements BinTree<E> {
         return size;
     }
 
+    /**
+     * 前序遍历层级输出,覆写 toString()
+     * @return
+     */
     @Override
     public String toString() {
         StringBuilder res = new StringBuilder();
         generateTreeStruct(root,0,res);
         return res.toString();
     }
+
+    /**
+     * 前序遍历层级输出
+     * @param node 开始遍历的节点
+     * @param depth 层数
+     * @param res 输出方式
+     */
     private void generateTreeStruct(Node node,int depth,StringBuilder res) {
         if (node == null) {
             res.append("null"+"\n");
             return;
         }
-        res.append(generateGang(depth)+node.data+"\n");
-        generateTreeStruct(node.left,depth+1,res);
-        generateTreeStruct(node.right,depth+1,res);
+        //访问当前节点
+        res.append(generateLayers(depth) + node.data + "\n");
+        //递归访问左子树
+        generateTreeStruct(node.left,depth + 1,res);
+        //递归访问右子树
+        generateTreeStruct(node.right,depth + 1,res);
     }
-    private String generateGang(int depth) {
+
+    /**
+     * 根据传入的层数输出‘--’
+     * @param depth
+     * @return
+     */
+    private String generateLayers(int depth) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0;i < depth;i++) {
             sb.append("--");
