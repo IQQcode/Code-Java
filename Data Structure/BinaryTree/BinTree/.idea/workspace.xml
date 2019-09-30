@@ -92,6 +92,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.TestMain">
+    <configuration name="BinSearchTreeLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinTree.BinSearchTree.BinSearchTreeLoop" />
+      <module name="BinTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinTree.BinSearchTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinTree.DemoBinTree.DemoTree" />
       <module name="BinTree" />
@@ -121,6 +134,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.BinSearchTreeLoop" />
         <item itemvalue="Application.DemoTree" />
       </list>
     </recent_temporary>
@@ -154,6 +168,7 @@
       <workItem from="1569509769249" duration="4225000" />
       <workItem from="1569746227269" duration="8783000" />
       <workItem from="1569757005221" duration="4595000" />
+      <workItem from="1569857166835" duration="1594000" />
     </task>
     <servers />
   </component>
