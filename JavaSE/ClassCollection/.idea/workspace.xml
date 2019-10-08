@@ -32,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,7 +44,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,6 +169,13 @@
       <workItem from="1566915570022" duration="1721000" />
       <workItem from="1567213784097" duration="179000" />
       <workItem from="1567214227502" duration="26168000" />
+      <workItem from="1567665662105" duration="859000" />
+      <workItem from="1567667855614" duration="11000" />
+      <workItem from="1567681356608" duration="6000" />
+      <workItem from="1567688144346" duration="712000" />
+      <workItem from="1568203382885" duration="62000" />
+      <workItem from="1568203469515" duration="510000" />
+      <workItem from="1568210724614" duration="222000" />
     </task>
     <servers />
   </component>
