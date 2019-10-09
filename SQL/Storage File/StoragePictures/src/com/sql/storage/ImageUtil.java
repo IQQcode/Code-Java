@@ -9,7 +9,7 @@ import java.io.InputStream;
 /**
  * @Author: Mr.Q
  * @Date: 2019-10-08 14:48
- * @Description:
+ * @Description:封装读取图片的流
  */
 public class ImageUtil {
 
@@ -18,7 +18,7 @@ public class ImageUtil {
         return new FileInputStream(new File(path));
     }
 
-    // 读取表中图片获取输出流
+    // 读取数据表中图片获取输出流
     public static void readBin2Image(InputStream in, String targetPath) {
         File file = new File(targetPath);
         String path = targetPath.substring(0, targetPath.lastIndexOf("/"));

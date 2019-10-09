@@ -10,12 +10,15 @@ import java.sql.SQLException;
 /**
  * @Author: Mr.Q
  * @Date: 2019-10-08 14:50
- * @Description:
+ * @Description:实现图片（本地、数据库互相传输）
  */
 public class ImageDemo {
 
-    // 将图片插入数据库
-    public static void readImage2DB() {
+    /**
+     * @addImageToDB 将图片插入数据库
+     */
+
+    public static void addImageToDB() {
         String path = "D:/1.jpg";
         Connection conn = null;
         PreparedStatement ps = null;
@@ -23,10 +26,8 @@ public class ImageDemo {
         try {
             in = ImageUtil.readImage(path);
             conn = DBUtil.getConn();
-//            String sql = "insert into photo (id,name,photo) values(?,?,?)";
             String sql = "insert into photo (name,photo) values(?,?)";
             ps = conn.prepareStatement(sql);
-//            ps.setInt(1, 1);
             ps.setString(1, "Tom2");
             ps.setBinaryStream(2, in, in.available());
             int count = ps.executeUpdate();
@@ -50,8 +51,10 @@ public class ImageDemo {
 
     }
 
-    // 读取数据库中图片
-    public static void readDB2Image() {
+    /**
+     * @readDBToImage() 读取数据库中图片
+     */
+    public static void readDBToImage() {
         //String targetPath = "D:/1.jpg";
         String targetPath_base = "D:/1.jpg";
         Connection conn = null;
@@ -61,10 +64,9 @@ public class ImageDemo {
         int numOfPicture = 2;
         try {
             conn = DBUtil.getConn();
-
             String sql = "select * from photo where id =?";
             ps = conn.prepareStatement(sql);
-            for(int i=1;i<=numOfPicture;i++) {
+            for(int i = 1; i <= numOfPicture; i++) {
                 ps.setInt(1, i);
                 rs = ps.executeQuery();
 
@@ -101,7 +103,7 @@ public class ImageDemo {
     }
     //测试
     public static void main(String[] args) {
-        readImage2DB();
-        //readDB2Image();
+        //addImageToDB();
+        readDBToImage();
     }
 }

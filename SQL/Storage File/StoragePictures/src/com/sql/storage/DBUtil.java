@@ -7,7 +7,7 @@ import java.sql.SQLException;
 /**
  * @Author: Mr.Q
  * @Date: 2019-10-07 23:07
- * @Description:
+ * @Description:连接数据库
  */
 public class DBUtil {
     // 定义数据库连接参数
@@ -50,5 +50,4 @@ public class DBUtil {
     public static void main(String[] args) throws SQLException {
         System.out.println(DBUtil.getConn());
     }
-
 }
