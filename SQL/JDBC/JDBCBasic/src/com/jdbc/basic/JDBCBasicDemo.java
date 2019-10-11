@@ -7,7 +7,7 @@ import java.sql.*;
  * @Date: 2019-10-08 16:05
  * @Description:jdbc连接数据库基础操作
  */
-public class JDBCDemo1 {
+public class JDBCBasicDemo {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         // 1.导入驱动jar包
         // 2.注册驱动
