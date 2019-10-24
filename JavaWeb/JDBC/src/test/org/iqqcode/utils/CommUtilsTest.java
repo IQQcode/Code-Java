@@ -20,6 +20,5 @@ public class CommUtilsTest {
         // 如果加载成功,则 url不为空
         String url = properties.getProperty("url");
         Assert.assertNotNull(url); //表示传入的对象不是空对象
-
     }
 }
