@@ -19,8 +19,11 @@ public class optimalBubble {
                     //此趟排序没有进行数值交换
                     flag = true;
                 }
+                //在一趟排序中没有发生过交换
                 if(!flag) {
                     break;
+                }else {
+                    flag = false;  //重置flag,进行下次判断
                 }
             }
         }
