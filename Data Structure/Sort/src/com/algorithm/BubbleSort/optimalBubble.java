@@ -9,8 +9,8 @@ import java.util.Arrays;
  */
 public class optimalBubble {
     public static void bubbleSort(int[] arr) {
+        boolean flag = false;
         for(int i = 0; i < arr.length - 1; i++) {
-            boolean flag = false;
             for(int j = 0; j < arr.length - 1 - i; j++) {
                 if(arr [j] > arr [j + 1]) {
                     int temp = arr [j];
@@ -30,7 +30,7 @@ public class optimalBubble {
     }
 
     public static void main(String[] args) {
-        int[] array = new int [] {1, 2, 3, 4, 5, 6, 7, 8};
+        int[] array = new int [] {1, 2, 3, 4, 5, 6};
         bubbleSort(array);
         System.out.println("The Bubble Sort is : " + Arrays.toString(array));
     }
