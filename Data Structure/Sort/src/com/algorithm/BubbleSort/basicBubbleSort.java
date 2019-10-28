@@ -41,7 +41,7 @@ public class basicBubbleSort {
     }
 
     public static void main(String[] args) {
-        int[] array = new int [] {0, 20, 1, 80, 3, 2};
+        int[] array = new int [] {5, 8, 6, 3, 9, 2, 1, 7};
         bubbleSort(array);
         System.out.println("The Bubble Sort is : " + Arrays.toString(array));
     }
