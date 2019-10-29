@@ -1,4 +1,4 @@
-package com.algorithm.BubbleSort;
+package com.algorithm.bubbleSort;
 
 import java.util.Arrays;
 
@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @Description:鸡尾酒排序---钟摆冒泡
  * 适合于大部分有序的数列
  */
-public class CocktailSort {
+public class cocktailSort {
     public static void CocktailSort(int[] arr) {
         boolean flag = false;
         for(int i = 0; i < arr.length / 2; i++) {

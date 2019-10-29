@@ -1,41 +1,31 @@
-package com.algorithm.BubbleSort;
+package com.algorithm.bubbleSort;
 
 import java.util.Arrays;
 
 /**
  * @Author: Mr.Q
- * @Date: 2019-10-13 09:25
- * @Description:基础冒泡排序
+ * @Date: 2019-10-13 10:24
+ * @Description:优化的冒泡排序,增加标志位,如果有序则不交换
  */
-public class basicBubbleSort {
-    /**
-     * 自上往下冒泡
-     * @param arr
-     */
+public class optimalBubble {
     public static void bubbleSort(int[] arr) {
+        boolean flag = false;
         for(int i = 0; i < arr.length - 1; i++) {
             for(int j = 0; j < arr.length - 1 - i; j++) {
                 if(arr [j] > arr [j + 1]) {
                     int temp = arr [j];
                     arr [j] = arr [j+1];
                     arr [j+1] = temp;
+                    //此趟排序没有进行数值交换
+                    flag = true;
                 }
             }
-        }
-    }
-
-    /**
-     * 自下往上冒泡
-     * @param arr
-     */
-    public static void bubbleSort_A(int[] arr) {
-        for(int i = arr.length - 1 ; i > 0; i--) {
-            for(int j = 0; j < i; j++) {
-                if(arr [j] > arr [j + 1]) {
-                    int temp = arr [j];
-                    arr [j] = arr [j+1];
-                    arr [j+1] = temp;
-                }
+            //在一趟排序中没有发生过交换
+            if(!flag) {
+                break;
+            }else {
+                //重置flag,进行下次判断
+                flag = false;
             }
         }
     }

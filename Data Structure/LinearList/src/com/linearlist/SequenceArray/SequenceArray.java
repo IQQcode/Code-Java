@@ -10,6 +10,7 @@ import java.util.Arrays;
  */
 public class SequenceArray implements ISequence{
 
+    //存放数据的数组
     private Object[] elementData;
     //数组已使用空间
     private int usedSize;
@@ -27,7 +28,9 @@ public class SequenceArray implements ISequence{
     private boolean isFull() {
         return this.usedSize == this.elementData.length;
     }
+
     /**
+     * @增(尾插)
      * 1.判断pos的合法性，放入数据后是否会发生溢出
      * 2.向后移动数据
      * 3.插入数据,保证插入的位置有前驱
