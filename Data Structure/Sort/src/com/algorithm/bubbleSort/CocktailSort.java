@@ -8,8 +8,8 @@ import java.util.Arrays;
  * @Description:鸡尾酒排序---钟摆冒泡
  * 适合于大部分有序的数列
  */
-public class cocktailSort {
-    public static void CocktailSort(int[] arr) {
+public class CocktailSort {
+    public static void cocktailSort(int[] arr) {
         boolean flag = false;
         for(int i = 0; i < arr.length / 2; i++) {
             //奇数轮,从左向右比较交换
@@ -52,7 +52,7 @@ public class cocktailSort {
 
     public static void main(String[] args) {
         int[] array = new int [] {2, 3, 4, 5, 6, 7, 8, 1};
-        CocktailSort(array);
+        cocktailSort(array);
         System.out.println("The Bubble Sort is : " + Arrays.toString(array));
     }
 }

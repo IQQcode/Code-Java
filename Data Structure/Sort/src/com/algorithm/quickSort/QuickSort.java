@@ -7,15 +7,15 @@ import java.util.Arrays;
  * @Date: 2019-10-13 10:07
  * @Description:基础快排
  */
-public class quickSort {
+public class QuickSort {
         public static void main(String[] args) {
             int[] arr = new int[] {6,1,2,7,9,3,4,5,10,8};
             System.out.print("数组元素为：" + Arrays.toString(arr));
-            QuickSort(arr,0,arr.length - 1);
+            quickSort(arr,0,arr.length - 1);
             System.out.print("\n排序结果为：" + Arrays.toString(arr));
         }
 
-        public static void QuickSort(int[] arr,int left,int right) {
+        public static void quickSort(int[] arr,int left,int right) {
             if (left < right) {
                 int temp = arr[left]; //左边界基准数
                 //int temp = arr[left + (right - left) / 2]; //中轴值
@@ -38,8 +38,8 @@ public class quickSort {
                     }
                 }
                 arr[i] = temp;
-                QuickSort(arr, left, i-1);
-                QuickSort(arr, i+1, right);
+                quickSort(arr, left, i-1);
+                quickSort(arr, i+1, right);
             }
         }
 }

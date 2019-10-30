@@ -7,4 +7,7 @@ package com.pratise;
  * @Description:
  */
 public class ExcleJudgment {
+    public static void main(String[] args) {
+
+    }
 }

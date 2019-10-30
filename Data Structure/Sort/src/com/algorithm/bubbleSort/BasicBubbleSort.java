@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @Date: 2019-10-13 09:25
  * @Description:基础冒泡排序
  */
-public class basicBubbleSort {
+public class BasicBubbleSort {
     /**
      * 自上往下冒泡
      * @param arr
