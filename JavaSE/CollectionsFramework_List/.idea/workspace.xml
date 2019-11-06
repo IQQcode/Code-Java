@@ -2,31 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5586ce-6f2d-4e19-8012-368ec736c61e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/java/com/iqqcode/bean/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/SpringDemo/target/classes/com/iqqcode/bean/UserInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java EE/Spring/spring_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/DataSource/DruidUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/JsonUtils/JsonCommUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/Model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/java/org/iqqcode/utils/CommUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/CommUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/src/test/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/Model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/classes/org/iqqcode/utils/CommUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/CommUtilsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaWeb/JDBC/JDBCDemo/target/test-classes/org/iqqcode/utils/JDBCUtilsPreparedStatementTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/quickSort/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/basicBubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/basicBubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/optimalBubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/optimalBubble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/QuickSort/quickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/QuickSort/quickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/basicBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/BasicBubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/cocktailSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/CocktailSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/optimalBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/OptimalBubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/optimalPlusBubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/bubbleSort/OptimalPlusBubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/quickSort/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/src/com/algorithm/quickSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassCollection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassCollection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassCollection/out/production/集合框架/www/javaSE/List/CollectionsFramework_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassCollection/out/production/集合框架/www/javaSE/List/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lambda/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lambda/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MultiThread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/META-INF/MultiThread.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/src/com/pratise/ExcleJudgment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/src/com/pratise/ExcleJudgment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket/target/test-classes/META-INF/ChartRoom_WebSocket.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/DBUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/TextStorageDBTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/TextStorageDBTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/src/com/sql/storage/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/src/com/sql/storage/DBUtil.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +46,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="175" />
-    <option name="width" value="1750" />
-    <option name="height" value="1030" />
   </component>
   <component name="ProjectId" id="1Pm7Bhf1iLigztVkHG2oxlhFVdS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -119,6 +114,7 @@
       <workItem from="1554870874690" duration="18000" />
       <workItem from="1555072915276" duration="45000" />
       <workItem from="1566467285933" duration="190000" />
+      <workItem from="1572434995462" duration="43000" />
     </task>
     <servers />
   </component>
@@ -130,7 +126,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

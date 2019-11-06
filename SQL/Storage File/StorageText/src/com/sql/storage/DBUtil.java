@@ -1,10 +1,12 @@
 package com.sql.storage;
+
+import com.sql.utils.CommUtils;
 import	java.sql.ResultSet;
 import	java.sql.PreparedStatement;
 import	java.sql.DriverManager;
 import	java.sql.Connection;
-import java.sql.SQLException;
-
+import  java.sql.SQLException;
+import java.util.Properties;
 
 /**
  * @Author: Mr.Q
@@ -18,7 +20,6 @@ public class DBUtil {
     public static final String USERNAME = "root";
     public static final String PASSWORD = "1234";
 
-
     /**
      * 连接数据库
      * @return
@@ -27,16 +28,12 @@ public class DBUtil {
     public static Connection getConnection() throws SQLException {
         Connection conn = null;
         try {
-            Class.forName(DRIVER).newInstance();
+            Class.forName(DRIVER);
             conn = DriverManager.getConnection(URL,USERNAME,PASSWORD);
             if (conn != null) {
                 System.out.println("成功连接到数据库！");
             }
-        } catch (InstantiationException e) {
-            e.printStackTrace();
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        } catch (ClassNotFoundException e) {
+        }  catch (ClassNotFoundException e) {
             System.err.println("数据库连接失败...");
         }
         return conn;
