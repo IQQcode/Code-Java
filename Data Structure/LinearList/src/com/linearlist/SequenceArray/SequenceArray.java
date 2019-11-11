@@ -12,8 +12,10 @@ public class SequenceArray implements ISequence{
 
     //存放数据的数组
     private Object[] elementData;
+
     //数组已使用空间
     private int usedSize;
+
     //数组默认值
     private static final int DEFAULT_CAPACITY = 10;
 

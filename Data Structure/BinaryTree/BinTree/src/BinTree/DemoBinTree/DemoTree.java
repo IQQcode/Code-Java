@@ -1,5 +1,7 @@
 package BinTree.DemoBinTree;
 
+import BinTree.BinSearchTree.BinSearchTree;
+import javax.xml.soap.Node;
 import java.util.Arrays;
 import java.util.LinkedList;
 
@@ -23,6 +25,12 @@ public class DemoTree {
             this.data = data;
         }
     }
+
+    //根节点
+    private Node root;
+
+    //二叉树节点个数
+    private int size;
 
     /**
      * 二叉树输入序列
@@ -83,6 +91,7 @@ public class DemoTree {
         System.out.println(node.data);
     }
 
+
     public static void main(String[] args) {
         LinkedList<Integer> inputList = new LinkedList<Integer>
                 (Arrays.asList(new Integer[]{3, 2, 9, null, null, 10, null, null, 8, null, 4}));
@@ -93,5 +102,6 @@ public class DemoTree {
         inOrderTraveral(treeNode);
         System.out.println("后序遍历: ");
         postOrderTraveral(treeNode);
+        System.out.println("后序遍历: ");
     }
 }
