@@ -1,5 +1,6 @@
 package com.algorithm;
 import	java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * @Author: Mr.Q
@@ -29,7 +30,9 @@ public class LongStage {
     }
 
     public static void main(String[] args) {
-        String s = "sshs1233343ww3";
+        Scanner input = new Scanner(System.in);
+        String s = input.nextLine();
+        //String s = "sshs1233343ww3";
         // 转化为字符数组
         char[] elem = s.toCharArray();
         System.out.println(Arrays.toString(elem));

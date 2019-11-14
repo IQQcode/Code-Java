@@ -6,7 +6,8 @@ import java.util.Set;
 /**
  * @Author: Mr.Q
  * @Date: 2019-11-01 21:57
- * @Description:leetcode No.3
+ * @Description:寻找字符串中无重复的最长子串长度
+ * @leetcode3
  *
  * 使用i从0到n−1,以及j从i+1到n这两个嵌套的循环,枚举出s的所有子字符串
  * 放入Set(不允许重复)

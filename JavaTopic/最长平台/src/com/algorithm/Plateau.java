@@ -3,10 +3,12 @@ package com.algorithm;
 /**
  * @Author: Mr.Q
  * @Date: 2019-10-31 22:59
- * @Description:
+ * @Description:最长平台问题
+ * Input : 1, 2, 3, 3, 3, 4, 3, 3
+ * Ouput : 3
  */
 public class Plateau {
-    public static int longest_plateau(int x[], int n) {
+    public static int longest_plateau(int[] x, int n) {
         int  length = 1;
         for (int i = 1; i < n; i++) {
             if (x[i] == x[i-length]) {
