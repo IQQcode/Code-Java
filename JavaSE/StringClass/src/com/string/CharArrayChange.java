@@ -1,4 +1,6 @@
-public class Class9 {
+package com.string;
+
+public class CharArrayChange {
     public static void main(String[] args) {
 
         //1.字符数组 => 字符串

@@ -1,27 +1,519 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21f0c0fb-7ad9-499d-8d6f-09d760469a87" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="21f0c0fb-7ad9-499d-8d6f-09d760469a87" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/NowCoder/剑指Offer/JZ_Demo1/src/com/jzoffer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/NowCoder/剑指Offer/JZ_Demo1/src/com/jzoffer/Solution_Pass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StringClass/Class9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/CharArrayChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/META-INF/回文串LeetCode9.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/HuiwenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/HuiwenString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/LongestPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/src/com/algorithm/HuiwenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/src/com/algorithm/HuiwenString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/src/com/algorithm/LongestPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/回文串LeetCode9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/out/production/成绩区间判断/com/pratise/ScoreJudgment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/src/com/pratise/ExcleJudgment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/src/com/pratise/ScoreJudgment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/成绩区间判断.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/out/production/括号匹配/DataStruct/topic1/ParenthesisMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/src/DataStruct/topic1/ParenthesisMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/括号匹配.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/out/production/斐波那切数列_汉诺塔/com/BlueBridge/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/out/production/斐波那切数列_汉诺塔/com/BlueBridge/Hanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/src/com/BlueBridge/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/src/com/BlueBridge/Hanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/斐波那切数列_汉诺塔.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/out/production/最长子串LeetCode3/com/argorithmic/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/out/production/最长子串LeetCode3/com/argorithmic/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/src/com/argorithmic/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/src/com/argorithmic/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/最长子串LeetCode3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/out/production/最长平台/META-INF/最长平台.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/out/production/最长平台/com/algorithm/LongStage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/out/production/最长平台/com/algorithm/Plateau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/algorithm/LongStage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/algorithm/Plateau.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/array/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/最长平台.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/out/production/蓝桥杯第一题/com/sad/FactorialSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/out/production/蓝桥杯第一题/com/sad/IDonotKnow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/out/production/蓝桥杯第一题/com/sad/theNo_FactorialSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/src/com/sad/FactorialSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/src/com/sad/IDonotKnow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/src/com/sad/theNo_FactorialSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/蓝桥杯第一题.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/StudmentManament/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/StudmentManament/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Test/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/build.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/common_form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/css/qq.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/file.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/robot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/img/robot2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/js/common_form_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/assets/js/jquery_min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/WebSockets Page/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/.idea/artifacts/webDemo_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/META-INF/webDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/servlet/CpachaServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/sql/AdminSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/sql/BaseSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/util/CpachaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/util/DataBaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/util/StringUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/jquery.easyui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/js/outlook2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/js/validateExtends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/calendar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/combo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/combobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/datagrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/datalist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/datebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/easyui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/filebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/accordion_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/calendar_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/combo_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/datagrid_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/datebox_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/layout_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/linkbutton_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/menu_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/messager_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/pagination_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/panel_tools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/searchbox_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/slider_handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/spinner_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/tabs_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/tree_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/validatebox_warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/linkbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/menubutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/messager.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/numberbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/progressbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/propertygrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/searchbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/splitbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/textbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/validatebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/window.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/2012080412263.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/asterisk_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/basket_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/book_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/book_open_mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/book_previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/chart_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/door_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/edit_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/edit_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/filesave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/folder_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_clipart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_shapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_smartart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/mini_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/mini_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/mini_refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/pencil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/pencil_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/redo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/reload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/sum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/text_list_bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/text_list_numbers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/user_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/user_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/user_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/vcard_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/world_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/world_night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/zoom_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/locale/easyui-lang-zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/css/H-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/css/H-ui.login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/css/H-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab-2bak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/admin-login-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/admin-loginform-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/gq/cn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/gq/gj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/gq/us.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/hamburger-retina.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/hamburger.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon-add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_error_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_jt2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_right_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_warning_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/loading_072.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/totop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/js/H-ui.admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/js/H-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/icheck.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/jquery.icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/minimal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/minimal@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/jquery/1.9.1/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/jquery/1.9.1/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/icon_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/artifacts/webDemo_war_exploded/view/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/META-INF/webDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/servlet/CpachaServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/sql/AdminSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/sql/BaseSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/util/CpachaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/util/DataBaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/out/production/webDemo/com/ischoolbar/programmer/util/StringUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/model/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/servlet/CpachaServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/sql/AdminSQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/sql/BaseSQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/util/CpachaUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/util/DataBaseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/src/com/ischoolbar/programmer/util/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/jquery.easyui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/js/outlook2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/js/validateExtends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/calendar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/combo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/combobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/datagrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/datalist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/datebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/easyui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/filebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/accordion_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/calendar_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/combo_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/datagrid_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/datebox_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/layout_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/linkbutton_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/menu_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/messager_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/pagination_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/panel_tools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/searchbox_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/slider_handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/spinner_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/tabs_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/tree_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/images/validatebox_warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/linkbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/menubutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/messager.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/numberbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/progressbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/propertygrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/searchbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/splitbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/textbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/validatebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/default/window.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/2012080412263.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/asterisk_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/basket_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/book_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/book_open_mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/book_previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/chart_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/door_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/edit_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/edit_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/filesave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/folder_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/large_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/large_clipart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/large_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/large_shapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/large_smartart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/mini_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/mini_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/mini_refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/pencil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/pencil_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/redo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/reload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/sum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/text_list_bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/text_list_numbers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/user_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/user_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/user_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/vcard_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/world_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/world_night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/icons/zoom_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/easyui/themes/locale/easyui-lang-zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/css/H-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/css/H-ui.login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/css/H-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/acrossTab-2bak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/acrossTab-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/admin-login-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/admin-loginform-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/gq/cn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/gq/gj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/gq/us.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/hamburger-retina.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/hamburger.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/icon-add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/icon_error_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/icon_jt2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/icon_right_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/icon_warning_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/loading_072.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/totop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/js/H-ui.admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/js/H-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/icheck.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/jquery.icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/minimal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/minimal@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/icheck/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/jquery/1.9.1/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/lib/jquery/1.9.1/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/skin/default/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/skin/default/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/skin/default/icon_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/h-ui/skin/default/skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/web/view/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/webDemo/webDemo.iml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Class9.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Class9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,57 +522,23 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Class9.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="160" />
-    <option name="y" value="20" />
-    <option name="width" value="1750" />
-    <option name="height" value="1030" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="StringClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StringClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StringClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StringClass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
+  <component name="ProjectId" id="1TwylynKSSN7ugyv63FFAMZzKV9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -96,56 +554,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Class9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class9" />
+  <component name="RunManager" selected="Application.OtherMethod">
+    <configuration name="JudgeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.JudgeMethod" />
       <module name="StringClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObtainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.ObtainMethod" />
+      <module name="StringClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtherMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.OtherMethod" />
+      <module name="StringClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bufferAndbuilder.Solution" />
+      <module name="StringClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bufferAndbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.TransformMethod" />
+      <module name="StringClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Class9" />
+        <item itemvalue="Application.OtherMethod" />
+        <item itemvalue="Application.TransformMethod" />
+        <item itemvalue="Application.ObtainMethod" />
+        <item itemvalue="Application.JudgeMethod" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -160,59 +668,27 @@
       <option name="presentableId" value="Default" />
       <updated>1552654533919</updated>
       <workItem from="1552654538289" duration="2000000" />
+      <workItem from="1574385608888" duration="837000" />
+      <workItem from="1574479535790" duration="7187000" />
+      <workItem from="1574598293854" duration="4754000" />
+      <workItem from="1574639055236" duration="4664000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2000000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3294423" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Class9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
