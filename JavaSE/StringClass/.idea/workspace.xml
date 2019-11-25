@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f0c0fb-7ad9-499d-8d6f-09d760469a87" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../JavaTopic/NowCoder/剑指Offer/JZ_Demo1/src/com/jzoffer/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaTopic/NowCoder/剑指Offer/JZ_Demo1/src/com/jzoffer/Solution_Pass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StringClass/Class9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/CharArrayChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -554,7 +550,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OtherMethod">
+  <component name="RunManager" selected="Application.TestStringBuffer">
     <configuration name="JudgeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.string.JudgeMethod" />
       <module name="StringClass" />
@@ -597,8 +593,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bufferAndbuilder.Solution" />
+    <configuration name="TestStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bufferAndbuilder.TestStringBuffer" />
       <module name="StringClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -649,11 +645,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStringBuffer" />
         <item itemvalue="Application.OtherMethod" />
         <item itemvalue="Application.TransformMethod" />
         <item itemvalue="Application.ObtainMethod" />
         <item itemvalue="Application.JudgeMethod" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -672,6 +668,8 @@
       <workItem from="1574479535790" duration="7187000" />
       <workItem from="1574598293854" duration="4754000" />
       <workItem from="1574639055236" duration="4664000" />
+      <workItem from="1574683776514" duration="52000" />
+      <workItem from="1574688904411" duration="871000" />
     </task>
     <servers />
   </component>
