@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="21f0c0fb-7ad9-499d-8d6f-09d760469a87" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StringClass/com/bufferAndbuilder/TestStringBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bufferAndbuilder/TestStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bufferAndbuilder/StringBufferMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -550,35 +552,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestStringBuffer">
-    <configuration name="JudgeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.string.JudgeMethod" />
-      <module name="StringClass" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObtainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.string.ObtainMethod" />
-      <module name="StringClass" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestBuilder">
     <configuration name="OtherMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.string.OtherMethod" />
       <module name="StringClass" />
@@ -593,8 +567,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bufferAndbuilder.TestStringBuffer" />
+    <configuration name="StringBufferMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bufferAndbuilder.StringBufferMethod" />
+      <module name="StringClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bufferAndbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bufferAndbuilder.TestBuffer" />
+      <module name="StringClass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bufferAndbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bufferAndbuilder.TestBuilder" />
       <module name="StringClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -645,11 +647,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestStringBuffer" />
+        <item itemvalue="Application.TestBuilder" />
+        <item itemvalue="Application.TestBuffer" />
+        <item itemvalue="Application.StringBufferMethod" />
         <item itemvalue="Application.OtherMethod" />
         <item itemvalue="Application.TransformMethod" />
-        <item itemvalue="Application.ObtainMethod" />
-        <item itemvalue="Application.JudgeMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -670,6 +672,7 @@
       <workItem from="1574639055236" duration="4664000" />
       <workItem from="1574683776514" duration="52000" />
       <workItem from="1574688904411" duration="871000" />
+      <workItem from="1574937088797" duration="4136000" />
     </task>
     <servers />
   </component>

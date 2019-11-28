@@ -6,9 +6,9 @@ package com.bufferAndbuilder;
  * @Date: 2019-11-25 21:36
  * @Description:
  */
-public class TestStringBuffer {
+public class StringBufferMethod {
     public static void main(String[] args) {
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         sb.append("Hello");
         sb.append(" World!");
         sb.insert(6,"Hehe ");
