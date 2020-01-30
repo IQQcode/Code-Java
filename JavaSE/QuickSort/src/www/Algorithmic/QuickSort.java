@@ -20,14 +20,18 @@ public class QuickSort {
             int i = left;
             int j = right;
             while (i < j) {
-                while(i < j && arr[j] > temp)
+                while(i < j && arr[j] > temp) {
                     j--; // 从右向左找第一个小于x的数
-                if(i < j)
+                }
+                if(i < j) {
                     arr[i++] = arr[j];
-                while(i < j && arr[i] < temp)
+                }
+                while(i < j && arr[i] < temp) {
                     i++; // 从左向右找第一个大于x的数
-                if(i < j)
+                }
+                if(i < j) {
                     arr[j--] = arr[i];
+                }
             }
             arr[i] = temp;
             QuickSort(arr, left, i-1);

@@ -7,29 +7,646 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="524f8c63-97e0-4f09-b308-8f073ef1c5ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/basicBubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/basicBubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/optimalBubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/BubbleSort/optimalBubble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/QuickSort/quickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data Structure/Sort/out/production/Sort/com/algorithm/QuickSort/quickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/ClassCollection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/ClassCollection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/ClassCollection/out/production/ClassCollection/META-INF/ClassCollection.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/ClassCollection/out/production/集合框架/www/javaSE/List/CollectionsFramework_List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/ClassCollection/out/production/集合框架/www/javaSE/List/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/CollectionsFramework_List/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/CollectionsFramework_List/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/Lambda/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/Lambda/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/Lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/Lambda/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/MultiThread/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaSE/MultiThread/out/production/MultiThread/META-INF/MultiThread.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/algorithm/LongStage/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/algorithm/LongStage/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/LeetCode/回文串LeetCode9/回文串LeetCode9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/LeetCode/最长子串LeetCode3/最长子串LeetCode3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/NowCoder/剑指Offer/JZ_Demo1/JZ_Demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/NowCoder/剑指Offer/最长平台/.idea/最长平台.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/NowCoder/剑指Offer/最长平台/最长平台.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/Topic Problems/成绩区间判断/成绩区间判断.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/Topic Problems/括号匹配/括号匹配.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯/斐波那切数列_汉诺塔/斐波那切数列_汉诺塔.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯/蓝桥杯第一题/蓝桥杯第一题.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaWeb/Projects Demo/CourseManagement/CourseManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/ChartRoom_WebSocket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSE/QuickSort/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/QuickSort/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSE/QuickSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/QuickSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSE/QuickSort/src/www/Algorithmic/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/QuickSort/src/www/Algorithmic/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaSE/StringClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaSE/StringClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/META-INF/回文串LeetCode9.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/HuiwenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/HuiwenString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/LongestPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/src/com/algorithm/HuiwenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/src/com/algorithm/HuiwenString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/src/com/algorithm/LongestPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/回文串LeetCode9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/out/production/成绩区间判断/com/pratise/ScoreJudgment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/src/com/pratise/ExcleJudgment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/src/com/pratise/ScoreJudgment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/成绩区间判断/成绩区间判断.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/out/production/括号匹配/DataStruct/topic1/ParenthesisMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/src/DataStruct/topic1/ParenthesisMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/括号匹配/括号匹配.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/out/production/斐波那切数列_汉诺塔/com/BlueBridge/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/out/production/斐波那切数列_汉诺塔/com/BlueBridge/Hanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/src/com/BlueBridge/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/src/com/BlueBridge/Hanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/斐波那切数列_汉诺塔/斐波那切数列_汉诺塔.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/out/production/最长子串LeetCode3/com/argorithmic/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/out/production/最长子串LeetCode3/com/argorithmic/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/src/com/argorithmic/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/src/com/argorithmic/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长子串LeetCode3/最长子串LeetCode3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/out/production/最长平台/META-INF/最长平台.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/out/production/最长平台/com/algorithm/LongStage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/out/production/最长平台/com/algorithm/Plateau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/algorithm/LongStage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/algorithm/Plateau.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/src/com/array/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/最长平台/最长平台.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/out/production/蓝桥杯第一题/com/sad/FactorialSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/out/production/蓝桥杯第一题/com/sad/IDonotKnow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/out/production/蓝桥杯第一题/com/sad/theNo_FactorialSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/src/com/sad/FactorialSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/src/com/sad/IDonotKnow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/src/com/sad/theNo_FactorialSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaTopic/蓝桥杯第一题/蓝桥杯第一题.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/.idea/JavaWeb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/.idea/artifacts/CourseManagement_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/.idea/libraries/CourseManagement.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/CourseManagement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/Dao/CourseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/Dao/StudentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/Database/Dbutil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/model/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/AdminCourseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/CancelCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/CancelServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/CreateCourseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/FindCourseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/FindServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/RemainAddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/SearchServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/classes/Course/servlet/StudentInfoServlets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/adminCourse.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/checkadmin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/href/jquery-3.4.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/img/bars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/img/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/mysql/course" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/mysql/student" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/mysql/teacher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/regist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/studentIndex.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/studentInfo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/artifacts/CourseManagement_war_exploded/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/Dao/CourseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/Dao/StudentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/Database/Dbutil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/model/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/AdminCourseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/CancelCourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/CancelServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/CreateCourseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/FindCourseServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/FindServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/RegisterServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/RemainAddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/SearchServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/out/production/CourseManagement/Course/servlet/StudentInfoServlets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/Dao/CourseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/Dao/StudentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/Database/Dbutil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/model/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/AdminCourseServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/CancelCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/CancelServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/CreateCourseServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/FindCourseServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/FindServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/RegisterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/RemainAddServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/SearchServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/src/Course/servlet/StudentInfoServlets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/adminCourse.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/checkadmin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/href/jquery-3.4.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/img/bars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/img/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/mysql/course" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/mysql/student" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/mysql/teacher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/regist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/studentIndex.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/studentInfo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/CourseManagement/web/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/SMW页面/SSM_login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/SMW页面/h-ui/css/H-ui.login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaWeb/SMW页面/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChartRoom_WebSocket/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChartRoom_WebSocket/target/test-classes/META-INF/ChartRoom_WebSocket.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChartRoom_WebSocket/target/test-classes/com/chartroom/dao/AccountDaoTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/DBUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/TextStorageDBTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/out/production/StorageText/com/sql/storage/TextStorageDBTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/src/com/sql/storage/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SQL/Storage File/StorageText/src/com/sql/storage/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/css/build.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/css/common_form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/css/qq.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/img/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/img/file.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/img/robot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/img/robot2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/js/common_form_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/assets/js/jquery_min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets Page/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/.idea/artifacts/webDemo_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/META-INF/webDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/servlet/CpachaServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/sql/AdminSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/sql/BaseSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/util/CpachaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/util/DataBaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/classes/com/ischoolbar/programmer/util/StringUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/jquery.easyui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/js/outlook2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/js/validateExtends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/calendar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/combo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/combobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/datagrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/datalist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/datebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/easyui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/filebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/accordion_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/calendar_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/combo_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/datagrid_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/datebox_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/layout_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/linkbutton_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/menu_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/messager_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/pagination_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/panel_tools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/searchbox_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/slider_handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/spinner_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/tabs_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/tree_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/images/validatebox_warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/linkbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/menubutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/messager.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/numberbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/progressbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/propertygrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/searchbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/splitbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/textbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/validatebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/default/window.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/2012080412263.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/asterisk_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/basket_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/book_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/book_open_mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/book_previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/chart_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/door_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/edit_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/edit_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/filesave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/folder_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_clipart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_shapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/large_smartart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/mini_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/mini_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/mini_refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/pencil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/pencil_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/redo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/reload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/sum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/text_list_bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/text_list_numbers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/user_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/user_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/user_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/vcard_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/world_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/world_night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/icons/zoom_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/easyui/themes/locale/easyui-lang-zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/css/H-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/css/H-ui.login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/css/H-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab-2bak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/admin-login-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/admin-loginform-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/gq/cn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/gq/gj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/gq/us.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/hamburger-retina.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/hamburger.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon-add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_error_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_jt2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_right_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/icon_warning_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/loading_072.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/totop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/js/H-ui.admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/js/H-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/icheck.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/jquery.icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/minimal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/minimal@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/icheck/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/jquery/1.9.1/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/lib/jquery/1.9.1/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/icon_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/h-ui/skin/default/skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/artifacts/webDemo_war_exploded/view/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/META-INF/webDemo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/servlet/CpachaServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/sql/AdminSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/sql/BaseSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/util/CpachaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/util/DataBaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/out/production/webDemo/com/ischoolbar/programmer/util/StringUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/model/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/servlet/CpachaServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/sql/AdminSQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/sql/BaseSQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/util/CpachaUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/util/DataBaseUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/src/com/ischoolbar/programmer/util/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/jquery.easyui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/js/outlook2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/js/validateExtends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/color.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/calendar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/combo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/combobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/datagrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/datalist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/datebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/easyui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/filebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/accordion_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/calendar_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/combo_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/datagrid_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/datebox_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/layout_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/linkbutton_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/menu_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/messager_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/pagination_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/panel_tools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/searchbox_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/slider_handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/spinner_arrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/tabs_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/tree_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/images/validatebox_warning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/linkbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/menubutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/messager.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/numberbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/progressbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/propertygrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/searchbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/splitbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/textbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/validatebox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/default/window.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/2012080412263.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/asterisk_orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/basket_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/book_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/book_open_mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/book_previous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/chart_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/cut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/door_out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/edit_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/edit_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/filesave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/folder_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/large_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/large_clipart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/large_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/large_shapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/large_smartart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/mini_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/mini_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/mini_refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/pencil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/pencil_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/print.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/redo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/reload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/sum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/text_list_bullets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/text_list_numbers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/undo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/user_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/user_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/user_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/vcard_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/world_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/world_night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/icons/zoom_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/easyui/themes/locale/easyui-lang-zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/css/H-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/css/H-ui.login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/css/H-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/acrossTab-2bak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/acrossTab-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/admin-login-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/admin-loginform-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/gq/cn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/gq/gj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/gq/us.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/hamburger-retina.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/hamburger.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/icon-add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/icon_error_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/icon_jt2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/icon_right_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/icon_warning_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/loading_072.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/totop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/images/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/js/H-ui.admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/js/H-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/Hui-iconfont/1.0.1/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/icheck.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/jquery.icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/minimal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/minimal@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/icheck/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/jquery/1.9.1/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/lib/jquery/1.9.1/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/skin/default/acrossTab-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/skin/default/acrossTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/skin/default/icon_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/h-ui/skin/default/skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/web/view/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webDemo/webDemo.iml" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +676,13 @@
   </component>
   <component name="ProjectId" id="1SxyARVbHLNiEc7SlrTre5NhgAC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,6 +692,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -80,18 +707,6 @@
       <recent name="F:\web_code\StudmentManament\web" />
       <recent name="F:\web_code\StudmentManament\web\WEB-INF" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.39" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -168,6 +783,23 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -185,6 +817,10 @@
       <workItem from="1562169275940" duration="86000" />
       <workItem from="1572519400602" duration="15000" />
       <workItem from="1572519438212" duration="1350000" />
+      <workItem from="1574259330498" duration="400000" />
+      <workItem from="1574262622777" duration="19000" />
+      <workItem from="1575730355020" duration="1215000" />
+      <workItem from="1576635926765" duration="28000" />
     </task>
     <servers />
   </component>
@@ -204,20 +840,74 @@
       </map>
     </option>
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575731159524">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1575731159524" />
+    <state x="360" y="93" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1575731158679">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="360" y="93" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.864@0.0.1536.864" timestamp="1575731158679" />
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575730528359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1575730528359" />
+    <state width="1024" height="223" key="GridCell.Tab.0.bottom" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.0.center" timestamp="1575731576064">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1575731576064" />
+    <state width="1024" height="223" key="GridCell.Tab.0.left" timestamp="1575731576064">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1575731576064" />
+    <state width="1024" height="223" key="GridCell.Tab.0.right" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.1.bottom" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.1.center" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.1.left" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.1.right" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.2.bottom" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.2.center" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.2.left" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state width="1024" height="223" key="GridCell.Tab.2.right" timestamp="1575731576074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="223" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1575731576074" />
+    <state x="272" y="19" key="SettingsEditor" timestamp="1575731084607">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="272" y="19" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1575731084607" />
+    <state x="178" y="159" key="new project wizard" timestamp="1575730603190">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="159" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1575730603190" />
   </component>
 </project>

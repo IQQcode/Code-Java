@@ -11,6 +11,6 @@
     <title>ServletTest</title>
   </head>
   <body>
-      <h1>Hello Servlet</h1>
+      <p>Hello Servlet</p>
   </body>
 </html>

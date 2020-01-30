@@ -17,4 +17,22 @@
         <url-pattern>/ServletDemo</url-pattern>
     </servlet-mapping>
 
+
+    <!--配置ServletMethods-->
+    <servlet>
+        <servlet-name>ServletMethods</servlet-name>
+        <servlet-class>org.iqqcode.web.servlet.ServletMethods</servlet-class>
+        <!--指定Servle的创建时机(在服务器启动时被创建)
+                1.第一次被访问时创建
+                    * <load-on-startup>的默认值为-1
+                2.在服务器启动时创建
+                    * <load-on-startup>的值为0或正整数
+         -->
+        <load-on-startup>-5</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServletMethods</servlet-name>
+        <url-pattern>/ServletMethods</url-pattern>
+    </servlet-mapping>
+
 </web-app>

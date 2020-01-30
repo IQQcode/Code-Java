@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="21f0c0fb-7ad9-499d-8d6f-09d760469a87" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StringClass/com/bufferAndbuilder/TestStringBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bufferAndbuilder/TestStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bufferAndbuilder/StringBufferMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaTopic/回文串LeetCode9/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -530,7 +528,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projects/ChartRoom_WebSocket" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -672,7 +670,8 @@
       <workItem from="1574639055236" duration="4664000" />
       <workItem from="1574683776514" duration="52000" />
       <workItem from="1574688904411" duration="871000" />
-      <workItem from="1574937088797" duration="4136000" />
+      <workItem from="1574937088797" duration="5316000" />
+      <workItem from="1575348306365" duration="16000" />
     </task>
     <servers />
   </component>
