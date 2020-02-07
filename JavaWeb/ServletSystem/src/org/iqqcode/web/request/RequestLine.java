@@ -23,7 +23,7 @@ import java.io.IOException;
  */
 
 @WebServlet("/Servlet_RequestLine")
-public class Servlet_RequestLine extends HttpServlet {
+public class RequestLine extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 

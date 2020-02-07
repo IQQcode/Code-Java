@@ -14,7 +14,7 @@ import java.util.Enumeration;
  * @Description:Request对象获取请求头数据
  */
 @WebServlet("/Servlet_RequestHead")
-public class Servlet_RequestHead extends HttpServlet {
+public class RequestHead extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
