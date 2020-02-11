@@ -11,14 +11,12 @@ import java.io.IOException;
 /**
  * @Author: Mr.Q
  * @Date: 2020-02-07 08:36
- * @Description:
+ * @Description:获取请求消息体
  */
 @WebServlet("/RequestBody")
 public class RequestBody extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        //获取请求消息体
-
         //1.获取字符流
          BufferedReader br = request.getReader();
          //2.读取数据

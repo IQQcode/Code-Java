@@ -35,7 +35,7 @@ public class RequestLine extends HttpServlet {
         String method = request.getMethod();
         System.out.println("获取请求方式GET: " + method);
 
-        //2.获取虚拟目录:/ServletDemo---String getcontextPath()
+        //2.获取虚拟目录:/ServletDemo---String getContextPath()
         String contextPath = request.getContextPath();
         System.out.println("获取虚拟目录: " + contextPath);
 
@@ -56,6 +56,7 @@ public class RequestLine extends HttpServlet {
         //6.获取协议及版本: HTTP/1.1---String getProtocol()
         String protocol = request.getProtocol();
         System.out.println("获取协议及版本: " + protocol);
+
         //7.获取客户机的IP地址---String getRemoteAddr()
         String remoteAddr = request.getRemoteAddr();
         System.out.println("获取客户机的IP地址: " + remoteAddr);

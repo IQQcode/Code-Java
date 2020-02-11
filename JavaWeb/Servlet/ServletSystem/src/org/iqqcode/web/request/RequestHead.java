@@ -28,7 +28,7 @@ public class RequestHead extends HttpServlet {
         while(headerNames.hasMoreElements()) {
              String name = headerNames.nextElement();
              String value = request.getHeader(name);
-            System.out.println(name + "----" + value);
+             System.out.println(name + "----" + value);
         }
 
         //获取请求头数据user-agent
