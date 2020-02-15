@@ -33,7 +33,7 @@
       </td>
     </tr>
     <tr>
-      <td>上传下载<br></td>
+      <td>上传下载</td>
       <td>
         <a href="/ServletFile/DownLoadServlet?fileName=云韵.jpg">图片</a>
         <a href="/ServletFile/DownLoadServlet?fileName=11.avi">视频</a>
