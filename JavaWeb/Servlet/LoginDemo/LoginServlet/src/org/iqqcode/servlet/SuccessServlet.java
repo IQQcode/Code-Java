@@ -26,7 +26,10 @@ public class SuccessServlet extends HttpServlet {
 
         if(user != null) {
             //输出
-            response.getWriter().write("登陆成功!" + user.getUsername() +"欢迎您！");
+            //response.getWriter().write("登陆成功!" + user.getUsername() +"欢迎您！");
+
+            //重定向到success.jsp
+            response.sendRedirect(request.getContextPath() + "/success.jsp");
         }
     }
 

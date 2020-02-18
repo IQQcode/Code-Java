@@ -10,6 +10,8 @@ public class User {
     private int id;
     private String username;
     private String password;
+    //private String verification;
+
 
     public int getId() {
         return id;

@@ -9,6 +9,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Map;
@@ -25,6 +26,7 @@ public class ServletLogin extends HttpServlet {
         //1.设置编码
         request.setCharacterEncoding("UTF-8");
 
+        String verification = request.getParameter("checkCode");
         /*
         //2.获取单个请求参数
         String username = request.getParameter("username");
@@ -50,21 +52,41 @@ public class ServletLogin extends HttpServlet {
             e.printStackTrace();
         }
 
-        //4.调用UserDao的login方法
-        UserDao dao = new UserDao();
-        User user = dao.login(loginUser);
+        //4.验证码处理
 
-        //5.判断user
-        if (user == null) {
-            //登录失败
-            request.getRequestDispatcher("failServlet").forward(request, response);
+        //4.1获取生成的验证码
+        HttpSession session = request.getSession();
+        String checkCode_Session = (String) session.getAttribute("checkCode_Session");
+        //删除session中存储的验证码,防止重复使用
+        session.removeAttribute("checkCode_Session");
+        //4.2判断验证码是否正确
+        if (checkCode_Session != null && checkCode_Session.equalsIgnoreCase(verification)) {
+            //忽略大小写,比较字符串,验证码正确
+
+            //判断用户名和密码是否一致
+            //5.调用UserDao的login方法
+            UserDao dao = new UserDao();
+            User user = dao.login(loginUser);
+
+            //6.判断user
+            if (user == null) {
+                //登录失败
+                request.getRequestDispatcher("failServlet").forward(request, response);
+            }else {
+                //登陆成功,存储数据
+                request.setAttribute("user", user);
+                session.setAttribute("username", user.getUsername());
+                //转发
+                request.getRequestDispatcher("successServlet").forward(request, response);
+            }
         }else {
-            //登陆成功
-            //存储数据
-            request.setAttribute("user",user);
-            //转发
-            request.getRequestDispatcher("successServlet").forward(request, response);
+            //验证码不一致
+            //存储提示信息到request
+            request.setAttribute("CHECKCODE_Error", "验证码错误");
+            //转发到登录页面
+            request.getRequestDispatcher("index.jsp").forward(request, response);
         }
+
     }
 
     @Override
