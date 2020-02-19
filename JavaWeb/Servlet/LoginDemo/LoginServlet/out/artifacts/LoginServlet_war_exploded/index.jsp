@@ -60,9 +60,10 @@
     <input type="submit" name="" value="Login">
   </form>
 
-
-  <div><%=request.getAttribute("CHECKCODE_Error")==null ? "" : request.getAttribute("CHECKCODE_Error")%></div>
-  <div><%=request.getAttribute("Login_Error")==null ? "" : request.getAttribute("Login_Error")%></div>
+      ${requestScope.CHECKCODE_Error};
+      ${requestScope.Login_Error};
+  <%--<div><%=request.getAttribute("CHECKCODE_Error")==null ? "" : request.getAttribute("CHECKCODE_Error")%></div>
+  <div><%=request.getAttribute("Login_Error")==null ? "" : request.getAttribute("Login_Error")%></div>--%>
 
   </body>
 </html>

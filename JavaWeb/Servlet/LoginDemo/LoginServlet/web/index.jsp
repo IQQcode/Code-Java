@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Mr.Q
-  Date: 2020/2/9
-  Time: 8:43
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
@@ -60,9 +53,8 @@
     <input type="submit" name="" value="Login">
   </form>
 
-
-  <div><%=request.getAttribute("CHECKCODE_Error")==null ? "" : request.getAttribute("CHECKCODE_Error")%></div>
-  <div><%=request.getAttribute("Login_Error")==null ? "" : request.getAttribute("Login_Error")%></div>
+      ${requestScope.CHECKCODE_Error}
+      ${requestScope.Login_Error}
 
   </body>
 </html>
