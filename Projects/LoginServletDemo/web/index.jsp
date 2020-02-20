@@ -53,7 +53,7 @@
     </style>
   </head>
   <body>
-  <form class="box" action="/LoginServletDemo/ServletLogin" method="POST">
+  <form class="box" action="${pageContext.request.contextPath}/ServletLogin" method="POST">
     <div id="login-box">
       <h1>Login</h1>
       <!-- 输入框 -->

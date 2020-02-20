@@ -18,5 +18,17 @@
 
     ${requestScope.name} <br>
     ${sessionScope.age} <br>
+
+    <hr>
+    <h3>empty运算符</h3>
+    <%
+        String str1 = "";//空字符串,长度为0
+        String str2 = "ADB";
+        request.setAttribute("str1", str1);
+        request.setAttribute("str2", str2);
+    %>
+    ${empty str1}
+    ${empty str2}
+
 </body>
 </html>

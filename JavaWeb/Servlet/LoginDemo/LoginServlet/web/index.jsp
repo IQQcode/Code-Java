@@ -43,7 +43,7 @@
     </style>
   </head>
   <body>
-  <form class="box" action="/LoginServletDemo/ServletLogin" method="POST">
+  <form class="box" action="${pageContext.request.contextPath}/ServletLogin" method="POST">
     <h1>Login</h1>
     <input type="text" name="username" placeholder="Username">
     <input type="password" name="password" placeholder="Password">
