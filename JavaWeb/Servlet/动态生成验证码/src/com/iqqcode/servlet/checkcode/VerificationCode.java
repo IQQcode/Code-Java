@@ -21,6 +21,10 @@ import java.util.Random;
 public class VerificationCode extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        //服务器通知浏览器不要缓存
+        response.setHeader("pragma","no-cache");
+        response.setHeader("cache-control","no-cache");
+        response.setHeader("expires","0");
         int width = 120;
         int height = 50;
 
