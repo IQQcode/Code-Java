@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * @Author: Mr.Q
  * @Date: 2020-02-22 12:05
- * @Description:
+ * @Description:业务逻辑层，调用数据访问层
  */
 public class UserServiceImpl implements UserService {
     private UserDao dao = new UserDaoImpl();
@@ -31,26 +31,32 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public void addUser(User user) {
-
+        dao.add(user);
     }
 
     @Override
     public void deleteUser(String id) {
-
+        dao.delete(Integer.parseInt(id));
     }
 
     @Override
     public User findUserById(String id) {
-        return null;
+        return dao.findById(Integer.parseInt(id));
     }
 
     @Override
     public void updateUser(User user) {
-
+        dao.update(user);
     }
 
     @Override
     public void delSelectedUser(String[] ids) {
-
+        if(ids != null && ids.length > 0) {
+            //1.遍历数组
+            for (String id : ids) {
+                //2.调用dao删除
+                dao.delete(Integer.parseInt(id));
+            }
+        }
     }
 }

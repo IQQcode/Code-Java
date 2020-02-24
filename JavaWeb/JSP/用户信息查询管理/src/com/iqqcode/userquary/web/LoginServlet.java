@@ -19,7 +19,7 @@ import java.io.IOException;
 /**
  * @Author: Mr.Q
  * @Date: 2020-02-22 16:22
- * @Description:用户登录页面
+ * @Description:管理员登录页面
  */
 @WebServlet("/LoginServlet")
 public class LoginServlet extends HttpServlet {

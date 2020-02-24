@@ -1,6 +1,5 @@
 package com.iqqcode.userquary.web;
 
-import	java.util.List;
 import com.iqqcode.userquary.domain.User;
 import com.iqqcode.userquary.service.UserService;
 import com.iqqcode.userquary.service.impl.UserServiceImpl;
@@ -14,20 +13,22 @@ import java.io.IOException;
 
 /**
  * @Author: Mr.Q
- * @Date: 2020-02-22 11:57
- * @Description:用户信息列表
+ * @Date: 2020-02-23 14:41
+ * @Description:更改时，回显数据
  */
-@WebServlet("/UserListServlet")
-public class UserListServlet extends HttpServlet {
+@WebServlet("/findUserServlet")
+public class FindUserServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        //1.调用UserService完成查询
+        //1.获取id
+        String id = request.getParameter("id");
+        //2.调用Service查询
         UserService service = new UserServiceImpl();
-        List<User> users = service.findAll();
-        //2.将list存入request域
-        request.setAttribute("users" , users);
-        //3.转发到list.jsp
-        request.getRequestDispatcher("/list.jsp").forward(request, response);
+        User user = service.findUserById(id);
+        //3.将user存入request
+        request.setAttribute("user", user);
+        //4.转发到update.jsp
+        request.getRequestDispatcher("/update.jsp").forward(request, response);
     }
 
     @Override
