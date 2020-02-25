@@ -63,8 +63,9 @@
 ![](https://blogimage-1255618592.cos.ap-chengdu.myqcloud.com/img20200222145919.png)
 
 ### TODO
--[ ] add()使用JS表单校验
+
 -[ ] 分页功能最后一页`currentPage`处理
+
 
 sql语句：
 ```sql
