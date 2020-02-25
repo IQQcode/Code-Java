@@ -1,6 +1,7 @@
 package com.iqqcode.userquary.service;
 
 
+import com.iqqcode.userquary.domain.PageBean;
 import com.iqqcode.userquary.domain.User;
 
 import java.util.List;
@@ -55,4 +56,13 @@ public interface UserService {
      * @param ids
      */
     void delSelectedUser(String[] ids);
+
+    /**
+     * 分页，条件查询
+     * @param currentPage
+     * @param rows
+     * @param condition
+     * @return
+     */
+    PageBean<User> findUserByPage(String currentPage, String rows, Map<String, String[]> condition);
 }

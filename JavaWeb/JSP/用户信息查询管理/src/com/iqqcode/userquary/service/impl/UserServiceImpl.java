@@ -2,9 +2,11 @@ package com.iqqcode.userquary.service.impl;
 
 import com.iqqcode.userquary.dao.UserDao;
 import com.iqqcode.userquary.dao.impl.UserDaoImpl;
+import com.iqqcode.userquary.domain.PageBean;
 import com.iqqcode.userquary.domain.User;
 import com.iqqcode.userquary.service.UserService;
 import java.util.List;
+import java.util.Map;
 
 /**
  * @Author: Mr.Q
@@ -58,5 +60,42 @@ public class UserServiceImpl implements UserService {
                 dao.delete(Integer.parseInt(id));
             }
         }
+    }
+
+    @Override
+    public PageBean<User> findUserByPage(String _currentPage, String _rows, Map<String, String[]> condition) {
+        int currentPage = Integer.parseInt(_currentPage);
+        int rows = Integer.parseInt(_rows);
+        int totalPage;//总页码
+
+        if (currentPage <= 0) {
+            currentPage = 1;
+        }
+        //1.创建PageBane对象
+        PageBean<User> pageBean = new PageBean<User> ();
+
+        //2.设置参数
+        pageBean.setCurrentPage(currentPage);
+        pageBean.setRows(rows);
+
+        //3.调用dao查询总记录数
+        int totalCount = dao.findTotalCount(condition);
+        pageBean.setTotalCount(totalCount);
+
+        //4.调用dao查询List集合
+        //计算开始的记录索引
+        int start = (currentPage - 1) * rows;
+        List<User> list = dao.findByPage(start,rows, condition);
+        pageBean.setList(list);
+
+        //5.计算总页码
+        totalPage = (totalCount % rows)  == 0 ? totalCount/rows : (totalCount/rows) + 1;
+        pageBean.setTotalPage(totalPage);
+
+        if (currentPage >= totalPage) {
+            currentPage = totalPage;
+        }
+
+        return pageBean;
     }
 }

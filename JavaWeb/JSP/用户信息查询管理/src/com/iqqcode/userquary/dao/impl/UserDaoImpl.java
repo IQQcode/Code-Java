@@ -7,8 +7,10 @@ import com.iqqcode.userquary.util.JDBCUtils;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * @Author: Mr.Q
@@ -75,15 +77,76 @@ public class UserDaoImpl implements UserDao {
                 user.getAddress(),user.getQq(),user.getEmail(),user.getId());
     }
 
+    /**
+     * 分页复杂条件查询
+     * @param condition
+     * @return
+     */
     @Override
     public int findTotalCount(Map<String, String[]> condition) {
-        return 0;
+        //定义模板化SQL
+        String sql = "select count(*) from user where 1 = 1 ";
+        StringBuilder sb = new StringBuilder(sql);
+        //遍历map
+        Set<String> keySet = condition.keySet();
+        List<Object> params = new ArrayList<Object>();
+        for (String key : keySet) {
+            //排除分页条件参数
+            if("currentPage".equals(key) || "rows".equals(key)) {
+                continue;
+            }
+            //获取value
+            String value = condition.get(key)[0];
+            //判断value是否有值
+            if(!"".equals(value) && value != null) {
+                //有值,拼接SQL
+                sb.append(" and " + key + " like ? ");
+                // ?条件的值
+                params.add("%" + value + "%");
+            }
+        }
+        System.out.println(sql);
+        System.out.println(params);
+        return template.queryForObject(sb.toString(), Integer.class, params.toArray());
     }
 
+    /**
+     * 分页数据显示
+     * @param start
+     * @param rows
+     * @param condition
+     * @return
+     */
     @Override
     public List<User> findByPage(int start, int rows, Map<String, String[]> condition) {
-        return null;
+        String sql = "select * from user where 1 = 1 ";
+        StringBuilder sb = new StringBuilder(sql);
+        //遍历map
+        Set<String> keySet = condition.keySet();
+        List<Object> params = new ArrayList<Object>();
+        for (String key : keySet) {
+            //排除分页条件参数
+            if("currentPage".equals(key) || "rows".equals(key)) {
+                continue;
+            }
+            //获取value
+            String value = condition.get(key)[0];
+            //判断value是否有值
+            if(!"".equals(value) && value != null) {
+                //有值,拼接SQL
+                sb.append(" and " + key + " like ? ");
+                // ?条件的值
+                params.add("%" + value + "%");
+            }
+        }
+        //添加分页查询
+        sb.append(" limit ?,? ");
+        //分页查询参数值
+        params.add(start);
+        params.add(rows);
+        sql = sb.toString();
+        System.out.println(sql);
+        System.out.println(params);
+        return template.query(sql, new BeanPropertyRowMapper<User>(User.class), params.toArray());
     }
-
-
 }
