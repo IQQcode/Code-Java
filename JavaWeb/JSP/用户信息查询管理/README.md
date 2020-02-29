@@ -62,6 +62,27 @@
 
 ![](https://blogimage-1255618592.cos.ap-chengdu.myqcloud.com/img20200222145919.png)
 
+
+
+### 3.Filter权限控制
+
+- 如果未登录，则不能访问其他页面
+- 返回让用户登录
+
+**Q：判断是否包含登录相关的资源资源**
+
+- 不包含；验证用户是否完成了登录？--->否则没有登陆，拦截并跳转到登录页面
+- 包含，用户就是想要登录，放行
+
+**Q：判断当前用户是否登录**
+- 添加Filter,判断`session`中是否有user
+
+### 4.Filter敏感词汇过滤
+
+1. 对`request`对象的`getParamater()`进行增强，产生一个新的request对象
+2. 放行，传递代理对象，将新request对象传入
+
+
 ### TODO
 
 -[ ] 分页功能最后一页`currentPage`处理

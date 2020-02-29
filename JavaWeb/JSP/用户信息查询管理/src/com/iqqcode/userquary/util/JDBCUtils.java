@@ -34,7 +34,6 @@ public class JDBCUtils {
             e.printStackTrace();
         }
     }
-
     /**
      * 获取连接池对象
      */
