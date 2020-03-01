@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Redis_Jedis:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Redis_Jedis_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Redis_Jedis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Redis_Jedis" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
