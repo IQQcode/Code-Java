@@ -1,8 +1,8 @@
 package com.iqqcode.jedis.test;
-import	java.util.Map;
+
+import java.util.List;
+import java.util.Map;
 import java.util.Set;
-
-
 import org.junit.Test;
 import redis.clients.jedis.Jedis;
 
@@ -22,6 +22,9 @@ public class JedisTest {
         jedis.close();
     }
 
+    /**
+     * 操作String
+     */
     @Test
     public void testString() {
         Jedis jedis = new Jedis();
@@ -34,13 +37,16 @@ public class JedisTest {
         jedis.close();
     }
 
+    /**
+     * 操作hash
+     */
     @Test
     public void testHash() {
         Jedis jedis = new Jedis();
         jedis.hset("user", "name","zhangsan");
         jedis.hset("user", "age","22");
         jedis.hset("user", "gender","male");
-        //获取hsah
+        //获取hash
         String name = jedis.hget("user", "name");
         System.out.println(name);
         //获取hash中map的所有数据
@@ -48,10 +54,60 @@ public class JedisTest {
         //keySet()
         Set<String> keys = user.keySet();
         for (String key : keys) {
-            //获取value
+            //遍历key集合来获取相应value
             String value = user.get(key);
             System.out.println(key + " : " + value);
         }
+        jedis.close();
+    }
+
+    /**
+     * 操作List
+     */
+    @Test
+    public void testList() {
+        Jedis jedis = new Jedis();
+        //list存储
+        // c,b,a,a,b,c
+        jedis.lpush("myList", "a","b","c");
+        jedis.rpush("myList", "a","b","c");
+        //list范围获取
+        List<String> myList = jedis.lrange("myList", 0, -1);
+        System.out.println(myList);
+        String element1 = jedis.lpop("myList");
+        System.out.println(element1);
+        String element2 = jedis.rpop("myList");
+        System.out.println(element2);
+        System.out.println(myList);
+        jedis.close();
+    }
+
+    /**
+     * 操作Set
+     */
+    @Test
+    public void testSey() {
+        Jedis jedis = new Jedis();
+        jedis.sadd("mySet", "Java","Python","Go");
+        Set<String> mySet = jedis.smembers("mySet");
+        System.out.println(jedis.srem("mySet", "Java"));
+        System.out.println(mySet);
+        jedis.close();
+    }
+
+    /**
+     * 操作SortedSet
+     */
+    @Test
+    public void testSortedSet() {
+        Jedis jedis = new Jedis();
+        //SortedSet存储
+        // c,b,a,a,b,c
+        jedis.zadd("mySort", 3 , "Apple");
+        jedis.zadd("mySort", 10 , "HuaWei");
+        jedis.zadd("mySort", 1 , "Mi");
+        Set<String> mySort = jedis.zrange("mySort", 0, -1);
+        System.out.println(mySort);
         jedis.close();
     }
 }
