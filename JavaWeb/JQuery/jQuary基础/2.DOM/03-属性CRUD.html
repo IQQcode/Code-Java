@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+	<title>属性CRUD</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<script src="../jquery-3.4.1/jquery-3.4.1.min.js"></script>
+	<style type="text/css">
+		div,span {
+			width: 140px;
+			height: 140px;
+			margin: 20px;
+			background: #9999CC;
+			border: #000 1px solid;
+			float: left;
+			font-size: 17px;
+			font-family: Roman;
+		}
+
+		div.mini {
+			width: 30px;
+			height: 30px;
+			background: #CC66FF;
+			border: #000 1px solid;
+			font-size: 12px;
+			font-family: Roman;
+		}
+
+		div.visible {
+			display: none;
+		}
+	</style>
+	<script type="text/javascript">
+		$(function () {
+			// 将早日放置到city的后面
+			$("#b1").click(function () {
+				$("#city").append($("#zr"));//append
+				$("#zr").appendTo($("#city"));//appendTo
+			});
+
+			// 将早日放置到city的前面
+			$("#b2").click(function () {
+				$("#city").prepend($("#zr"));//prepend
+				$("#zr").prependTo($("#city"));//prependTo
+			});
+
+			// 将早日插入到天津后面
+			$("#b3").click(function () {
+				$("#tj").after($("#zr"));//after
+				$("#zr").insertAfter($("#tj"));//insertAfter
+			});
+
+			// 将早日插入到天津前面
+			$("#b4").click(function () {
+				$("#tj").before($("#fk"));//before
+				$("#zr").insertBefore($("#tj"));//insertBefore
+
+			});
+
+			// 删除
+			$("#b5").click(function () {
+				$("#bj").remove();
+			});
+
+			// 删除city所有的li节点
+			$("#b6").click(function () {
+				$("#city").empty();
+			});
+		});
+	</script>
+</head>
+
+<body>
+	<input type="button" value="将早日放置到city的后面" id="b1" />
+	<input type="button" value="将早日放置到city的最前面" id="b2" />
+	<input type="button" value="将早日插入到天津后面" id="b3" />
+	<input type="button" value="将早日插入到天津前面" id="b4" />
+	<input type="button" value="删除-北京" id="b5" />
+	<input type="button" value="清空元素中的所有后代节点(不包含属性节点)" id="b6" />
+	<ul id="city">
+		<li id="bj" name="beijing">北京</li>
+		<li id="tj" name="tianjin">天津</li>
+		<li id="cq" name="chongqing">重庆</li>
+	</ul>
+	<ul id="love">
+		<li id="zr" name="early">早日</li>
+		<li id="kx" name="start">开学</li>
+	</ul>
+</body>
+</html>

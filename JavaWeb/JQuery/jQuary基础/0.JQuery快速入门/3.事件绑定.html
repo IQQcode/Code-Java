@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQ事件绑定&样式控制</title>
+    <script src="../jquery-3.4.1/jquery-3.4.1.min.js"></script>
+    <script>
+        /*window.onload和$(function)区别
+            * window.onload只能定义一次，如果定义多次，后边的会将前边的覆盖掉
+            * $(function)可以定义多次的
+        */
+    
+        //window.onload等HTML页面加载完再去获取
+
+        window.onload = function () {
+            $("#button").click(function () {
+                alert("Username=###");
+            })
+        }
+
+        //使用JQuery绑定事件(事件注册)
+        $(function() {
+            $("#button").click(function () {
+                alert("Username=***");
+            })
+        })
+
+        //JQ样式控制
+        $(function() {
+            $("#div1").css("background-color","orange");
+            $("#div2").css("backgroundColor", "pink");
+        })
+    </script>
+</head>
+<body>
+    <div id="div1">div1...</div>
+    <div id="div2">div2...</div><br>
+    <input type="button" value="submit" id="button"> 
+</body>
+</html>

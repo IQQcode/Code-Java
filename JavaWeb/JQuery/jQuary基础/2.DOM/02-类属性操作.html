@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>类属性操作</title>
+</head>
+<script src="../jquery-3.4.1/jquery-3.4.1.min.js"></script>
+<style type="text/css">
+    .one {
+        width: 200px;
+        height: 140px;
+        margin: 20px;
+        background: red;
+        border: #000 1px solid;
+        float: left;
+        font-size: 17px;
+        font-family: Roman;
+    }
+
+    div,
+    span {
+        width: 140px;
+        height: 140px;
+        margin: 20px;
+        background: #9999CC;
+        border: #000 1px solid;
+        float: left;
+        font-size: 17px;
+        font-family: Roman;
+    }
+
+    div .mini {
+        width: 40px;
+        height: 40px;
+        background: #CC66FF;
+        border: #000 1px solid;
+        font-size: 12px;
+        font-family: Roman;
+    }
+
+    div .mini01 {
+        width: 40px;
+        height: 40px;
+        background: #CC66FF;
+        border: #000 1px solid;
+        font-size: 12px;
+        font-family: Roman;
+    }
+
+    /*待用的样式*/
+    .second {
+        width: 300px;
+        height: 340px;
+        margin: 20px;
+        background: palegreen;
+        border: yellow 3px dotted;
+        float: left;
+        font-size: 22px;
+        font-family: Roman;
+    }
+</style>
+<script type="text/javascript">
+    $(function() {
+        //采用属性增加样式(改变id=one的样式)
+        $("#b1").click(function() {
+            $("#one").prop("class","second");
+        });
+
+        //addClass
+        $("#b2").click(function () {
+            $("#one").addClass("second");
+        });
+
+        //removeClass
+        $("#b3").click(function () {
+            $("#one").removeClass("second");
+        });
+
+        //切换样式
+        $("#b4").click(function () {
+            $("#one").toggleClass("second");
+        });
+
+        //通过css()获得id为one背景颜色
+        $("#b5").click(function () {
+            var bk = $("#one").css("backgroundColor");
+            alert(bk);
+        });
+
+        //通过css()设置id为one背景颜色
+        $("#b6").click(function () {
+            $("#one").css("backgroundColor","pink");
+        });
+    })
+</script>
+
+</head>
+<body>
+    <input type="button" value="保存" class="mini" name="ok" class="mini" />
+    <input type="button" value="采用属性增加样式(改变id=one的样式)" id="b1" />
+    <input type="button" value=" addClass" id="b2" />
+    <input type="button" value="removeClass" id="b3" />
+    <input type="button" value=" 切换样式" id="b4" />
+    <input type="button" value=" 通过css()获得id为one背景颜色" id="b5" />
+    <input type="button" value=" 通过css()设置id为one背景颜色为绿色" id="b6" />
+
+    <h1>有一种奇迹叫坚持</h1>
+    <h2>自信源于努力</h2>
+
+    <div id="one">
+        id为one
+    </div>
+
+    <div id="two" class="mini">
+        id为two class是 mini
+        <div class="mini">class是 mini</div>
+    </div>
+
+    <div class="one">
+        class是 one
+        <div class="mini">class是 mini</div>
+        <div class="mini">class是 mini</div>
+    </div>
+
+    <div class="one">
+        class是 one
+        <div class="mini01">class是 mini01</div>
+        <div class="mini">class是 mini</div>
+    </div>
+
+    <span class="spanone"> span
+    </span>
+</body>
+</html>

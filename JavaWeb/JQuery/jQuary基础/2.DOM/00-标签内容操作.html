@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>标签内容获取</title>
+    <script src="../jquery-3.4.1/jquery-3.4.1.js"></script>
+    <script>
+        $(function() {
+            //获取name的value值
+            var value = $("#content").val();
+            alert(value);
+
+            //获取div的标签体内容
+            var value = $("#myId").html();
+            alert(value);
+            $("#myId").html("QQQQQQQQQQ"); //设置标签体内容
+
+            //获取div文本内容
+            var value = $("#myId").text();
+            alert(value);
+            $("#myId").text("1111111111111111111111");//设置标签体文本内容
+        })
+    </script>
+</head>
+<body>
+    <input type="text" id="content" name="username" value="Mr.Q"><br/>
+    <div id="myId">
+        <p>
+            <a href="#">标题标签</a>
+        </p>
+    </div>
+</body>
+</html>

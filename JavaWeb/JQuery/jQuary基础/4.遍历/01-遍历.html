@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../jquery-3.4.1/jquery-3.4.1.min.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+        /**
+         ** 1.js的遍历方式
+                for(初始化值;循环结束条件;步长)
+         *! 2.j的遍历方式
+                - jQ对象.each(callback)
+                - $.each（object,[callback]）
+                - for, of;
+        */
+        
+        //js遍历获取
+        $(function() {
+            //获取ul下的li
+            var msg = $("#city li");
+            for (var i = 0; i < msg.length; i++) {
+                alert(i + " : " + msg[i].innerHTML);
+            }
+        });
+
+        //JQ遍历
+
+        //I.JQ对象.each(callback)
+        $(function() {
+            var msg = $("#city li");
+            msg.each(function (index, element) {
+                //方式一,无法获取到索引
+                //alert(this.innerHTML);
+
+                //方式二：获取li对象,在回调函数中定义参数(index[索引],element[元素对象])
+
+                /**
+                    ** 回调函数返回值：
+                        - true：如果当前function返回为false，则结束循环(break)
+                        - false：如果当前function返回为true，则结束本次循环，继续下次循环(continue)
+                */
+                if("上海" == $(element).html()) {
+                    return true;
+                }
+                alert(index + "--" + $(element).html());
+            });
+        });
+
+        //II. $.each(object, [callback])
+        $(function() {
+            var msg = $("#city li");
+            $.each(msg , function (index, element) {
+                //alert($(this).html());
+
+                alert(index + "--" + $(element).html());
+            });
+        });
+
+        //III. for...of (jQuery3.0以上版本)
+        $(function () {
+            var msg = $("#city li");
+            for(li of msg) {
+                alert($(li).html());
+            }
+        });
+    </script>
+</head>
+<body>
+<ul id="city">
+    <li>北京</li>
+    <li>上海</li>
+    <li>西安</li>
+    <li>杭州</li>
+</ul>
+</body>
+</html>

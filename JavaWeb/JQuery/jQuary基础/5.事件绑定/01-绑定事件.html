@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>事件绑定</title>
+    <script src="../jquery-3.4.1/jquery-3.4.1.min.js"></script>
+    <script>
+        $(function () {
+            //点击事件
+            $("#name").click(function () {
+                alert("I was clicked");
+            });
+
+
+            //绑定鼠标移出事件
+            //链式编程
+            $("#textBox").mouseover(function() {
+                alert("mouse coming...");
+            }).mouseout(function () {
+                alert("mouse leaving!!!");
+            });
+    
+            //让文本框获得焦点
+            alert("Gain focus...");
+            $("#textBox").focus();
+
+            $("#refer").submit();
+        });
+    </script>
+</head>
+<body>
+    <input id="name" type="button" value="submit"><br><br>
+    <input id="textBox" type="text" value="绑定事件"><br><br>
+    <input id="refer" type="button" value="onsubmit">
+</body>
+</html>

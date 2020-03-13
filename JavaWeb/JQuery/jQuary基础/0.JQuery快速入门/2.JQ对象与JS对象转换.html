@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQ对象与JS对象转换</title>
+    <script src="../jquery-3.4.1/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+    <div id="div1">div1...</div>
+    <div id="div2">div2...</div>
+</body>
+<script>
+        // JQuery对象在操作时更加方便
+        // JQuery对象和JS对象方法不通用的
+
+        //对象转换
+        //JS对象转JQ----> $(JS对象)
+        //JQ对象转JS----> JQ对象[索引]  &&  JQ对象.get(索引)
+
+    //1.通过JS方式获取div中所有对象
+    var divs = document.getElementsByTagName("div");
+    //遍历标签数组并对内容改变
+    for(var i = 0;i < divs.length; i++) {
+        //divs[i].innerHTML = "AAA";
+        $(divs[i]).html("CCC");//JS对象转JQ
+    }
+
+    
+
+    //2.通过JQ方式获取div中所有对象
+    var $ds = $("div");
+    //JQ对象数组直接更改标签内容
+    //$ds.html("BBB");
+
+    //JQ对象转JS
+    $ds[0].innerHTML = "DDD";
+    $ds.get(1).innerHTML = "EEE";
+</script>
+</html>
