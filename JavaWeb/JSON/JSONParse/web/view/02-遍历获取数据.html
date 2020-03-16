@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON对象数组遍历</title>
+    <script src="../js/jquery-3.4.1.min.js"></script>
+    <script>
+        //1.JSON对象
+        var person = { "name": "Mr.Q", age: 23, 'single': true };
+        获取person对象中所有的键--值
+        for (const key in person) {
+            alert(key+" : " + person[key]);
+        }
+
+
+        //2.JSON对象数组{Object[element...]}
+        var ps = {
+            "persons": [
+                { "name": "Tom", "age": 23, "major": "Java" },
+                { "name": "Jack", "major": "python" },
+                { "name": "Sun", "major": "go", "gender": "man" }
+            ]
+        };
+
+        for(var i = 0; i < ps.persons.length; i++) {
+            var temp = ps.persons[i];
+            //获取对象的键--值
+            for (var key in temp) {
+                alert(key + " : " + temp[key]);
+            }
+        }
+
+        //3.JSON对象数组[element...]
+        var msg = [
+            { "name": "Tom", "age": 23, "major": "Java" },
+            { "name": "Jack", "major": "python" },
+            { "name": "Sun", "major": "go", "gender": "man" }
+        ];
+
+        //获取数组中的对象
+        for(var i = 0; i < msg.length; i++) {
+            var temp = msg[i];
+            //获取对象的键--值
+            for (var key in temp) {
+                alert(key + " : " + temp[key]);
+            }
+        }
+
+
+        //4.多层级JSON遍历
+        //JSON对象里面可以嵌套多层对象(数组或对象)，嵌套层数未知
+        var JSONS = {
+            "id": "123456",
+            "username": "root",
+            "persons": [
+                { "name": "Tom", "age": 23, "major": "Java" },
+                { "name": "Jack", "major": "python" },
+                { "name": "Sun", "major": "go", "gender": "man" }
+            ],
+            "华中地区": {
+                "长三角":
+                    [{ "城市名": "武汉", "发展年限": 80, "简称": "火炉" },
+                    { "城市名": "宜昌", "发展年限": 79, "简称": "宜家" },
+                    { "城市名": "咢州", "发展年限": 78, "简称": "小咢" }]
+            }
+        };
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON数据语法</title>
+    <script>
+        //1.基本格式
+        var person = {"name":"Mr.Q",age:23,'single':true};
+        //alert(person);
+
+        //2.嵌套格式 {} ----> []
+        var ps = {
+            "persons":[
+                { "name": "Mr.Q", "age": 23, "single": true },
+                { "name": "Mr.Q", "age": 23, "single": false },
+                { "name": "Mr.Q", "age": 23, "single": true }
+            ]
+        };
+        //alert(persons);
+
+        //3.嵌套格式 [] ----> {}
+        var msg = [
+            { "name": "Mr.Q", "age": 23, "single": true },
+            { "name": "Mr.Q", "age": 23, "single": false },
+            { "name": "Mr.Q", "age": 23, "single": true }
+        ];
+        alert(msg);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

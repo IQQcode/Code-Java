@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>获取单个数据</title>
+    <script>
+        //1.基本格式
+        var person = { "name": "Mr.Q", age: 23, 'single': true };
+        //获取
+        var name1 = person.name;
+        var name2 = person["name"];
+
+        //2.嵌套格式 {} ----> []
+        var ps = {
+            "persons": [
+                { "name": "Mr.Q", "age": 23, "single": true },
+                { "name": "Mr.Q", "age": 23, "single": false },
+                { "name": "Mr.Q", "age": 23, "single": true }
+            ]
+        };
+        //获取
+        var na = ps.persons[2].name;
+
+        //3.嵌套格式 [] ----> {}
+        var msg = [
+            { "name": "Mr.Q", "age": 23, "single": true },
+            { "name": "Mr.Q", "age": 23, "single": false },
+            { "name": "Mr.Q", "age": 23, "single": true }
+        ];
+        //获取
+        msg[1].name;
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
