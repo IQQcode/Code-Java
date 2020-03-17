@@ -1,18 +1,17 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="JSONParse:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/JSONParse_war_exploded</output-path>
+  <artifact type="exploded-war" name="检验用户名是否存在:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="JSONParse/web/Web" />
+      <element id="javaee-facet-resources" facet="检验用户名是否存在/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="JSONParse" />
+          <element id="module-output" name="检验用户名是否存在" />
         </element>
         <element id="directory" name="lib">
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/lombok-1.18.10.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.2.3.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.2.3.jar" />
           <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" />
-          <element id="library" level="module" name="JUnit4" module-name="JSONParse" />
         </element>
       </element>
     </root>

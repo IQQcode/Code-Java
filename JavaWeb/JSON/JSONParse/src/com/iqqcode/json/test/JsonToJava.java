@@ -15,7 +15,8 @@ public class JsonToJava {
     @Test
     public void test() throws IOException {
         //初始化JSON字符串
-        String json = "{\"name\":\"Mr.Q\",\"age\":22,\"address\":\"Inner Mongolia\",\"birthday\":\"2020-03-16\"}";
+        String json = "{\"name\":\"Mr.Q\",\"age\":22,-+" +
+                "\"address\":\"Inner Mongolia\",\"birthday\":\"2020-03-16\"}";
         ObjectMapper mapper = new ObjectMapper();
         //转换为Java对象
         Person per = mapper.readValue(json, Person.class);
