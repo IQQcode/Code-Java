@@ -9,7 +9,7 @@
             //使用$.post()发送异步请求
             $.post("ajaxServlet",{username:"Tom",password:"1234"},function(data) {
                 alert(data);
-            },"text");
+            },"json");
         }
     </script>
 </head>
