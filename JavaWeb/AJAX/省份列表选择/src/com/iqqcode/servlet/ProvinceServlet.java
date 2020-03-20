@@ -4,7 +4,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.iqqcode.domain.Province;
 import com.iqqcode.service.Impl.ProvinceServiceImpl;
 import com.iqqcode.service.ProvinceService;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -45,3 +44,4 @@ public class ProvinceServlet extends HttpServlet {
         this.doPost(request, response);
     }
 }
+
