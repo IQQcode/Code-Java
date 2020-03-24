@@ -15,7 +15,7 @@ import java.util.*;
  * @Date: 2020-02-28 20:16
  * @Description:Filter敏感词汇过滤器
  */
-@WebFilter("/*")
+//@WebFilter("/*")
 public class SensitiveListener implements Filter {
     @Override
     public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain) throws ServletException, IOException {

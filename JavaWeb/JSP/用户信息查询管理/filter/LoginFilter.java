@@ -11,7 +11,7 @@ import java.io.IOException;
  * @Date: 2020-02-28 19:02
  * @Description:登录验证过滤器
  */
-@WebFilter("/*")
+//@WebFilter("/*")
 public class LoginFilter implements Filter {
     @Override
     public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain) throws ServletException, IOException {
