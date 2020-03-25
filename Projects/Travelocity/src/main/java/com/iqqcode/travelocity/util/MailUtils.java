@@ -1,77 +1,91 @@
 package com.iqqcode.travelocity.util;
 
-import javax.mail.*;
-import javax.mail.internet.InternetAddress;
-import javax.mail.internet.MimeMessage;
 import java.util.Properties;
 
+import javax.mail.BodyPart;
+import javax.mail.Message;
+import javax.mail.MessagingException;
+import javax.mail.Multipart;
+import javax.mail.Session;
+import javax.mail.Transport;
+import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeBodyPart;
+import javax.mail.internet.MimeMessage;
+import javax.mail.internet.MimeMultipart;
+
 /**
- * 发邮件工具类
+ * @Author: Mr.Q
+ * @Date: 2020-03-24 11:39
+ * @Description:发送邮件工具类
  */
-public final class MailUtils {
-    private static final String USER = ""; // 发件人称号，同邮箱地址
-    private static final String PASSWORD = ""; // 如果是qq邮箱可以使户端授权码，或者登录密码
+
+public class MailUtils {
+    // 发件人邮箱地址
+    private static String from = "j15849488336@163.com";
+    // 发件人称号，同邮箱地址
+    private static String user = "j15849488336@163.com";
+    // 发件人邮箱客户端授权码
+    private static String password = "OOXBFWGTBHHURNMF";
+    //发件人的邮箱服务器
+    private static String mailHost = "smtp.163.com";
 
     /**
-     *
      * @param to 收件人邮箱
      * @param text 邮件正文
      * @param title 标题
      */
+
     /* 发送验证信息的邮件 */
-    public static boolean sendMail(String to, String text, String title){
+    public static boolean sendMail(String to, String text, String title) {
+        Properties props = new Properties();
+        // 设置发送邮件的邮件服务器的属性（这里使用网易的smtp服务器）
+        props.put("mail.smtp.host", mailHost);
+        // 需要经过授权，也就是有户名和密码的校验，这样才能通过验证（一定要有这一条）
+        props.put("mail.smtp.auth", "true");
+        // 用刚刚设置好的props对象构建一个session
+        Session session = Session.getDefaultInstance(props);
+        // 有了这句便可以在发送邮件的过程中在console处显示过程信息，供调试使用（你可以在控制台（console)上看到发送邮件的过程）
+        //session.setDebug(true);
+        // 用session为参数定义消息对象
+        MimeMessage message = new MimeMessage(session);
         try {
-            final Properties props = new Properties();
-            props.put("mail.smtp.auth", "true");
-            props.put("mail.smtp.host", "smtp.qq.com");
-
-            // 发件人的账号
-            props.put("mail.user", USER);
-            //发件人的密码
-            props.put("mail.password", PASSWORD);
-
-            // 构建授权信息，用于进行SMTP进行身份验证
-            Authenticator authenticator = new Authenticator() {
-                @Override
-                protected PasswordAuthentication getPasswordAuthentication() {
-                    // 用户名、密码
-                    String userName = props.getProperty("mail.user");
-                    String password = props.getProperty("mail.password");
-                    return new PasswordAuthentication(userName, password);
-                }
-            };
-            // 使用环境属性和授权信息，创建邮件会话
-            Session mailSession = Session.getInstance(props, authenticator);
-            // 创建邮件消息
-            MimeMessage message = new MimeMessage(mailSession);
-            // 设置发件人
-            String username = props.getProperty("mail.user");
-            InternetAddress form = new InternetAddress(username);
-            message.setFrom(form);
-
-            // 设置收件人
-            InternetAddress toAddress = new InternetAddress(to);
-            message.setRecipient(Message.RecipientType.TO, toAddress);
-
-            // 设置邮件标题
+            // 加载发件人地址
+            message.setFrom(new InternetAddress(from));
+            // 加载收件人地址
+            message.addRecipient(Message.RecipientType.TO, new InternetAddress(to));
+            // 加载标题
             message.setSubject(title);
-
-            // 设置邮件的内容体
-            message.setContent(text, "text/html;charset=UTF-8");
-            // 发送邮件
-            Transport.send(message);
-            return true;
-        }catch (Exception e){
+            // 向multipart对象中添加邮件的各个部分内容，包括文本内容和附件
+            Multipart multipart = new MimeMultipart();
+            // 设置邮件的文本内容
+            BodyPart contentPart = new MimeBodyPart();
+            contentPart.setContent(text, "text/html;charset=utf-8");
+            multipart.addBodyPart(contentPart);
+            message.setContent(multipart);
+            message.saveChanges(); // 保存变化
+            // 连接服务器的邮箱
+            Transport transport = session.getTransport("smtp");
+            // 把邮件发送出去
+            transport.connect(mailHost, user, password);
+            transport.sendMessage(message, message.getAllRecipients());
+            transport.close();
+            System.out.println("邮件发送成功");
+        } catch (MessagingException e) {
             e.printStackTrace();
+            return false;
         }
-        return false;
+        return true;
     }
 
-    public static void main(String[] args) throws Exception { // 做测试用
-        MailUtils.sendMail("itcast_xian@163.com","你好，这是一封测试邮件，无需回复。","测试邮件");
+    /**
+     * 做测试用
+     * @param args
+     */
+    public static void main(String[] args) {
+        String toMail = "2990280291@qq.com";
+        String text = "你好,<a href='http://www.baidu.com'>激活</a>有惊喜噢";
+        String title = "测试小通知";
+        sendMail(toMail, text, title);
         System.out.println("发送成功");
     }
-
-
-
 }

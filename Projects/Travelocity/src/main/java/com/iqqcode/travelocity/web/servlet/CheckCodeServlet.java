@@ -60,7 +60,7 @@ public class CheckCodeServlet extends HttpServlet {
 	 * 产生4位随机字符串 
 	 */
 	private String getCheckCode() {
-		String base = "0123456789ABCDEFGabcdefg";
+		String base = "0123456789ABCDEFGHIKLMNOPQRSTUVWXYZabcdefghijklmnopqretuvwxyz";
 		int size = base.length();
 		Random r = new Random();
 		StringBuffer sb = new StringBuffer();
@@ -74,6 +74,7 @@ public class CheckCodeServlet extends HttpServlet {
 		}
 		return sb.toString();
 	}
+	@Override
 	public void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		this.doGet(request,response);
 	}

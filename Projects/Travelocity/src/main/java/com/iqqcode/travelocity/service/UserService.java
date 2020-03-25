@@ -15,4 +15,18 @@ public interface UserService {
      * @return
      */
     boolean regist(User user);
+
+    /**
+     * 邮件激活
+     * @param code
+     * @return
+     */
+    boolean active(String code);
+
+    /**
+     * 登录方法
+     * @param user
+     * @return
+     */
+    User login(User user);
 }
