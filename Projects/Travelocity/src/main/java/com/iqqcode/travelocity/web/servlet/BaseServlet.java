@@ -22,13 +22,11 @@ public class BaseServlet extends HttpServlet {
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //1.获取请求路径
         String uri = request.getRequestURI(); /* /Travelocity/user/add */
-        System.out.println("请求URI:" + uri);
 
         //2.获取方法名称
         //细节操作，获取add方法名
         /* /Travelocity/user/add */
         String methodName = uri.substring(uri.lastIndexOf('/') + 1);
-        System.out.println("方法名称：" + methodName);
 
         //3.获取对应的方法对象
         try {
