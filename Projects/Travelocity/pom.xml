@@ -110,6 +110,13 @@
             <artifactId>jedis</artifactId>
             <version>2.7.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.8</version>
+            <scope>provided</scope>
+        </dependency>
 
     </dependencies>
 
@@ -137,7 +144,7 @@
                     <!-- 通过maven tomcat7:run运行项目时，访问项目的端口号 -->
                     <port>8080</port>
                     <!-- 项目访问路径  本例：localhost:9090,  如果配置的aa， 则访问路径为localhost:9090/aa-->
-                    <path>/travelocity</path>
+                    <path>/Travelocity</path>
                 </configuration>
             </plugin>
 
