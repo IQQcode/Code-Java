@@ -1,5 +1,8 @@
 package com.iqqcode.travelocity.web.servlet;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -32,6 +35,8 @@ public class BaseServlet extends HttpServlet {
             Method method = this.getClass().getMethod(methodName, HttpServletRequest.class, HttpServletResponse.class);
             //暴力反射
             //method.setAccessible(true);
+
+            //4.执行方法
             method.invoke(this, request,response);
         } catch (NoSuchMethodException e) {
             e.printStackTrace();
@@ -40,6 +45,26 @@ public class BaseServlet extends HttpServlet {
         } catch (InvocationTargetException e) {
             e.printStackTrace();
         }
-        //4.执行方法
+    }
+
+    /**
+     *将传入的对象序列化为json，并且写回客户端
+     * @param obj
+     * @param response
+     */
+    public void writeValue(HttpServletResponse response,Object obj) throws IOException {
+        response.setContentType("application/json;charset=utf-8");
+        ObjectMapper mapper = new ObjectMapper();
+        mapper.writeValue(response.getOutputStream(), obj);
+    }
+
+    /**
+     * 将传入的对象序列化为json，返回
+     * @param obj
+     * @return
+     */
+    public String writeValueAsString(Object obj) throws JsonProcessingException {
+        ObjectMapper mapper = new ObjectMapper();
+        return mapper.writeValueAsString(obj);
     }
 }

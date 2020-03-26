@@ -56,9 +56,7 @@ public class UserServlet extends BaseServlet {
             info.setFlag(false);
             info.setErrorMsg("验证码错误");
             //将info对象序列化为json
-            ObjectMapper mapper = new ObjectMapper();
-            String json = mapper.writeValueAsString(info);
-            response.setContentType("application/json;charset=utf-8");
+            String json = writeValueAsString(info);
             response.getWriter().write(json);
             return;
         }
@@ -91,12 +89,8 @@ public class UserServlet extends BaseServlet {
         }
 
         //将info对象序列化为json
-        ObjectMapper mapper = new ObjectMapper();
-        String json = mapper.writeValueAsString(info);
-
+        String json = writeValueAsString(info);
         //将json数据写回客户端
-        //设置content-type
-        response.setContentType("application/json;charset=utf-8");
         response.getWriter().write(json);
     }
 
@@ -120,7 +114,6 @@ public class UserServlet extends BaseServlet {
             e.printStackTrace();
         }
         //3.调用Service查询
-        //UserService service = new UserServiceImpl();
         User u = service.login(user);
 
         //4.判断用户对象是否为null
@@ -144,9 +137,7 @@ public class UserServlet extends BaseServlet {
             info.setFlag(true);
         }
         //响应数据
-        response.setContentType("application/json;charset=utf-8");
-        ObjectMapper mapper = new ObjectMapper();
-        mapper.writeValue(response.getOutputStream(), info);
+        writeValue(response,info);
     }
 
     /**
@@ -159,11 +150,9 @@ public class UserServlet extends BaseServlet {
     public void findUser(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //从session中获取登录用户
         Object user = request.getSession().getAttribute("user");
-        response.setContentType("application/json;charset=utf-8");
 
         //将user写回客户端
-        ObjectMapper mapper = new ObjectMapper();
-        mapper.writeValue(response.getOutputStream(), user);
+        writeValue(response, user);
     }
 
     /**
@@ -192,7 +181,6 @@ public class UserServlet extends BaseServlet {
         String code = request.getParameter("code");
         if (code != null) {
             //2.调用service完成激活
-            //UserService service = new UserServiceImpl();
             boolean flag = service.active(code);
             String msg = null;
             if (flag) {

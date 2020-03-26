@@ -15,5 +15,6 @@ import java.io.Serializable;
 public class Category implements Serializable {
 
     private int cid;//分类id
+
     private String cname;//分类名称
 }

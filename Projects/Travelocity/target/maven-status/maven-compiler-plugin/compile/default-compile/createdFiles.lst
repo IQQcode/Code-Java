@@ -9,13 +9,16 @@ com\iqqcode\travelocity\service\UserService.class
 com\iqqcode\travelocity\domain\Seller.class
 com\iqqcode\travelocity\domain\Favorite.class
 com\iqqcode\travelocity\domain\Route.class
+com\iqqcode\travelocity\service\impl\CategoryServiceImpl.class
 com\iqqcode\travelocity\web\servlet\ActiveUserServlet.class
 com\iqqcode\travelocity\domain\User.class
 com\iqqcode\travelocity\util\Md5Util.class
 com\iqqcode\travelocity\web\servlet\UserServlet.class
+com\iqqcode\travelocity\service\CategoryService.class
 com\iqqcode\travelocity\util\MailUtils.class
 com\iqqcode\travelocity\web\servlet\CheckCodeServlet.class
 com\iqqcode\travelocity\web\servlet\FindUserServlet.class
+com\iqqcode\travelocity\dao\impl\CategoryDaoImpl.class
 com\iqqcode\travelocity\domain\Category.class
 com\iqqcode\travelocity\util\JDBCUtils.class
 com\iqqcode\travelocity\util\JedisUtil.class
