@@ -31,9 +31,6 @@ public class BaseServlet extends HttpServlet {
         //3.获取对应的方法对象
         try {
             Method method = this.getClass().getMethod(methodName, HttpServletRequest.class, HttpServletResponse.class);
-            //暴力反射
-            //method.setAccessible(true);
-
             //4.执行方法
             method.invoke(this, request,response);
         } catch (NoSuchMethodException e) {

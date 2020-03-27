@@ -7,6 +7,7 @@ import com.iqqcode.travelocity.domain.Category;
 import com.iqqcode.travelocity.service.CategoryService;
 import com.iqqcode.travelocity.util.JedisUtil;
 import redis.clients.jedis.Jedis;
+import redis.clients.jedis.Tuple;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,9 +28,11 @@ public class CategoryServiceImpl implements CategoryService {
         //1.从Jedis中查询
         Jedis jedis = JedisUtil.getJedis();
         //sortedset排序查询
-        Set<String> categorys = jedis.zrange("category", 0, -1);
+        //Set<String> categorys = jedis.zrange("category", 0, -1);
 
         //2.判断查询的集合是否为空
+        //查询sortedset中的分数(cid)和值(cname)
+        Set<Tuple> categorys = jedis.zrangeWithScores("category", 0, -1);
         List<Category> cs = null;
         if(categorys == null || categorys.size() == 0) {
             System.out.println("从数据库中查询分类信息...");
@@ -44,9 +47,10 @@ public class CategoryServiceImpl implements CategoryService {
             //4.不为空，将set的数据存入list
             System.out.println("从Redis中查询分类信息...");
             cs = new ArrayList<Category>();
-            for (String name : categorys) {
+            for (Tuple tuple : categorys) {
                 Category category = new Category();
-                category.setCname(name);
+                category.setCname(tuple.getElement());
+                category.setCid((int) tuple.getScore());
                 cs.add(category);
             }
         }
