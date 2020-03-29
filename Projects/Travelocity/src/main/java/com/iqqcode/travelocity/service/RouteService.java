@@ -17,5 +17,12 @@ public interface RouteService {
      * @param pageSize
      * @return
      */
-    PageBean<Route> pageQuery(int cid, int currentPage, int pageSize);
+    PageBean<Route> pageQuery(int cid, int currentPage, int pageSize, String rnaem);
+
+    /**
+     * 根据id查询旅游路线的详情
+     * @param rid
+     * @return
+     */
+    Route findRouteDetails(String rid);
 }
