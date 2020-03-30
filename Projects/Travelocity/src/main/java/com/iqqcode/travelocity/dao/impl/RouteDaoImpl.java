@@ -1,6 +1,5 @@
 package com.iqqcode.travelocity.dao.impl;
 
-
 import com.iqqcode.travelocity.dao.RouteDao;
 import com.iqqcode.travelocity.domain.Route;
 import com.iqqcode.travelocity.util.JDBCUtils;
@@ -27,15 +26,17 @@ public class RouteDaoImpl implements RouteDao {
         StringBuilder sb = new StringBuilder(sql);
         //多条件存放
         List params = new ArrayList();
-        //2.判断参数是否又值
+        //2.判断参数是否有值
         if(cid != 0) {
             sb.append( " and cid = ? ");
             params.add(cid);//添加sql中 ？对应的值
         }
+
         if(rname != null && rname.length() > 0 && !"null".equals(rname)) {
             sb.append(" and rname like ? ");
             params.add("%"+rname+"%");
         }
+
         sql = sb.toString(); //将参数拼接到sql中
 
         return template.queryForObject(sql, Integer.class, params.toArray());

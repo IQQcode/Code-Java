@@ -102,6 +102,8 @@ public class UserServlet extends BaseServlet {
      * @throws IOException
      */
     public void login(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        //0.获取用户输入的验证码
+        String verification = request.getParameter("check");
         //1.获取用户名和密码数据
         Map<String, String[]> map = request.getParameterMap();
         User user = new User();
@@ -113,11 +115,12 @@ public class UserServlet extends BaseServlet {
         } catch (InvocationTargetException e) {
             e.printStackTrace();
         }
+
+        ResultInfo info = new ResultInfo();
         //3.调用Service查询
         User u = service.login(user);
 
         //4.判断用户对象是否为null
-        ResultInfo info = new ResultInfo();
         if (u == null) {
             //用户名或密码错误
             info.setFlag(false);

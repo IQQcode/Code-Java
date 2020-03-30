@@ -51,18 +51,17 @@ public class RouteServlet extends BaseServlet {
 
         // 解决乱码
         rname = new String(rname.getBytes("iso-8859-1"),"utf-8");
-        rname = URLDecoder.decode(rname, "utf-8");
 
         // 2.处理参数
         int cid = 0;//类别id
+
         // "".equals("")防止null传入然后类型转换异常
         if(cidStr != null && cidStr.length() > 0 && !"null".equals(cidStr)) {
-            //
             cid = Integer.parseInt(cidStr);
         }
+
         int currentPage = 0;// 当前页码，如果不传递当前页码，则默认为第一页
         if(currentPageStr != null && currentPageStr.length() > 0) {
-            //
             currentPage = Integer.parseInt(currentPageStr);
         }else{
             currentPage = 1;
@@ -70,7 +69,6 @@ public class RouteServlet extends BaseServlet {
 
         int pageSize = 0;// 每页显示条数，如果不传递，默认每页显示5条记录
         if(pageSizeStr != null && pageSizeStr.length() > 0) {
-            //
             pageSize = Integer.parseInt(pageSizeStr);
         }else {
             pageSize = 5;
@@ -145,7 +143,7 @@ public class RouteServlet extends BaseServlet {
         if(user == null) {
             // 用户尚未登录
             return;
-        }else{
+        }else {
             // 用户已经登录
             uid = user.getUid();
         }
