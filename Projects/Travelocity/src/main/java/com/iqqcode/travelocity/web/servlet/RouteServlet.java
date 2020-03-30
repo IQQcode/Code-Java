@@ -56,12 +56,12 @@ public class RouteServlet extends BaseServlet {
         // 2.处理参数
         int cid = 0;//类别id
         // "".equals("")防止null传入然后类型转换异常
-        if(cidStr != null && cidStr.length() > 0 && !"null".equals(cidStr)){
+        if(cidStr != null && cidStr.length() > 0 && !"null".equals(cidStr)) {
             //
             cid = Integer.parseInt(cidStr);
         }
         int currentPage = 0;// 当前页码，如果不传递当前页码，则默认为第一页
-        if(currentPageStr != null && currentPageStr.length() > 0){
+        if(currentPageStr != null && currentPageStr.length() > 0) {
             //
             currentPage = Integer.parseInt(currentPageStr);
         }else{
@@ -69,10 +69,10 @@ public class RouteServlet extends BaseServlet {
         }
 
         int pageSize = 0;// 每页显示条数，如果不传递，默认每页显示5条记录
-        if(pageSizeStr != null && pageSizeStr.length() > 0){
+        if(pageSizeStr != null && pageSizeStr.length() > 0) {
             //
             pageSize = Integer.parseInt(pageSizeStr);
-        }else{
+        }else {
             pageSize = 5;
         }
 
@@ -142,7 +142,7 @@ public class RouteServlet extends BaseServlet {
         //2.获取当前登录的用户 user
         User user = (User)request.getSession().getAttribute("user");
         int uid;//用户id
-        if(user == null){
+        if(user == null) {
             // 用户尚未登录
             return;
         }else{
@@ -151,8 +151,8 @@ public class RouteServlet extends BaseServlet {
         }
 
         //3.调用FavoriteService添加收藏
-        // 3.1添加到favorite中
-        favoriteService.add(rid,uid);
+        // 添加到favorite中
+        favoriteService.add(rid , uid);
     }
     // 我的收藏 que
 }

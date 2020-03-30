@@ -1,9 +1,11 @@
 package com.iqqcode.travelocity.service.impl;
 
 
+import com.iqqcode.travelocity.dao.FavoriteDao;
 import com.iqqcode.travelocity.dao.RouteDao;
 import com.iqqcode.travelocity.dao.RouteImgDao;
 import com.iqqcode.travelocity.dao.SellerDao;
+import com.iqqcode.travelocity.dao.impl.FavoriteDaoImpl;
 import com.iqqcode.travelocity.dao.impl.RouteDaoImpl;
 import com.iqqcode.travelocity.dao.impl.RouteImgDaoImpl;
 import com.iqqcode.travelocity.dao.impl.SellerDaoImpl;
@@ -25,6 +27,7 @@ public class RouteServiceImpl implements RouteService {
     private RouteDao routeDao = new RouteDaoImpl();
     private RouteImgDao routeImgDao = new RouteImgDaoImpl();
     private SellerDao sellerDao = new SellerDaoImpl();
+    private FavoriteDao favoriteDao=new FavoriteDaoImpl();
 
 
     @Override
@@ -68,6 +71,10 @@ public class RouteServiceImpl implements RouteService {
         //3.根据route的sid（商家id）查询商家对象
         Seller seller = sellerDao.findById(route.getSid());
         route.setSeller(seller);
+
+        //查找收藏的次数
+        int count = favoriteDao.findCountByRid(route.getRid());
+        route.setCount(count);
 
         return route;
     }

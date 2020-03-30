@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * @Author: Mr.Q
  * @Date: 2020-03-29 10:06
- * @Description:
+ * @Description:收藏功能
  */
 public interface FavoriteService {
     /**
@@ -27,9 +27,4 @@ public interface FavoriteService {
      */
     void add(String rid, int uid);
 
-    void addCount(String rid);
-
-    List<Route> findByUid(int uid);
-
-    PageBean findRouteOrderPageBean(String cid, String currentPage, String cname, String highPrice, String lowPrice, String pageSize);
 }

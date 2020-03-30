@@ -34,12 +34,5 @@ public interface FavoriteDao {
      */
     void add(int rid, int uid);
 
-    void addCount(int count,int rid);
-
-    List<Favorite> findByUid(int uid);
-
-    List<Route> findRouteByPage(int icid, int startPage, int ipageSize, String cname, int ihighPrice, int ilowPrice, int order);
-
-    int findTotalCount(int icid, String cname, int ihighPrice, int ilowPrice, int order);
 }
 
