@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5b23ea1-ea31-4333-8d73-72d80ddee5c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/724-寻找数组的中心索引/724-寻找数组的中心索引.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/LT414-第三大的数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/src/iqqcode/leetcode/KthLargestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/src/iqqcode/leetcode/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/src/iqqcode/leetcode/SolutionI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/src/iqqcode/leetcode/SolutionII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数/src/iqqcode/leetcode/SolutionIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/LT66-加一.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/src/iqqocde/leetcode/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode/LT66-加一/src/iqqocde/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthLargestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/寻找第K大的数.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java反转字符串的10种方法/out/production/Java反转字符串的10种方法/com/iqqcode/Method3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java反转字符串的10种方法/out/production/Java反转字符串的10种方法/com/iqqcode/Method3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java反转字符串的10种方法/out/production/Java反转字符串的10种方法/com/iqqcode/Method8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java反转字符串的10种方法/out/production/Java反转字符串的10种方法/com/iqqcode/Method8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java反转字符串的10种方法/out/production/Java反转字符串的10种方法/com/iqqcode/Method9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java反转字符串的10种方法/out/production/Java反转字符串的10种方法/com/iqqcode/Method9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java反转字符串的10种方法/src/com/iqqcode/Method3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java反转字符串的10种方法/src/com/iqqcode/Method3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java反转字符串的10种方法/src/com/iqqcode/Method8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java反转字符串的10种方法/src/com/iqqcode/Method8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java反转字符串的10种方法/src/com/iqqcode/Method9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java反转字符串的10种方法/src/com/iqqcode/Method9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1a0q77szN8okktOHjBI8P5LRo25" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LeetCode/LT414-第三大的数" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KthLargestNum">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="寻找第K大的数" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthLargestNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KthLargestNum" />
+      <module name="寻找第K大的数" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="寻找第K大的数" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="寻找第K大的数" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KthLargestNum" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5b23ea1-ea31-4333-8d73-72d80ddee5c9" name="Default Changelist" comment="" />
+      <created>1585882688435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585882688435</updated>
+      <workItem from="1585882696424" duration="1094000" />
+      <workItem from="1585973977572" duration="4180000" />
+      <workItem from="1585992997232" duration="693000" />
+      <workItem from="1585993826653" duration="75000" />
+      <workItem from="1586137898227" duration="1211000" />
+      <workItem from="1586140541913" duration="28000" />
+      <workItem from="1586142598131" duration="46000" />
+      <workItem from="1586244162550" duration="163000" />
+      <workItem from="1586244344062" duration="4082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586244278616">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1586244278616" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1586248457972">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586248457972" />
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state width="1493" height="321" key="GridCell.Tab.0.center" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state width="1493" height="321" key="GridCell.Tab.0.left" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state width="1493" height="321" key="GridCell.Tab.0.right" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state width="1493" height="321" key="GridCell.Tab.1.bottom" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state width="1493" height="321" key="GridCell.Tab.1.center" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state width="1493" height="321" key="GridCell.Tab.1.left" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state width="1493" height="321" key="GridCell.Tab.1.right" timestamp="1586248459121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586248459121" />
+    <state x="272" y="77" key="SettingsEditor" timestamp="1585993696375">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="272" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585993696375" />
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1585975115619">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1585975115619" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1586246219218">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586246219218" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthLargestNum.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthLargestNum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthLargestNum.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KthLargestNum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
