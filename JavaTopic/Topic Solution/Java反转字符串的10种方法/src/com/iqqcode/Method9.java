@@ -11,6 +11,15 @@ public class Method9 {
         if (str == null || str.equals("")) {
             return str;
         }
+        //substring()：从指定位置截取字符串
+        /**
+         * return E + A B C D  //EABCD
+         * return ED + A B C   //EDABC
+         * return EDC + A B    //EDCAB
+         * return EDCB + A     //EDCBA
+         * return EDCBA
+         */
+        System.out.println(str);
         return str.charAt(str.length() - 1) + reverse(str.substring(0, str.length() - 1));
     }
 

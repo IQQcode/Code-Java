@@ -12,6 +12,7 @@ public class Method8 {
             return str;
         }
         byte[] bytes = str.getBytes();
+        //字节数组双指针
         for (int l = 0, h = str.length() - 1; l < h; l++, h--) {
             byte temp = bytes[l];
             bytes[l] = bytes[h];

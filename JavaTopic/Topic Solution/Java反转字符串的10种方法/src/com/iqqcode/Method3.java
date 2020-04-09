@@ -14,7 +14,7 @@ public class Method3 {
         System.out.println(" output :: " + method3.reverseWithStringChatAt(s));
     }
 
-    public String reverseWithStringChatAt(String s) {
+    private String reverseWithStringChatAt(String s) {
         StringBuilder builder = new StringBuilder();
         int len = s.length() - 1;
         for (int i = len; i >= 0; i--) {
