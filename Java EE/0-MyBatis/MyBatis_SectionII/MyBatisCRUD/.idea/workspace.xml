@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Projects" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Projects" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Travelocity" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84396ebb-12d1-4bf5-a247-fdcaad17b9a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/domain/QueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iqqcode/dao/IUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyBatisCRUDTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/BubbleSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/out/production/BubbleSort/META-INF/BubbleSort.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/out/production/BubbleSort/iqqcode/algorithm/sort/BasicBubbleMaethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/out/production/BubbleSort/iqqcode/algorithm/sort/BasicBubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/out/production/BubbleSort/iqqcode/algorithm/sort/CocktailSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/out/production/BubbleSort/iqqcode/algorithm/sort/OptimalBubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/out/production/BubbleSort/iqqcode/algorithm/sort/OptimalBubblePlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/out/production/BubbleSort/iqqcode/algorithm/test/BubbleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/src/iqqcode/algorithm/sort/BasicBubbleMaethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/src/iqqcode/algorithm/sort/BasicBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/src/iqqcode/algorithm/sort/CocktailSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/src/iqqcode/algorithm/sort/OptimalBubble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/src/iqqcode/algorithm/sort/OptimalBubblePlus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/BubbleSort/src/iqqcode/algorithm/test/BubbleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/out/production/Sort/META-INF/Sort.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/out/production/Sort/com/algorithm/BubbleSort/CocktailSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/out/production/Sort/com/algorithm/BubbleSort/OptimalPlusBubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/out/production/Sort/com/algorithm/BubbleSort/basicBubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/out/production/Sort/com/algorithm/BubbleSort/optimalBubble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/out/production/Sort/com/algorithm/QuickSort/Inc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/out/production/Sort/com/algorithm/QuickSort/quickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/src/com/algorithm/bubbleSort/BasicBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/src/com/algorithm/bubbleSort/CocktailSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/src/com/algorithm/bubbleSort/OptimalBubble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/src/com/algorithm/bubbleSort/OptimalPlusBubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/src/com/algorithm/quickSort/Inc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/冒泡 &amp; 快排/src/com/algorithm/quickSort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/插入排序/src/iqqcode/algorithm/sort/InsertSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/插入排序/src/iqqcode/algorithm/sort/InsertSortMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/.idea/BinaryTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/BinTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/BinaryTree/BinTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/src/main/java/org/iqqcode/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/src/main/java/org/iqqcode/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/src/test/java/com/iqqcode/test/MyBatisXmlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/src/test/java/com/iqqcode/test/MyBatisXmlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/target/classes/org/iqqcode/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/0-MyBatisConfig_xml/target/classes/org/iqqcode/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/src/test/java/com/iqqcode/test/MyBatisAnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/1-MyBatisConfig_Annotation/src/test/java/com/iqqcode/test/MyBatisAnnotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionI/2-MyBatis_DaoImplements/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionI/2-MyBatis_DaoImplements/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Projects/LoginServletDemo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Projects/LoginServletDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\j2726\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aNHMCvGLiwFVfEpn2IRIjfLjHR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.MyBatisCRUDTest.testFindAll">
+    <configuration name="MyBatisCRUDTest.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisCRUD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
+      <option name="METHOD_NAME" value="testDeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisCRUDTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisCRUD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisCRUDTest.testFindByVo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisCRUD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
+      <option name="METHOD_NAME" value="testFindByVo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisCRUDTest.testFindLike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisCRUD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
+      <option name="METHOD_NAME" value="testFindLike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisCRUDTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisCRUD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
+      <option name="METHOD_NAME" value="testUpdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBatisCRUDTest.testFindAll" />
+        <item itemvalue="JUnit.MyBatisCRUDTest.testDeleteUser" />
+        <item itemvalue="JUnit.MyBatisCRUDTest.testFindLike" />
+        <item itemvalue="JUnit.MyBatisCRUDTest.testUpdateUser" />
+        <item itemvalue="JUnit.MyBatisCRUDTest.testFindByVo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84396ebb-12d1-4bf5-a247-fdcaad17b9a8" name="Default Changelist" comment="" />
+      <created>1586569081039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586569081039</updated>
+      <workItem from="1586569087561" duration="2926000" />
+      <workItem from="1586572044785" duration="33000" />
+      <workItem from="1586572210297" duration="23401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="274" key="#SQL_Dialects" timestamp="1586571503017">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="179" y="274" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1586571503017" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586570217486">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586570217486" />
+    <state x="586" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1586569232789">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="586" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586569232789" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1586571311327">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586571311327" />
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom" timestamp="1586606815253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
+    <state width="1493" height="257" key="GridCell.Tab.0.center" timestamp="1586606815253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
+    <state width="1493" height="257" key="GridCell.Tab.0.left" timestamp="1586606815253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
+    <state width="1493" height="257" key="GridCell.Tab.0.right" timestamp="1586606815253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
+    <state x="196" y="25" width="1069" height="784" key="SettingsEditor" timestamp="1586601867189">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="196" y="25" width="1069" height="784" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586601867189" />
+    <state x="545" y="187" key="refactoring.ChangeSignatureDialog" timestamp="1586576235521">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="545" y="187" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1586576235521" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1586585875747">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586585875747" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586578750715">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586578750715" />
+  </component>
+</project>

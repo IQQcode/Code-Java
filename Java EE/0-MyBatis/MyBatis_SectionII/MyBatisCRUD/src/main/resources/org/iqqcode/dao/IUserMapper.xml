@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="org.iqqcode.dao.IUserDao">
+    <!--查询所有用户-->
+    <!--resultType:返回类型-->
+    <select id="findAll" resultType="User">
+        select * from user;
+    </select>
+
+    <!--保存用户-->
+    <!--parameterType:参数类型-->
+    <insert id="saveUser" parameterType="User">
+    <!--获取插入数据自增长的id-->
+        <selectKey keyProperty="id" keyColumn="id" resultType="java.lang.Integer" order="AFTER">
+            select last_insert_id();
+        </selectKey>
+        insert into user(username,address,sex,birthday) values(#{username},#{address},#{sex},#{birthday});
+    </insert>
+
+    <!--更新用户-->
+    <update id="updateUser" parameterType="User">
+        update user set username=#{username},address=#{address},sex=#{sex},birthday=#{birthday}
+    </update>
+
+    <!--删除用户-->
+    <delete id="deleteUser" parameterType="java.lang.Integer">
+        delete from user where id = #{uid};
+    </delete>
+
+    <!--根据id查询用户-->
+    <select id="findbyId" parameterType="java.lang.Integer" resultType="User">
+        select * from user where id = #{uid};
+    </select>
+
+    <!--根据用户名模糊查询-->
+    <select id="findByName" parameterType="java.lang.String" resultType="User">
+        <!--字符串拼接-->
+        <!--select * from user where username like '%${value}%';-->
+
+        <!--PrepatedStatement预处理，参数占位符-->
+        select * from user where username like #{name};
+    </select>
+
+    <!--获取用户总数目-->
+    <select id="totalCount" resultType="java.lang.Integer">
+        select count(id) from user;
+    </select>
+
+    <!-- 根据queryVo的条件查询用户 -->
+    <select id="findUserByVo" parameterType="org.iqqcode.domain.QueryVo" resultType="User">
+        select * from user where username like #{user.username};
+    </select>
+</mapper>
