@@ -10,7 +10,7 @@
         <!--配置MySQL环境-->
         <environment id="mysql">
             <!--配置事务类型-->
-            <transactionManager type="JDBC"></transactionManager>
+            <transactionManager type="JDBC"/>
             <!--配置数据源(连接池)-->
             <dataSource type="POOLED">
                 <!--配置连接数据库的基本信息-->

@@ -13,7 +13,8 @@ import java.util.Date;
  * @Date: 2020-04-08 12:04
  * @Description:用户实体类
  */
-//实现Serializable接口，将对象序列化
+
+/**实现Serializable接口，将对象序列化*/
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

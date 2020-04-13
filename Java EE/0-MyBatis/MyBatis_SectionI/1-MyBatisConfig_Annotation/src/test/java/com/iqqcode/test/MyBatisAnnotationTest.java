@@ -26,7 +26,7 @@ public class MyBatisAnnotationTest {
         SqlSessionFactory factory = builder.build(in);
 
         //3.使用工厂生产SqlSession对象
-        /**此时session可以操纵数据库了，但是我们要用Dao来操纵数据库，所以产生Dao代理对象**/
+        /*此时session可以操纵数据库了，但是我们要用Dao来操纵数据库，所以产生Dao代理对象**/
         SqlSession session = factory.openSession();
 
         //4.使用SqlSession创建Dao接口的代理对象
