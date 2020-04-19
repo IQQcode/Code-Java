@@ -25,13 +25,14 @@ public class TestInsertAndShell {
         //把集合转换成数组
         Integer[] arr = new Integer[list.size()];
         list.toArray(arr);
-        //测试插入排序
-        //testInserSort(arr); //76826ms
-        testShell(arr); //29ms
+        //测试
+        //testInserSort(arr); //插入排序: 76826ms
+        //testHalfInser(arr); //折半插入排序: 13075ms
+        testShell(arr); //希尔排序: 29ms
     }
 
     /**
-     * 插入排序
+     * 插入排序测试
      * @param arr
      */
     public static void testInserSort(Integer[] arr) {
@@ -41,8 +42,22 @@ public class TestInsertAndShell {
         System.out.println("使用插入排序耗时："+(end-start) + "ms");
     }
 
+    /**
+     * 折半插入排序测试
+     * @param arr
+     */
+    public static void testHalfInser(Integer[] arr) {
+        long start = System.currentTimeMillis();
+        HalfInsert.halfInsert(arr);;
+        long end= System.currentTimeMillis();
+        System.out.println("使用折半插入排序耗时："+(end-start) + "ms");
+    }
+
+    /**
+     * 希尔排序完成测试
+     * @param arr
+     */
     public static void testShell(Integer[] arr){
-        //使用希尔排序完成测试
         long start = System.currentTimeMillis();
         ShellSort.shellSort(arr);
         long end = System.currentTimeMillis();

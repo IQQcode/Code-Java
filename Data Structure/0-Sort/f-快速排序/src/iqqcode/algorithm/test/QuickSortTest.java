@@ -1,6 +1,6 @@
 package iqqcode.algorithm.test;
 
-import iqqcode.algorithm.sort.Quick;
+import iqqcode.algorithm.sort.Quick_I;
 import iqqcode.algorithm.sort.QuickSort;
 import iqqcode.algorithm.sort.QuickSortMethod;
 import org.junit.Test;
@@ -30,7 +30,7 @@ public class QuickSortTest {
     @Test
     public void testQuickSortTest() {
         int[] data = new int[] { 6, 1, 2, 7, 9, 3, 4, 5, 10, 5 };
-        Quick.quick(data, 0, data.length - 1);
-        System.out.println("QuickSortTest 排序结果为：" + Arrays.toString(data));
+        Quick_I.quick(data, 0, data.length - 1);
+        System.out.println("Quick_I 排序结果为：" + Arrays.toString(data));
     }
 }

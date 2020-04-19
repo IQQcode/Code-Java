@@ -42,6 +42,7 @@ public class MergeSort {
         int p2 = mid + 1;
         //指向temp数组的当前索引
         //此处index初始化必须为low,不能为0;因为merge()在mergeSort()中递归调用
+        //这里也特别需要注意，因为合并的过程是分步的，而并非一次合并完成，所以数组的索引是在不断变化的。
         int index = low;
 
         // 移动p1、p2指针,先把左右两边的(已经有序)数据按排序规则填充到temp数组

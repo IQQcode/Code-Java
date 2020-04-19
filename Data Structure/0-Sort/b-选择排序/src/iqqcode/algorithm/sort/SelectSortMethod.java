@@ -9,9 +9,9 @@ package iqqcode.algorithm.sort;
  * 2. boolean greater(Comparable v,Comparable w):判断v是否大于w
  * 3. void exch(Comparable[] a,int i,int j)：交换a数组中，索引i和索引j处的值
  */
-public class MergeSortMethod {
+public class SelectSortMethod {
 
-    public static void mergeSortMethod(Comparable[] arr) {
+    public static void selectSortMethod(Comparable[] arr) {
         //参与选择排序的元素：只剩一个元素时不用选择，到倒数第二个元素截止
         for (int i = 0; i < arr.length - 1; i++) {
             //假定本次遍历最小值所在的索引是i，默认第一个

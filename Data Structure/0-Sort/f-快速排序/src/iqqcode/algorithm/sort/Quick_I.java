@@ -5,7 +5,7 @@ package iqqcode.algorithm.sort;
  * @Date: 2020-04-13 11:11
  * @Description:快速排序
  */
-public class Quick {
+public class Quick_I {
     public static void quick(int[] arr, int low, int high) {
         if (low >= high) {
             return;
@@ -27,13 +27,11 @@ public class Quick {
         int i = low; //左指针
         int j = high; //右指针
         while (i < j) {
-            // j从右向左移动寻找，临界条件为 j == left，已经扫描到最左边了，无需继续扫描
             while (i < j && arr[j] > key) {
                 // 先从右向左找第一个小于key的数
                 j--;
             }
-            // i从左向右移动寻找，临界条件为 i == right，已经扫描到了最右边了，无需继续扫描
-            while (i < j && arr[i] < key) {
+            while (i < j && arr[i] <= key) {
                 // 再从左向右找第一个大于key的数
                 i++;
             }

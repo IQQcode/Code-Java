@@ -51,10 +51,8 @@ public class QuickSortMethod {
                 swap(arr, i, j);
             }
         }
-        //交换分界值
+        //分界值与 i或 j交换
         swap(arr, low, j);
-
-        System.out.println("i: " + i + " --- j: " + j);
         return j;
     }
 }
