@@ -55,6 +55,13 @@
     <list default="true" id="84396ebb-12d1-4bf5-a247-fdcaad17b9a8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/test/HalfInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DynamicSQL/src/main/resources/org/iqqcode/dao/IUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iqqcode/dao/IAccountDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/SelectSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/MergeSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/SelectSortMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/test/TestMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/test/SelectSortTest.java" afterDir="false" />
@@ -70,7 +77,7 @@
       <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/Quick_I.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/QuickSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/QuickSortMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/test/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/test/QuickSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionII/MyBatisCRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionII/MyBatisCRUD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +88,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -112,7 +120,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MyBatis_SectionIII/DataSourcrAndTx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,52 +129,61 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.MyBatisCRUDTest.testFindAll">
-    <configuration name="MyBatisCRUDTest.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyBatisCRUD" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.iqqcode.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code-Java\Java EE\0-MyBatis\MyBatis_SectionIII\TableRelationDemo\src\main\resources\org\iqqcode\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserTest.testFindAccountUser">
+    <configuration name="AccountTest.testFindAccountUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
-      <option name="METHOD_NAME" value="testDeleteUser" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="METHOD_NAME" value="testFindAccountUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBatisCRUDTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyBatisCRUD" />
+    <configuration name="AccountTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
       <option name="METHOD_NAME" value="testFindAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBatisCRUDTest.testFindByVo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyBatisCRUD" />
+    <configuration name="AccountTest.testFindUserInIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
-      <option name="METHOD_NAME" value="testFindByVo" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="METHOD_NAME" value="testFindUserInIds" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBatisCRUDTest.testFindLike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyBatisCRUD" />
+    <configuration name="UserTest.testFindAccountUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
-      <option name="METHOD_NAME" value="testFindLike" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="METHOD_NAME" value="testFindAccountUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBatisCRUDTest.testUpdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyBatisCRUD" />
+    <configuration name="UserTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBatisCRUDTest" />
-      <option name="METHOD_NAME" value="testUpdateUser" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -174,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyBatisCRUDTest.testFindAll" />
-        <item itemvalue="JUnit.MyBatisCRUDTest.testDeleteUser" />
-        <item itemvalue="JUnit.MyBatisCRUDTest.testFindLike" />
-        <item itemvalue="JUnit.MyBatisCRUDTest.testUpdateUser" />
-        <item itemvalue="JUnit.MyBatisCRUDTest.testFindByVo" />
+        <item itemvalue="JUnit.UserTest.testFindAccountUser" />
+        <item itemvalue="JUnit.UserTest.testFindAll" />
+        <item itemvalue="JUnit.AccountTest.testFindAccountUser" />
+        <item itemvalue="JUnit.AccountTest.testFindAll" />
+        <item itemvalue="JUnit.AccountTest.testFindUserInIds" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +215,16 @@
       <workItem from="1586610871820" duration="33000" />
       <workItem from="1586677272655" duration="17000" />
       <workItem from="1587263162544" duration="2278000" />
-      <workItem from="1587270153669" duration="1276000" />
+      <workItem from="1587270153669" duration="1097000" />
+      <workItem from="1587273072220" duration="311000" />
+      <workItem from="1587273406522" duration="3010000" />
+      <workItem from="1587276503639" duration="4052000" />
+      <workItem from="1587281062735" duration="1424000" />
+      <workItem from="1587282746698" duration="3431000" />
+      <workItem from="1587286421220" duration="1276000" />
+      <workItem from="1587289663345" duration="50000" />
+      <workItem from="1587293325830" duration="72000" />
+      <workItem from="1587293418959" duration="8376000" />
     </task>
     <servers />
   </component>
@@ -218,6 +244,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="111" key="#Inspections" timestamp="1587306130359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="111" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1587306130359" />
+    <state x="347" y="32" key="#MyBatisCRUDTest.testFindAll" timestamp="1587273452013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="32" key="#MyBatisCRUDTest.testFindAll/0.0.1536.864@0.0.1536.864" timestamp="1587273452013" />
     <state x="651" y="294" key="#Notifications" timestamp="1587263168881">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -226,34 +260,42 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="179" y="274" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1586571503017" />
-    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586570217486">
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587276819628">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586570217486" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587276819628" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1587285248286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1587285248286" />
     <state x="586" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1586569232789">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="586" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586569232789" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587273067687">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587298992205">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587273067687" />
-    <state width="1493" height="257" key="GridCell.Tab.0.bottom" timestamp="1586606815253">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587298992205" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587287993970">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
-    <state width="1493" height="257" key="GridCell.Tab.0.center" timestamp="1586606815253">
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587287993970" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1587308980498">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
-    <state width="1493" height="257" key="GridCell.Tab.0.left" timestamp="1586606815253">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1587308980498">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
-    <state width="1493" height="257" key="GridCell.Tab.0.right" timestamp="1586606815253">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1587308980498">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1587308980498">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
     <state x="196" y="25" width="1069" height="784" key="SettingsEditor" timestamp="1587268905390">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -262,13 +304,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="545" y="187" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1586576235521" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1586585875747">
+    <state x="425" y="197" key="run.anything.popup" timestamp="1587273747622">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586585875747" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586578750715">
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1587273747622" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587307397047">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586578750715" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587307397047" />
   </component>
 </project>
