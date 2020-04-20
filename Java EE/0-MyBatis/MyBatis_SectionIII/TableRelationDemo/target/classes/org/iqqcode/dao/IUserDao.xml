@@ -19,12 +19,8 @@
         </collection>
     </resultMap>
 
+    <!--查询所有用户，同时获取到用户下所有账户的信息-->
     <select id="findAll" resultMap="userAccountMap">
         select * from user u left outer join account a on u.id = a.uid
-    </select>
-
-    <!--根据id查询用户-->
-    <select id="findUserAccount" parameterType="java.lang.Integer" resultMap="userAccountMap">
-        select * from user u , account a on u.id = a.uid
     </select>
 </mapper>

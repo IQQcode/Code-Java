@@ -53,31 +53,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84396ebb-12d1-4bf5-a247-fdcaad17b9a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/test/HalfInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DynamicSQL/src/main/resources/org/iqqcode/dao/IUserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IAccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iqqcode/dao/IAccountDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/MergeSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/SelectSortMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/test/TestMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/test/SelectSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/src/iqqcode/algorithm/test/InsertSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/src/iqqcode/algorithm/test/InsertSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/test/TestInsertAndShell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/test/TestInsertAndShell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/e-归并排序/src/iqqocde/algorithm/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/e-归并排序/src/iqqocde/algorithm/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/sort/Quick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/sort/QuickSortMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/sort/QuickSortMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/test/QuickSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/test/QuickSortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/Quick_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/QuickSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/QuickSortMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/test/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/test/QuickSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionII/MyBatisCRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionII/MyBatisCRUD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IPersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IRoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iqqcode/dao/IPersonDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iqqcode/dao/IRoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RoleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/java/org/iqqcode/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/java/org/iqqcode/domain/QueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/java/org/iqqcode/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/resources/org/iqqcode/dao/IUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_JNDI/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IAccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IAccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/dao/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iqqcode/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iqqcode/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iqqcode/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/iqqcode/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/iqqcode/dao/IUserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iqqcode/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/iqqcode/dao/IUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iqqcode/dao/IUserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/iqqcode/dao/IUserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/iqqcode/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/iqqcode/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UserTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,15 +131,29 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code-Java\Java EE\0-MyBatis\MyBatis_SectionIII\TableRelationDemo\src\main\resources\org\iqqcode\dao" />
+      <recent name="F:\Code-Java\Java EE\0-MyBatis\MyBatis_SectionIII\TableRelationDemo\src\main\resources\org\iqqcode\entity" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="org.iqqcode.dao" />
       <recent name="org.iqqcode.domain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Code-Java\Java EE\0-MyBatis\MyBatis_SectionIII\TableRelationDemo\src\main\resources\org\iqqcode\dao" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest.testFindAccountUser">
+  <component name="RunManager" selected="JUnit.RoleTest.testFindAll">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TableRelationDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AccountTest.testFindAccountUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
@@ -149,53 +164,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
       <option name="METHOD_NAME" value="testFindAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.testFindUserInIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RoleTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TableRelationDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AccountTest" />
-      <option name="METHOD_NAME" value="testFindUserInIds" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest.testFindAccountUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TableRelationDemo" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UserTest" />
-      <option name="METHOD_NAME" value="testFindAccountUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TableRelationDemo" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="MAIN_CLASS_NAME" value="RoleTest" />
       <option name="METHOD_NAME" value="testFindAll" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TableRelationDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserTest.testFindAccountUser" />
-        <item itemvalue="JUnit.UserTest.testFindAll" />
+        <item itemvalue="JUnit.RoleTest.testFindAll" />
+        <item itemvalue="JUnit.PersonTest.testFindAll" />
+        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.AccountTest" />
         <item itemvalue="JUnit.AccountTest.testFindAccountUser" />
-        <item itemvalue="JUnit.AccountTest.testFindAll" />
-        <item itemvalue="JUnit.AccountTest.testFindUserInIds" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +229,9 @@
       <workItem from="1587289663345" duration="50000" />
       <workItem from="1587293325830" duration="72000" />
       <workItem from="1587293418959" duration="8376000" />
+      <workItem from="1587340907759" duration="5483000" />
+      <workItem from="1587350592525" duration="6121000" />
+      <workItem from="1587375363337" duration="1572000" />
     </task>
     <servers />
   </component>
@@ -276,30 +283,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587298992205" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587287993970">
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587377452216">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587287993970" />
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1587308980498">
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587377452216" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1587359629162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
-    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1587308980498">
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587359629162" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1587359629162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
-    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1587308980498">
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587359629162" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1587359629162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
-    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1587308980498">
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587359629162" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1587359629162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587308980498" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587359629162" />
     <state x="196" y="25" width="1069" height="784" key="SettingsEditor" timestamp="1587268905390">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="196" y="25" width="1069" height="784" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587268905390" />
+    <state x="178" y="42" key="new project wizard" timestamp="1587377472226">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1587377472226" />
     <state x="545" y="187" key="refactoring.ChangeSignatureDialog" timestamp="1586576235521">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -308,9 +319,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1587273747622" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587307397047">
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587342096171">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587307397047" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587342096171" />
   </component>
 </project>

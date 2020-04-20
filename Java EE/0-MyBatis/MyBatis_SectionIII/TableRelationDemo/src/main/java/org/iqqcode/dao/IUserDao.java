@@ -1,6 +1,5 @@
 package org.iqqcode.dao;
 
-import org.iqqcode.domain.Account;
 import org.iqqcode.domain.User;
 
 import java.util.List;
@@ -8,7 +7,7 @@ import java.util.List;
 /**
  * @Author: Mr.Q
  * @Date: 2020-04-11 09:41
- * @Description:
+ * @Description:用户与账户一对多
  */
 public interface IUserDao {
     /**

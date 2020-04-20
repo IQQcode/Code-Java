@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @Author: Mr.Q
  * @Date: 2020-04-19 15:31
- * @Description:
+ * @Description:账户与用户一对一
  */
 public interface IAccountDao {
     /**

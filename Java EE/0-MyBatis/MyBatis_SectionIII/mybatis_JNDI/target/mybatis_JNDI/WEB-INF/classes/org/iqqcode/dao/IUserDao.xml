@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="org.iqqcode.dao.IUserDao">
+    <!--查询所有用户-->
+    <select id="findAll" resultType="User">
+        select * from user
+    </select>
+
+    <!--根据条件动态查询-->
+    <select id="findUserByCondition" parameterType="User" resultType="User">
+        <!--查询条件很多时-->
+        select * from user
+        <where>
+            <if test="username != null">
+                and username = #{username}
+            </if>
+            <if test="sex != null">
+                and sex = #{sex}
+            </if>
+            <if test="address != null">
+                and address = #{address}
+            </if>
+        </where>
+    </select>
+
+    <!--根据QueryVo中的Ids集合实现查询用户列-->
+    <select id="findUserInIds" parameterType="User" resultType="User">
+        <!--<include refid="defaultUser"></include>-->
+        select * from user
+        <where>
+            <if test="ids != null and ids.size()>0">
+                <foreach collection="ids" open="and id in (" close=")" item="id" separator=",">
+                    #{id}
+                </foreach>
+            </if>
+        </where>
+    </select>
+</mapper>

@@ -23,5 +23,4 @@
     <select id="findAll" resultMap="userAccountMap">
         select * from user u left outer join account a on u.id = a.uid
     </select>
-
 </mapper>

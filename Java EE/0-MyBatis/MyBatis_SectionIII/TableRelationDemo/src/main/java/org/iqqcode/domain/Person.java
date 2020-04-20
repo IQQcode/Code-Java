@@ -1,9 +1,7 @@
-package org.iqqcode.entity;
+package org.iqqcode.domain;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
-import org.iqqcode.domain.Account;
+
 
 import java.io.Serializable;
 import java.util.Date;
@@ -17,12 +15,14 @@ import java.util.List;
  * 一个角色可以赋予多个用户
  */
 @Data
-@NoArgsConstructor
-@AllArgsConstructor
 public class Person implements Serializable {
     private int id;
     private String username;
     private Date birthday;
     private String sex;
     private String address;
+
+    //多对多的关系映射：一个用户可以具备多个角色
+    //user表，role表，person_role表为连接两表
+    private List<Role> roles;
 }
