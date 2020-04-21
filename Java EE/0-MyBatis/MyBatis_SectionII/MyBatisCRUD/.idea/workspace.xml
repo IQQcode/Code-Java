@@ -53,24 +53,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84396ebb-12d1-4bf5-a247-fdcaad17b9a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/test/HalfInsert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/MergeSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/sort/SelectSortMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/test/TestMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/b-选择排序/src/iqqcode/algorithm/test/SelectSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/src/iqqcode/algorithm/test/InsertSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/c-插入排序/src/iqqcode/algorithm/test/InsertSortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/test/TestInsertAndShell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/d-希尔排序/src/iqqocde/algorithm/test/TestInsertAndShell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/e-归并排序/src/iqqocde/algorithm/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/e-归并排序/src/iqqocde/algorithm/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/sort/Quick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/sort/QuickSortMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/sort/QuickSortMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/test/QuickSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/out/production/f-快速排序/iqqcode/algorithm/test/QuickSortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/Quick_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/QuickSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/sort/QuickSortMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/test/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/f-快速排序/src/iqqcode/algorithm/test/QuickSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatisCRUD_Anno/src/main/resources/org/iqqcode/dao/IUseDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/AnnotationDevelop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/src/main/java/org/iqqcode/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/src/main/java/org/iqqcode/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/AnnotationDevelop/src/test/java/org/iqqcode/test/MyBatisAnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/Cache/src/test/java/org/iqqcode/test/SecondCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/LazyLoading/src/test/java/org/iqqcode/test/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/LazyLoading/src/test/java/org/iqqcode/test/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionIII/DynamicSQL/.idea/dataSources/509576a2-acfb-4373-82c4-aef9d237ce05.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionIII/DynamicSQL/.idea/dataSources/509576a2-acfb-4373-82c4-aef9d237ce05/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionIII/DynamicSQL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionIII/DynamicSQL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyBatis_SectionIV/LazyLoading/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyBatis_SectionIV/LazyLoading/src/main/resources/SqlMapConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +124,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MyBatis_SectionIII/DataSourcrAndTx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBatisCRUD_Anno" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,7 +133,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.MyBatisCRUDTest.testFindAll">
+  <component name="RunManager" selected="JUnit.MyBatisCRUDTest.testFindByVo">
     <configuration name="MyBatisCRUDTest.testDeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyBatisCRUD" />
       <option name="PACKAGE_NAME" value="" />
@@ -174,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyBatisCRUDTest.testFindByVo" />
         <item itemvalue="JUnit.MyBatisCRUDTest.testFindAll" />
         <item itemvalue="JUnit.MyBatisCRUDTest.testDeleteUser" />
         <item itemvalue="JUnit.MyBatisCRUDTest.testFindLike" />
         <item itemvalue="JUnit.MyBatisCRUDTest.testUpdateUser" />
-        <item itemvalue="JUnit.MyBatisCRUDTest.testFindByVo" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +211,7 @@
       <workItem from="1586677272655" duration="17000" />
       <workItem from="1587263162544" duration="2278000" />
       <workItem from="1587270153669" duration="1276000" />
+      <workItem from="1587468151812" duration="30000" />
     </task>
     <servers />
   </component>
@@ -234,26 +247,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="586" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586569232789" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587273067687">
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587468180166">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587273067687" />
-    <state width="1493" height="257" key="GridCell.Tab.0.bottom" timestamp="1586606815253">
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587468180166" />
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1587468181040">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
-    <state width="1493" height="257" key="GridCell.Tab.0.center" timestamp="1586606815253">
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587468181040" />
+    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1587468181040">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
-    <state width="1493" height="257" key="GridCell.Tab.0.left" timestamp="1586606815253">
+    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587468181040" />
+    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1587468181039">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
-    <state width="1493" height="257" key="GridCell.Tab.0.right" timestamp="1586606815253">
+    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587468181039" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1587468181040">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="257" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586606815253" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587468181040" />
     <state x="196" y="25" width="1069" height="784" key="SettingsEditor" timestamp="1587268905390">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

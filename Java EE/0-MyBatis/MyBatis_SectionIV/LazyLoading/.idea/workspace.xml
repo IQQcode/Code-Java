@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Projects" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Projects" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Travelocity" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2fb7e43-7b9e-483f-90c3-53333e5fe377" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/AnnotationDevelop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/src/main/java/org/iqqcode/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/src/main/java/org/iqqcode/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/src/main/resources/org/iqqcode/dao/IUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnnotationDevelop/src/test/java/org/iqqcode/test/MyBatisAnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cache/src/test/java/org/iqqcode/test/SecondCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/iqqcode/test/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/iqqcode/test/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../JavaSE/MultiThread/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1aoJ18l6txSkbRZhdgb61JnUIw6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MyBatis_SectionIII/DynamicSQL" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code-Java\Java EE\0-MyBatis\MyBatis_SectionIV\LazyLoading\src\test\java" />
+      <recent name="F:\Code-Java\Java EE\0-MyBatis\MyBatis_SectionIV\LazyLoading\src\main\resources" />
+      <recent name="F:\Code-Java\Java EE\0-MyBatis\MyBatis_SectionIV\LazyLoading\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest.testFindAll">
+    <configuration name="AccountTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LazyLoading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iqqcode.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iqqcode.test" />
+      <option name="MAIN_CLASS_NAME" value="org.iqqcode.test.AccountTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LazyLoading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iqqcode.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iqqcode.test" />
+      <option name="MAIN_CLASS_NAME" value="org.iqqcode.test.UserTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTest.testFindAll" />
+        <item itemvalue="JUnit.UserTest.testFindAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2fb7e43-7b9e-483f-90c3-53333e5fe377" name="Default Changelist" comment="" />
+      <created>1587395794879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587395794879</updated>
+      <workItem from="1587395799567" duration="281000" />
+      <workItem from="1587396828932" duration="624000" />
+      <workItem from="1587460987191" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587395988889">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587395988889" />
+    <state x="547" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1587396065988">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="547" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587396065988" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1587461014241">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587461014241" />
+    <state width="1493" height="377" key="GridCell.Tab.0.bottom" timestamp="1587397454640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="377" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587397454640" />
+    <state width="1493" height="377" key="GridCell.Tab.0.center" timestamp="1587397454640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="377" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587397454640" />
+    <state width="1493" height="377" key="GridCell.Tab.0.left" timestamp="1587397454640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="377" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587397454640" />
+    <state width="1493" height="377" key="GridCell.Tab.0.right" timestamp="1587397454640">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="377" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587397454640" />
+  </component>
+</project>
