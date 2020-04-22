@@ -7,11 +7,7 @@ import org.iqqcode.domain.User;
 /**
  * @Author: Mr.Q
  * @Date: 2020-04-21 16:40
- * @Description:注解
- * @Select
- * @Update
- * @Insert
- * @Delete
+ * @Description:表结构一对多关系关系映射
  */
 public interface IUserDao {
     @Select("select * from user")
@@ -26,6 +22,7 @@ public interface IUserDao {
                     many = @Many(select = "org.iqqcode.dao.IAccountDao.findAccountByUid",
                             fetchType = FetchType.LAZY))
     })
+
     List<User> findAll();
 
     /**

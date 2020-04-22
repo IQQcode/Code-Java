@@ -9,11 +9,7 @@ import java.util.List;
 /**
  * @Author: Mr.Q
  * @Date: 2020-04-21 16:40
- * @Description:注解
- * @Select
- * @Update
- * @Insert
- * @Delete
+ * @Description:表结构一对一关系关系映射
  */
 public interface IAccountDao {
     /**

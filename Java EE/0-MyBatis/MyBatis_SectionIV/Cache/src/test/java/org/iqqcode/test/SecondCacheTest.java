@@ -45,7 +45,7 @@ public class SecondCacheTest {
         System.out.println(user1);
         //一级缓存消失
         sqlSession1.close();
-
+ 
         SqlSession sqlSession2 = factory.openSession();
         IUserDao dao2 = sqlSession2.getMapper(IUserDao.class);
         User user2 = dao2.findById(41);
