@@ -14,11 +14,7 @@ Anyway, It's my learning [**Notes**](https://github.com/IQQcode/Code-and-Notes/t
 
 [JavaWeb](https://github.com/IQQcode/Code-Java/tree/master/JavaWeb)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190823100546546.gif)
-
 [JavaEE](https://github.com/IQQcode/Code-Java/tree/master/Java%20EE)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190823100601897.gif)
 
 [DataStruct](https://github.com/IQQcode/Code-Java/tree/master/Data%20Structure)
 
