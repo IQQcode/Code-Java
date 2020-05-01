@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 配置Service -->
+    <bean id="userService" class="org.iqqcode.service.impl.UserServiceImpl">
+        <!-- 注入dao -->
+        <property name="userDao" ref="userDao"/>
+    </bean>
+
+    <!--配置Dao对象-->
+    <bean id="userDao" class="org.iqqcode.dao.impl.UserDaoImpl">
+        <!-- 注入QueryRunner -->
+        <property name="run" ref="run"/>
+    </bean>
+
+    <!--配置QueryRunner-->
+    <bean id="run" class="org.apache.commons.dbutils.QueryRunner" scope="prototype">
+        <!--注入数据源-->
+        <constructor-arg name="ds" ref="dataSource"/>
+    </bean>
+
+    <!-- 配置数据源 -->
+    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+        <!--连接数据库的必备信息-->
+        <property name="driverClass" value="com.mysql.jdbc.Driver"/>
+        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/db_test?characterEncoding=utf-8&amp;useSSL=false"/>
+        <property name="user" value="root"/>
+        <property name="password" value="1234"/>
+    </bean>
+</beans>
