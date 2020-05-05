@@ -33,15 +33,14 @@ public class RegistClient {
         ApplicationContext ac = new ClassPathXmlApplicationContext("applicationContext.xml");
 
         //2.根据id获取Bean对象
-        UserDao userDao = ac.getBean("userDao",UserDao.class); //反射拿到字节码强转
+        UserDao userDao = ac.getBean("userDao",UserDao.class); //通过反射来创建对象
         UserService userService = (UserService) ac.getBean("userService"); //Object类型
-        System.out.println(userDao);
-        System.out.println(userService);
+        userDao.regist();
 
         //--------BeanFactory----------
-        Resource resource = (Resource) new ClassPathResource("applicationContext.xml");
+        /*Resource resource = (Resource) new ClassPathResource("applicationContext.xml");
         BeanFactory factory = new XmlBeanFactory(resource);
         UserService as  = (UserService)factory.getBean("accountService");
-        System.out.println(as);
+        System.out.println(as);*/
     }
 }

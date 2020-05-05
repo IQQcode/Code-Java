@@ -1,6 +1,5 @@
 package org.iqqcode.web;
 
-import org.iqqcode.dao.UserDao;
 import org.iqqcode.service.UserService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

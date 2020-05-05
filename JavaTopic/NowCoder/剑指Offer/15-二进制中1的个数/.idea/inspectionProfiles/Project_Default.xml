@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:用户的持久层接口,Date:,Author:,Description:用户的持久层接口实现类,Description:用户业务逻辑层接口,Description:用户的业务逻辑层接口实现类,Description:模拟用户注册的表现层,Description:Spring对Bean的管理,Description:DI--构造函数注入,Description:DI--Setter()注入,Description:DI--注入集合数据,DI--构造函数注入,Description:DI--Test,DI--Setter()注入,Description:强耦合" />
+      <option name="myAdditionalJavadocTags" value="date,Description:,Description:(num&amp;1)就是这个数最低位的二进制，然后把n右移一位可以求出倒数第二位的二进制，不断进行循环，直到求出n的最高位的二进制,Author:,Date:,Description:Integer.toBinaryString()，他的作用是把一个10进制数转为32位的2进制数。同时对负数，会用补码表示" />
     </inspection_tool>
   </profile>
 </component>

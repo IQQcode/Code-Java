@@ -37,6 +37,7 @@ public class UserServiceImplll implements UserService {
     }
 
 
+    @Override
     public void regist() {
         System.out.println(Arrays.toString(myStrs));
         System.out.println(myList);

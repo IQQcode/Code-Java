@@ -23,7 +23,7 @@ public class UserServiceImpl implements UserService {
     }
 
     public void regist() {
-        System.err.println("regist()执行了...");
+        System.err.println("\nregist()执行了...");
         System.out.print("\n-----------------------\nname: "+name+"\nage: "+age+"\ndate: "+date);
     }
 }
