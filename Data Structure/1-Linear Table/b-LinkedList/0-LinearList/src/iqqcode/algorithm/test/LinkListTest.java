@@ -1,12 +1,12 @@
 package iqqcode.algorithm.test;
 
-import iqqcode.algorithm.LinkList;
+import iqqcode.algorithm.list.LinkList;
 import org.junit.Test;
 
 /**
  * @Author: Mr.Q
  * @Date: 2020-05-03 10:09
- * @Description:
+ * @Description:单向链表测试
  */
 public class LinkListTest {
     @Test
@@ -26,6 +26,10 @@ public class LinkListTest {
             System.out.println(o);
         }
         System.out.println("*****************************************************");
+
+        //链表元素个数
+        System.out.println("链表元素个数为： " + sl.length());
+
         //测试获取
         String s1 = sl.get(3);
         System.out.println("获取索引3处的元素： " + s1);

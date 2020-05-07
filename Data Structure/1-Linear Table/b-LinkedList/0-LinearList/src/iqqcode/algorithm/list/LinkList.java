@@ -1,11 +1,11 @@
-package iqqcode.algorithm;
+package iqqcode.algorithm.list;
 
 import java.util.Iterator;
 
 /**
  * @Author: Mr.Q
  * @Date: 2019-10-13 12:47
- * @Description:链表--单链表
+ * @Description:单向链表
  */
 public class LinkList<T> implements Iterable<T> {
 
@@ -32,7 +32,7 @@ public class LinkList<T> implements Iterable<T> {
         //初始化头结点，链表为空，无指向
         this.head = new Node(null,null);
         //初始化元素个数
-        this.N=0;
+        this.N = 0;
     }
 
     //清空链表
@@ -59,7 +59,7 @@ public class LinkList<T> implements Iterable<T> {
     }
 
     /**
-     * 读取并返回链表中的第index个元素的值
+     * 读取并返回链表中的第index个元素的值(注意初始节点不是头结点)
      * @param index
      * @return
      */
@@ -108,7 +108,7 @@ public class LinkList<T> implements Iterable<T> {
         Node curr = prev.next;
         //创建新结点，并且新结点需要指向原来index位置的结点
         Node newNode = new Node(t, curr);
-        //原来index位置的前一个节点指向新结点即可
+        //原来index位置的前一个节点指向新结点即可(即在index前一个位置和index之间插入了新节点)
         prev.next = newNode;
         //元素的个数+1
         N++;
@@ -153,10 +153,48 @@ public class LinkList<T> implements Iterable<T> {
         return - 1;
     }
 
+    //反转单链表
+    public void reverse() {
+        //判断当前链表是否为空链表，如不是则反转链表
+        if (isEmpty()) {
+            return;
+        }
+        //头结点无元素，从有元素的节点开始
+        reverse(head.next);
+    }
+
+    /**
+     * 反转指定节点，并返回反转后的结果
+     * @param curr 反转的指定节点
+     * @return 反转后的节点
+     */
+    public Node reverse(Node curr) {
+        //出口为要反转的节点是链表的最后一个节点
+        if (curr.next == null) {
+            //首节点的下一个节点是最后一个节点
+            head.next = curr;
+            return curr;
+        }
+        //如果此时curr不是最后一个节点
+        //递归反转当前节点(curr)的下一个节点prev,反转之后prev成为curr的上一个节点
+        Node prev = reverse(curr.next);
+        //反转后让prev指向curr
+        prev.next = curr;
+        //curr的下一个节点(就是反转之后的尾结点)变为null(尾结点数据域为空)
+        curr.next = null;
+        return curr;
+    }
+
+    /**
+     * 实例化Iterator对象，Iterator是接口，用内部类来实例化
+     * @return
+     */
     @Override
     public Iterator iterator() {
         return new Iterator() {
+
             private Node node = head;
+
             @Override
             public boolean hasNext() {
                 return node.next != null;
@@ -164,6 +202,7 @@ public class LinkList<T> implements Iterable<T> {
 
             @Override
             public Object next() {
+                //指向第一个存储数据的节点
                 node = node.next;
                 return node.data;
             }
