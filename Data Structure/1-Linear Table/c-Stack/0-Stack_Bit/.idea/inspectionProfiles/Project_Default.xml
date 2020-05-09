@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:循环链表求解,Date:,Author:,Description:数组求解,Description:循环链表,Description:数学方法求解,Description:Java自带链表实现,addLast:将指定元素添加到此列表的末尾。" />
+      <option name="myAdditionalJavadocTags" value="date" />
     </inspection_tool>
   </profile>
 </component>
