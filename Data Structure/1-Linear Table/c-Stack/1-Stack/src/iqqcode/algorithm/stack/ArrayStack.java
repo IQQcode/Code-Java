@@ -44,7 +44,7 @@ public class ArrayStack<T> implements Iterable<Object> {
      * @param o 压栈元素
      * @return
      */
-    public boolean push(Object o) {
+    public boolean push(T t) {
         //栈已满，需要扩容
         if (N == maxsize) {
             int oldSize = maxsize;
@@ -57,7 +57,7 @@ public class ArrayStack<T> implements Iterable<Object> {
             //将扩容前的数组拷贝到新数组中
             elements = Arrays.copyOf(elements,maxsize);
         }
-        elements[N++] = o;
+        elements[N++] = t;
         return true;
     }
 
