@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Projects" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Projects" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Travelocity" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ab110e5-e228-449e-b319-1ad7eca2a51c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Data Structure/0-Sort/g-堆排序/g-堆排序.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-数组中重复的数字/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-数组中重复的数字/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-数组中重复的数字/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-数组中重复的数字/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-数组中重复的数字/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-数组中重复的数字/00-数组中重复的数字.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../00-数组中重复的数字/src/com/jzoffer/RepeatNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-二分查找/01-二分查找.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-二分查找/src/com/jzoffer/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-替换空格/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-替换空格/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-替换空格/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-替换空格/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-替换空格/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-替换空格/02-替换空格.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-替换空格/src/com/jzoffer/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/src/main/java/org/iqqcode/web/BeanClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/src/main/java/org/iqqcode/web/BeanClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/src/main/java/org/iqqcode/web/RegistClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/src/main/java/org/iqqcode/web/RegistClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/web/BeanClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/web/BeanClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/web/RegistClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/01_SpringRealize/target/classes/org/iqqcode/web/RegistClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/src/main/java/org/iqqcode/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/src/main/java/org/iqqcode/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/src/main/java/org/iqqcode/service/impl/UserServiceImplll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/src/main/java/org/iqqcode/service/impl/UserServiceImplll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java EE/1-Spring/Spring_PartA/02_Spring_DI/src/main/resources/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/JZ_Demo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/out/production/JZ_Demo1/com/jzoffer/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/out/production/JZ_Demo1/com/jzoffer/Solution_Pass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/out/production/JZ_Demo1/com/jzoffer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/src/com/jzoffer/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JZ_Demo1/src/com/jzoffer/Solution_Pass.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1bLIJxFX7I5bSRDq7XxrM9LCR68" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../03-斐波那契数列-青蛙跳台阶" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jzoffer.solution" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FibTest">
+    <configuration name="FibTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03-斐波那契数列" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jzoffer.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jzoffer.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jzoffer.test.FibTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibTest.testLopp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03-斐波那契数列" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jzoffer.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jzoffer.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jzoffer.test.FibTest" />
+      <option name="METHOD_NAME" value="testLopp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibTest.testRecursive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03-斐波那契数列" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jzoffer.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jzoffer.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jzoffer.test.FibTest" />
+      <option name="METHOD_NAME" value="testRecursive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FibTest" />
+        <item itemvalue="JUnit.FibTest.testLopp" />
+        <item itemvalue="JUnit.FibTest.testRecursive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab110e5-e228-449e-b319-1ad7eca2a51c" name="Default Changelist" comment="" />
+      <created>1588404878770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588404878770</updated>
+      <workItem from="1588404882123" duration="377000" />
+      <workItem from="1588405304121" duration="1756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="294" key="#Notifications" timestamp="1588405351556">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="651" y="294" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1588405351556" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1588417218034">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1588417218034" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1588417219727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588417219727" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1588417219727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588417219727" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1588417219727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588417219727" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1588417219727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588417219727" />
+    <state x="485" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588405181389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1588405181389" />
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1" timestamp="1588405659164">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1588405659164" />
+  </component>
+</project>
