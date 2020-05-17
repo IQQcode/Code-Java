@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:成员内部类,Date:,Author:,Description:成员内部类---间接访问,Description:内部类重名变量的访问,Description:匿名内部类,Description:静态内部类" />
+      <option name="myAdditionalJavadocTags" value="date,Description:二叉查找树---链表实现,Solution:继承Comparable接口，对Key进行比较排序,Date:,Author:,Description:测试类,Description:增删改查测试,Description:遍历测试" />
     </inspection_tool>
   </profile>
 </component>

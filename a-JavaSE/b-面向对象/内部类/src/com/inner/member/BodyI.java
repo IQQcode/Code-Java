@@ -10,6 +10,7 @@ public class BodyI {
 
     //成员内部类
     public class Heart {
+
        //内部类方法
        public void beat() {
            System.out.println("内部类方法");
