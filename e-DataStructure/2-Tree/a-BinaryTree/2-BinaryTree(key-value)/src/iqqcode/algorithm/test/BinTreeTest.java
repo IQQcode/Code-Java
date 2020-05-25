@@ -22,10 +22,10 @@ public class BinTreeTest {
         System.out.println("二叉树中元素个数为： " + tree.size());
 
         tree.add(4 , "JavaScript");
-        System.out.println("key==4 对应的 value==" + tree.get(4));
+        System.out.println("key==4 对应的 value==" + tree.contains(4));
 
-        tree.delete(3);
+        tree.remove(3);
         System.out.println("删除后元素个数为： " + tree.size());
-        System.out.println("删除后key==3 处 value==" + tree.get(3));
+        System.out.println("删除后key==3 处 value==" + tree.contains(3));
     }
 }

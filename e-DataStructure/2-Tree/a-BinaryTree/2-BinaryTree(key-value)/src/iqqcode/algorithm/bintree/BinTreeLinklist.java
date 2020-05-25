@@ -79,8 +79,8 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
      * @param key
      * @return
      */
-    public Value get(Key key) {
-        return get(root, key);
+    public Value contains(Key key) {
+        return contains(root, key);
     }
 
     /**
@@ -90,7 +90,7 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
      * @param key
      * @return
      */
-    public Value get(Node node, Key key) {
+    public Value contains(Node node, Key key) {
         //当前以node为根节点的树为空
         if (node == null) {
             return null;
@@ -100,10 +100,10 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
         int compare = key.compareTo(node.key);
         if (compare > 0) {
             //如果key大于node节点的键，则继续递归向下找node节点的右子树
-            return get(node.right, key);
+            return contains(node.right, key);
         } else if (compare < 0) {
             //如果key小于node节点的键，则继续递归向下找node节点的左子树
-            return get(node.left, key);
+            return contains(node.left, key);
         } else {
             //如果key等于于node节点的键，找到返回
             return node.value;
@@ -111,8 +111,8 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
     }
 
     //删除树中key对应的value
-    public void delete(Key key) {
-        delete(root, key);
+    public void remove(Key key) {
+        remove(root, key);
     }
 
     /**
@@ -122,7 +122,7 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
      * @param key
      * @return 删除后的新树
      */
-    public Node delete(Node node, Key key) {
+    public Node remove(Node node, Key key) {
         //当前以node为根节点的树为空
         if (node == null) {
             return null;
@@ -132,10 +132,10 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
         int compare = key.compareTo(node.key);
         if (compare > 0) {
             //如果key大于node节点的键，则继续递归向下找node节点的右子树
-            node.right = delete(node.right, key);
+            node.right = remove(node.right, key);
         } else if (compare < 0) {
             //如果key小于node节点的键，则继续递归向下找node节点的左子树
-            node.left = delete(node.left, key);
+            node.left = remove(node.left, key);
         } else {
             // 如果key等于于node节点的键，则删除节点node
 
@@ -216,6 +216,36 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
         } else {
             return node;
         }
+    }
+
+    /**
+     * 获取整个树的最大深度
+     * @return
+     */
+    public int maxDepth() {
+        return maxDepth(root);
+    }
+
+    private int maxDepth(Node node) {
+        if (node == null) {
+            return 0;
+        }
+        int max = 0;
+        // 左子树的最大深度
+        int leftMax = 0;
+        // 右子树的最大深度
+        int rightMax = 0;
+
+        // 计算node结点左子树的最大深度
+        if (node.left != null) {
+            leftMax = maxDepth(node.left);
+        }
+        // 计算node结点右子树的最大深度
+        if (node.right != null) {
+            rightMax = maxDepth(node.right);
+        }
+        // 比较左子树最大深度和右子树最大深度，取较大值+1即可
+        return leftMax > rightMax ? leftMax + 1 : rightMax + 1;
     }
 
 
@@ -354,35 +384,5 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
             }
         }
         return keys;
-    }
-
-    /**
-     * 获取整个树的最大深度
-     * @return
-     */
-    public int maxDepth() {
-        return maxDepth(root);
-    }
-
-    private int maxDepth(Node node) {
-        if (node == null) {
-            return 0;
-        }
-        int max = 0;
-        // 左子树的最大深度
-        int leftMax = 0;
-        // 右子树的最大深度
-        int rightMax = 0;
-
-        // 计算node结点左子树的最大深度
-        if (node.left != null) {
-            leftMax = maxDepth(node.left);
-        }
-        // 计算node结点右子树的最大深度
-        if (node.right != null) {
-            rightMax = maxDepth(node.right);
-        }
-        // 比较左子树最大深度和右子树最大深度，取较大值+1即可
-        return leftMax > rightMax ? leftMax + 1 : rightMax + 1;
     }
 }

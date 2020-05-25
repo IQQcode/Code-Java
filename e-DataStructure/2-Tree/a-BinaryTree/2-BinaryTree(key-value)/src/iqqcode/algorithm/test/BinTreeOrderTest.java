@@ -24,12 +24,12 @@ public class BinTreeOrderTest {
         tree.add(8, "H");
         tree.add(3, "C");
 
-        System.out.println("查询测试--7号对应的值为：" + tree.get(7));
+        System.out.println("查询测试--7号对应的值为：" + tree.contains(7));
         System.out.println("[前序遍历]");
         //遍历
         Queue<Integer> keys = tree.preOrder();
         for (Integer key : keys) {
-            String value = tree.get(key);
+            String value = tree.contains(key);
             System.out.println(key+"----"+value);
         }
     }
@@ -48,12 +48,12 @@ public class BinTreeOrderTest {
         tree.add(8, "H");
         tree.add(3, "C");
 
-        System.out.println("查询测试--2号对应的值为：" + tree.get(2));
+        System.out.println("查询测试--2号对应的值为：" + tree.contains(2));
         System.out.println("[中序遍历]");
         //遍历
         Queue<Integer> keys = tree.inOrder();
         for (Integer key : keys) {
-            String value = tree.get(key);
+            String value = tree.contains(key);
             System.out.println(key+"----"+value);
         }
     }
@@ -72,12 +72,12 @@ public class BinTreeOrderTest {
         tree.add(8, "H");
         tree.add(3, "C");
 
-        System.out.println("查询测试--4号对应的值为：" + tree.get(4));
+        System.out.println("查询测试--4号对应的值为：" + tree.contains(4));
         System.out.println("[后序遍历]");
         //遍历
         Queue<Integer> keys = tree.postOrder();
         for (Integer key : keys) {
-            String value = tree.get(key);
+            String value = tree.contains(key);
             System.out.println(key+"----"+value);
         }
     }
@@ -96,12 +96,12 @@ public class BinTreeOrderTest {
         tree.add(8, "H");
         tree.add(3, "C");
 
-        System.out.println("查询测试--8号对应的值为：" + tree.get(8));
+        System.out.println("查询测试--8号对应的值为：" + tree.contains(8));
         System.out.println("[层序遍历]");
         //遍历
         Queue<Integer> keys = tree.levelOrder();
         for (Integer key : keys) {
-            String value = tree.get(key);
+            String value = tree.contains(key);
             System.out.println(key+"----"+value);
         }
     }

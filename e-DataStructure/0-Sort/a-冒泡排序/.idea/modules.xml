@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Code-Practise/DataStruct/DataStruct.iml" filepath="$PROJECT_DIR$/../../../../Code-Practise/DataStruct/DataStruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Code-Practise/DataStruct/Sort/Sort.iml" filepath="$PROJECT_DIR$/../../../../Code-Practise/DataStruct/Sort/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/a-冒泡排序.iml" filepath="$PROJECT_DIR$/a-冒泡排序.iml" />
     </modules>
   </component>

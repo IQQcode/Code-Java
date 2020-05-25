@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2-BinaryTree(key-value).iml" filepath="$PROJECT_DIR$/2-BinaryTree(key-value).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-线程的实现方式.iml" filepath="$PROJECT_DIR$/1-线程的实现方式.iml" />
     </modules>
   </component>
 </project>
