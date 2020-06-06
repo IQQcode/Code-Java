@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ad9f2e1-c9e2-47af-955d-2b8d4cbdd66c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/hashmap/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/table/BeanTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/table/ListMapTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/treemap/ObjCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/treemap/TreeMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../g-JDK8新特性/A-Lambda表达式/0-Lambda_bit/0-Lambda_bit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-ThreadPlus/2-ThreadPlus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/juc01/FakeAwake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/juc01/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/juc01/TestPc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/juc02/Sync01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/juc03/SafeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/UserQuary/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/UserQuary/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/用户信息查询管理/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/src/iqqcode/algorithm/test/SequenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../d-集合/1-Collections/src/com/iqqcode/set/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/src/com/iqqcode/set/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/hashmap/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/hashmap/HashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0-MultiThread/src/com/ThreadPool/FutureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0-MultiThread/src/com/ThreadPool/FutureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-Thread/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1-Thread/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-Thread/out/production/1-Thread/thread10/DeadLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-Thread/out/production/1-Thread/thread10/DeadLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-Thread/out/production/1-Thread/thread10/Shopping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1-Thread/out/production/1-Thread/thread10/Shopping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/AJAX/省份列表选择/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/AJAX/省份列表选择/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/AJAX/省份列表选择/out/artifacts/_war_exploded/WEB-INF/classes/com/iqqcode/servlet/ProvinceServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/AJAX/省份列表选择/out/artifacts/_war_exploded/WEB-INF/classes/com/iqqcode/servlet/ProvinceServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/AJAX/省份列表选择/out/production/省份列表选择/META-INF/省份列表选择.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/AJAX/省份列表选择/out/production/省份列表选择/com/iqqcode/servlet/ProvinceServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/AJAX/省份列表选择/out/production/省份列表选择/com/iqqcode/servlet/ProvinceServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/UserQuary/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/UserQuary/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/UserQuary/UserQuary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/UserQuary/UserQuary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/用户信息查询管理/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/用户信息查询管理/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/用户信息查询管理/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/JSP/用户信息查询管理/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/Servlet/LoginDemo/LoginServlet/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../b-JavaWeb/Servlet/LoginDemo/LoginServlet/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b-JavaWeb/Servlet/LoginDemo/LoginServlet/out/production/LoginServlet/META-INF/LoginServlet.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/out/production/Sequence/iqqcode/algorithm/SequenceList$MIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/out/production/Sequence/iqqcode/algorithm/SequenceList$MIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/out/production/Sequence/iqqcode/algorithm/SequenceList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/out/production/Sequence/iqqcode/algorithm/SequenceList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/out/production/Sequence/iqqcode/algorithm/test/SequenceListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/src/iqqcode/algorithm/SequenceList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/a-SequenceList/Sequence/src/iqqcode/algorithm/SequenceList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/META-INF/0-LinearList.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/DoublyLinkList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/DoublyLinkList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/DoublyLinkList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/DoublyLinkList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/DoublyLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/DoublyLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/LinkList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/LinkList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/list/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/DoublyLinkListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/DoublyLinkListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/LinkListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/LinkListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/LinkList_reverseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/LinkList_reverseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/out/production/0-LinearList/iqqcode/algorithm/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/DoublyLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/DoublyLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/test/DoublyLinkListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/test/DoublyLinkListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/test/LinkListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/test/LinkListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/test/LinkList_reverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/test/LinkList_reverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/1-LinkListTopic/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/1-LinkListTopic/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/LoginServletDemo/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../g-Projects/LoginServletDemo/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/LoginServletDemo/out/artifacts/LoginServlet_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../g-Projects/LoginServletDemo/out/artifacts/LoginServlet_war_exploded/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1co0sa9r5Wr4DwkWKBjMgduFJf0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.SafeArrayList">
+    <configuration name="FakeAwake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.juc01.FakeAwake" />
+      <module name="3-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.juc01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.juc01.ProducerConsumer" />
+      <module name="3-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.juc01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SafeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.juc03.SafeArrayList" />
+      <module name="3-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.juc03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sync01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.juc02.Sync01" />
+      <module name="3-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.juc02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.juc01.TestPc" />
+      <module name="3-JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.juc01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SafeArrayList" />
+        <item itemvalue="Application.Sync01" />
+        <item itemvalue="Application.ProducerConsumer" />
+        <item itemvalue="Application.FakeAwake" />
+        <item itemvalue="Application.TestPc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad9f2e1-c9e2-47af-955d-2b8d4cbdd66c" name="Default Changelist" comment="" />
+      <created>1591179845727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591179845727</updated>
+      <workItem from="1591179850165" duration="7103000" />
+      <workItem from="1591229368522" duration="54000" />
+      <workItem from="1591265621431" duration="7771000" />
+      <workItem from="1591315378632" duration="575000" />
+      <workItem from="1591362309810" duration="6350000" />
+      <workItem from="1591401794929" duration="851000" />
+      <workItem from="1591405218064" duration="10601000" />
+      <workItem from="1591431621594" duration="8027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="7" key="#Project_Structure" timestamp="1591269428563">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1591269428563" />
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1591270851322">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1591270851322" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1591315953090">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591315953090" />
+    <state width="1537" height="385" key="GridCell.Tab.0.bottom" timestamp="1591433812488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="385" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591433812488" />
+    <state width="1537" height="385" key="GridCell.Tab.0.center" timestamp="1591433812487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="385" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591433812487" />
+    <state width="1537" height="385" key="GridCell.Tab.0.left" timestamp="1591433812487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="385" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591433812487" />
+    <state width="1537" height="385" key="GridCell.Tab.0.right" timestamp="1591433812488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="385" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591433812488" />
+    <state x="349" y="167" key="IDE.errors.dialog" timestamp="1591366239185">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1591366239185" />
+    <state x="548" y="134" key="RollbackChangesDialog" timestamp="1591363872674">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="134" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591363872674" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1591420273069">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591420273069" />
+    <state x="250" y="13" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591363790131">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="250" y="13" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1591363790131" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1591439316018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591439316018" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1591434395622">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1591434395622" />
+  </component>
+</project>
