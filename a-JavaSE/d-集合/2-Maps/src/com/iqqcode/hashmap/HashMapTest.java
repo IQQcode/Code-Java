@@ -13,6 +13,7 @@ public class HashMapTest {
         Map<String,String> map = new HashMap<> ();
         String v1 = map.put("华为", "余大嘴");
         System.out.println("v1 : " + v1);
+        System.out.println(map.get("华为"));
 
         String v2 = map.put("华为", "任正非");
         System.out.println("v2 : " + v2);

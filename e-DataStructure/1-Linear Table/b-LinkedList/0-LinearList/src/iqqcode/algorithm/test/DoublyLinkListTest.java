@@ -15,12 +15,12 @@ public class DoublyLinkListTest {
         DoublyLinkList<String> dl = new DoublyLinkList<>();
 
         //测试插入
-        dl.insert("Java");
-        dl.insert("Python");
-        dl.insert("C++");
+        dl.add("Java");
+        dl.add("Python");
+        dl.add("C++");
         //指定位置插入
-        dl.insert(1,"GoLang");
-        dl.insert(2,"PHP");
+        dl.add(1,"GoLang");
+        dl.add(2,"PHP");
 
         for (Object o: dl) {
             System.out.println(o);

@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:链表--单链表,Date:,Author:,Description:双向链表,Description:双向链表测试,Description:单向链表测试,Description:循环链表,Description:单向链表,Description:单链表反转测试" />
+      <option name="myAdditionalJavadocTags" value="date,Description:链表--单链表,Date:,Author:,Description:双向链表,Description:双向链表测试,Description:单向链表测试,Description:循环链表,Description:单向链表,Description:单链表反转测试,Solution:头结点不存放元素" />
     </inspection_tool>
   </profile>
 </component>

@@ -53,7 +53,7 @@
     </style>
   </head>
   <body>
-  <form class="box" action="/LoginServletDemo/ServletLogin" method="POST">
+  <form class="box" action="${pageContext.request.contextPath}/ServletLogin" method="POST">
     <div id="login-box">
       <h1>Login</h1>
       <!-- 输入框 -->
@@ -79,9 +79,12 @@
     </div>
   </form>
 
+    <%--EL表达式--%>
+    ${requestScope.CHECKCODE_Error}
+    ${requestScope.Login_Error}
 
-  <div><%=request.getAttribute("CHECKCODE_Error")==null ? "" : request.getAttribute("CHECKCODE_Error")%></div>
-  <div><%=request.getAttribute("Login_Error")==null ? "" : request.getAttribute("Login_Error")%></div>
+  <%--<div><%=request.getAttribute("CHECKCODE_Error")==null ? "" : request.getAttribute("CHECKCODE_Error")%></div>
+  <div><%=request.getAttribute("Login_Error")==null ? "" : request.getAttribute("Login_Error")%></div>--%>
 
   </body>
 </html>

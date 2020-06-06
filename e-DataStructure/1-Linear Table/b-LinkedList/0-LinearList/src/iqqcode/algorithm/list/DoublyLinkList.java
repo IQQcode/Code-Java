@@ -6,6 +6,7 @@ import java.util.Iterator;
  * @Author: Mr.Q
  * @Date: 2020-05-06 08:22
  * @Description:双向链表
+ * @Solution:头结点不存放元素
  */
 public class DoublyLinkList<T> implements Iterable<T>{
 
@@ -105,7 +106,7 @@ public class DoublyLinkList<T> implements Iterable<T>{
      * 往链表中添加一个元素(尾插)
      * @param t
      */
-    public void insert(T t) {
+    public void add(T t) {
         //如果链表为空
         if (isEmpty()) {
             //创建新节点
@@ -132,7 +133,7 @@ public class DoublyLinkList<T> implements Iterable<T>{
      * 在链表的第index个元素之前插入一个值为t的数据元素
      * @param index
      */
-    public void insert(int index,T t) {
+    public void add(int index,T t) {
         //找到index位置的前一个节点befo
         Node befo = head;
         for (int i = 0; i < index; i++) {

@@ -14,11 +14,11 @@ public class LinkList_reverseTest {
 
         LinkList<String> sl = new LinkList<>();
 
-        sl.insert("1");
-        sl.insert("2");
-        sl.insert("3");
-        sl.insert("4");
-        sl.insert("5");
+        sl.add("1");
+        sl.add("2");
+        sl.add("3");
+        sl.add("4");
+        sl.add("5");
 
         for (Object o : sl) {
             System.out.print(o + " ");

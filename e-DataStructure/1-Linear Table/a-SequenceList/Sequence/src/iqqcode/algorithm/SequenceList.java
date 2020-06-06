@@ -11,16 +11,16 @@ import java.util.Iterator;
  * 2.在SequenceList内部提供一个内部类MIterator,实现Iterator接口，重写hasNext方法和next方法；
  */
 
-public class SequenceList<T> implements Iterable<Object> {
+public class SequenceList<E> implements Iterable<Object> {
     // 存储元素的数组
-    private T[] elements;
+    private E[] elements;
     // 记录当前顺序表中的元素个数
     private int N;
 
     // 构造方法初始化
     public SequenceList(int capacity) {
         // 初始化数组
-        this.elements = (T[]) new Object[capacity];
+        this.elements = (E[]) new Object[capacity];
         // 初始化长度
         this.N = 0;
     }
@@ -51,7 +51,7 @@ public class SequenceList<T> implements Iterable<Object> {
      * @param index
      * @return
      */
-    public T get(int index) {
+    public E get(int index) {
         return elements[index];
     }
 
@@ -59,9 +59,9 @@ public class SequenceList<T> implements Iterable<Object> {
      * 向线型表中添加元素t
      * @param t
      */
-    public void insert(T t) {
+    public void add(E t) {
         if (N == elements.length) {
-            resize(2 * elements.length);
+            resize(elements.length + (elements.length >> 1));
         }
         elements[N++] = t;
     }
@@ -71,9 +71,9 @@ public class SequenceList<T> implements Iterable<Object> {
      * @param index
      * @param t
      */
-    public void insert(int index, T t) {
+    public void add(int index, E t) {
         if (N == elements.length) {
-            resize(2 * elements.length);
+            resize(elements.length + (elements.length >> 1));
         }
         // 先把index索引处的元素及其后面的元素依次向后移动一位(倒序遍历)
         for (int i = N; i > index; i--) {
@@ -90,9 +90,9 @@ public class SequenceList<T> implements Iterable<Object> {
      * @param index
      * @return
      */
-    public T remove(int index) {
+    public E remove(int index) {
         // 记录索引处index的值
-        T current = elements[index];
+        E current = elements[index];
         // 索引index后面元素依次向前移动一位即可
         for (int i = index; i < N-1; i++) {
             elements[i] = elements[i+1];
@@ -101,7 +101,7 @@ public class SequenceList<T> implements Iterable<Object> {
         N--;
         //缩容
         if (elements.length < N / 4) {
-            resize(elements.length / 2);
+            resize(elements.length >> 2);
         }
         return current;
     }
@@ -111,7 +111,7 @@ public class SequenceList<T> implements Iterable<Object> {
      * @param t
      * @return
      */
-    public int indexOf(T t) {
+    public int indexOf(E t) {
         for (int i = 0; i < N; i++) {
             if (elements[i].equals(t)) {
                 return i;
@@ -125,10 +125,10 @@ public class SequenceList<T> implements Iterable<Object> {
      * @param newSize
      */
     public void resize(int newSize) {
-        // 定义一个临时数组，指向原数组
-        T[] temp = elements;
-        // 创建新数组
-        elements = (T[]) new Object[newSize];
+        // 定义一个临时数组，将原数组内容拷贝到临时数组
+        E[] temp = elements;
+        // 创建新扩容数组
+        elements = (E[]) new Object[newSize];
         // 把原数组的数据拷贝到新数组即可
         for (int i = 0; i < N; i++) {
             elements[i] = temp[i];
@@ -145,17 +145,17 @@ public class SequenceList<T> implements Iterable<Object> {
     }
 
     private class MIterator implements Iterator {
-        //私有指针指向当前语速
-        private int cursor;
+        //私有指针指向当前元素
+        private int current;
         
         @Override
         public boolean hasNext() {
-            return cursor < N;
+            return current < N;
         }
 
         @Override
         public Object next() {
-            return elements[cursor++];
+            return elements[current++];
         }
     }
 }

@@ -78,7 +78,7 @@ public class LinkList<T> implements Iterable<T> {
      * 往链表中添加一个元素(尾插)
      * @param t
      */
-    public void insert(T t) {
+    public void add(T t) {
         //找到当前最后一个结点
         Node node = head; //从头结点开始往后找
         //创建新结点，保存元素t
@@ -94,11 +94,11 @@ public class LinkList<T> implements Iterable<T> {
     }
 
     /**
-     * 在链表的第index个元素之前插入一个值为t的数据元素
+     * 在链表的第index个元素之前插入一个值为t的数据元素(尾插)
      * @param index
      * @param index
      */
-    public void insert(int index,T t) {
+    public void add(int index,T t) {
         //找到index位置前一个结点
         Node prev = head;
         for (int i = 0; i < index; i++) {
@@ -111,6 +111,20 @@ public class LinkList<T> implements Iterable<T> {
         //原来index位置的前一个节点指向新结点即可(即在index前一个位置和index之间插入了新节点)
         prev.next = newNode;
         //元素的个数+1
+        N++;
+    }
+
+    /**
+     * 链表头插法
+     * @param t
+     */
+    public void insert(T t) {
+        //1.构造新节点
+        Node node = new Node(t,null);
+        //2.新节点指向头结点之后的节点
+        node.next = head.next;
+        //3.头结点指向新节点
+        head.next = node;
         N++;
     }
 
@@ -168,7 +182,7 @@ public class LinkList<T> implements Iterable<T> {
      * @param curr 反转的指定节点
      * @return 反转后的节点
      */
-    public Node reverse(Node curr) {
+    private Node reverse(Node curr) {
         //出口为要反转的节点是链表的最后一个节点
         if (curr.next == null) {
             //首节点的下一个节点是最后一个节点
@@ -177,10 +191,11 @@ public class LinkList<T> implements Iterable<T> {
         }
         //如果此时curr不是最后一个节点
         //递归反转当前节点(curr)的下一个节点prev,反转之后prev成为curr的上一个节点
+        //返回值就是链表反转后，当前节点(curr)的上一个节点(prev)
         Node prev = reverse(curr.next);
-        //反转后让prev指向curr
+        //让返回节点的下一个节点变为当前节点，即让prev指向curr
         prev.next = curr;
-        //curr的下一个节点(就是反转之后的尾结点)变为null(尾结点数据域为空)
+        //断开当前节点curr对prev的指向(防止成环)
         curr.next = null;
         return curr;
     }
@@ -208,22 +223,4 @@ public class LinkList<T> implements Iterable<T> {
             }
         };
     }
-
-    /*private class LIterator implements Iterator {
-        private Node node;
-        private LIterator() {
-            this.node = head;
-        }
-
-        @Override
-        public boolean hasNext() {
-            return node.next != null;
-        }
-
-        @Override
-        public Object next() {
-            node = node.next;
-            return node.data;
-        }
-    }*/
 }

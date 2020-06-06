@@ -3,6 +3,8 @@ package iqqcode.algorithm.test;
 import iqqcode.algorithm.list.LinkList;
 import org.junit.Test;
 
+import java.util.HashMap;
+
 /**
  * @Author: Mr.Q
  * @Date: 2020-05-03 10:09
@@ -11,16 +13,17 @@ import org.junit.Test;
 public class LinkListTest {
     @Test
     public void testLinkList() {
-        //创建顺序表对象
         LinkList<String> sl = new LinkList<>();
 
         //测试插入
-        sl.insert("Java");
-        sl.insert("Python");
-        sl.insert("C++");
+        sl.add("Java");
+        sl.add("Python");
+        sl.add("C++");
         //指定位置插入
-        sl.insert(2,"PHP");
-        sl.insert(1,"GoLang");
+        sl.add(2,"PHP");
+        sl.add(1,"GoLang");
+        //测试头插
+        sl.insert("Rubby");
 
         for (Object o: sl) {
             System.out.println(o);
@@ -41,6 +44,5 @@ public class LinkListTest {
         //测试清空
         sl.clear();
         System.out.println("清空顺序表，此时元素个数为： " + sl.length());
-
     }
 }

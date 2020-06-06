@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:快慢指针寻找链表中间值,Description:快慢指针问题求解,Topic1:求链表中间值,Topic2:判断单链表是否有环,Date:,Author:,Description:有环链表入口问题,Description:单链表是否有环,Solution:,Description:约瑟夫环,Description:测试约瑟夫环" />
+      <option name="myAdditionalJavadocTags" value="date,Description:快慢指针寻找链表中间值,Description:快慢指针问题求解,Topic1:求链表中间值,Topic2:判断单链表是否有环,Date:,Author:,Description:有环链表入口问题,Description:单链表是否有环,Solution:,Description:约瑟夫环,Description:测试约瑟夫环,Description:leetcode160.,Description:leetcode.160-相交链表" />
     </inspection_tool>
   </profile>
 </component>
