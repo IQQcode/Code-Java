@@ -2,262 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1c34ce-4ac1-431f-8a8b-afc2cff8a9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../d-集合/0-ClassCollection/ClassCollection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/1-Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/src/com/iqqcode/collection/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/src/com/iqqcode/generic/Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/src/com/iqqcode/set/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/1-Collections/src/com/iqqcode/set/hashset/LinkedHashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/hashmap/HashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/hashmap/TopicProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/hashtable/HashtableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/src/com/iqqcode/traverse/MapTravel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/out/production/最长子串LeetCode3/com/argorithmic/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/out/production/最长子串LeetCode3/com/argorithmic/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/src/com/argorithmic/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/src/com/argorithmic/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT3-最长子串/最长子串LeetCode3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/724-寻找数组的中心索引.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/out/production/724-寻找数组的中心索引/iqqcode/leetcode/MySolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT724-寻找数组的中心索引/src/iqqcode/leetcode/MySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/out/production/回文串LeetCode9/META-INF/回文串LeetCode9.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/out/production/回文串LeetCode9/com/algorithm/HuiwenNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/out/production/回文串LeetCode9/com/algorithm/HuiwenString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/out/production/回文串LeetCode9/com/algorithm/LongestPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/src/com/algorithm/HuiwenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/src/com/algorithm/HuiwenString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/src/com/algorithm/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/LT9-回文串/回文串LeetCode9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/h-二分查找/h-二分查找.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/h-二分查找/src/iqqcode/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/h-二分查找/src/iqqcode/search/GreaterOrEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/h-二分查找/src/iqqcode/test/BinSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/2-BinaryTree(key-value).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/ClassCollection.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/DynamicArray/ArrayOfDynamicArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/DynamicArray/ListOfDynamicArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/DynamicArray/MyArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/DynamicArray/MyArrayOfList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/DynamicArray/MyArrayOfList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/Generic/MyCollectin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/Generic/TestGeneric.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/List/ListAddClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/List/ListMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/List/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/Map/HashMap/Test_HashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/Map/MapIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/Set/TreeSet/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/Set/TreeSet/PersonAgeAsc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/Set/TreeSet/TreeSetTestComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/iterator/TestIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/iterator/Test_Enumeration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/out/production/ClassCollection/com/iterator/Test_ListIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/DynamicArray/ArrayOfDynamicArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/DynamicArray/ListOfDynamicArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/Generic/TestGeneric.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/List/ListAddClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/List/ListMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/Map/HashMap/Test_HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/Map/MapIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/Set/TreeSet/TreeSetTestComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/iterator/TestIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/iterator/TestIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/iterator/Test_Enumeration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/ClassCollection/src/com/iterator/Test_ListIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/CollectionsFramework_List/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/CollectionsFramework_List/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../d-集合/CollectionsFramework_List/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/1.进程与线程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/MultiThread.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/DeadLock/DeadLockTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/DeadLock/DeadLockTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/DeadLock/DeadLockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Lock/LockInterrupt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Lock/LockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Lock/LockTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Lock/MyLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Lock/TestLockInterrupt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Lock/ThreadLockTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/AchieveThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/InterruptStop$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/InterruptStop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/MyRunnableJoin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/MyThreadStop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/Running.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/ThreadExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/ThreadMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/ThreadStop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/TicketsConcurrency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/MultiThread/Web123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ObjectWaitNotify/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ObjectWaitNotify/NotifyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ObjectWaitNotify/WaitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/Cargo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/Consumers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/Goods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/ProducerConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/ProducerConsumerLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ProducerConsumerModdle/Producers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/AchieveSynchronized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Mythread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/MythreadA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/MythreadB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/MythreadReception.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Sync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/SyncB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Synchronized_A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Synchronized_B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Synchronized_monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/Synchronized/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadLocal/ThreadLocalTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadLocal/ThreadLocalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/CallableThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/ExecutorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/FutureTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/FutureThreadPoolDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/StepOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/StepTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/TestThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/ThreadPool/ThreadPoolTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/CountDownLatchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/CountDownTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/CyclicActionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/CyclicBarrierActionTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/CyclicBarrierActionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/CyclicBarrierTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/CyclicTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/ExchangerTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/ExchangerTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/ExchangerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/SemaphoreDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/out/production/MultiThread/com/juc/SemaphoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/DeadLock/DeadLockTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Lock/LockInterrupt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Lock/LockTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Lock/LockTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/AchieveThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/InterruptStop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/ThreadExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/ThreadMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/ThreadStop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/MultiThread/TicketsConcurrency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ObjectWaitNotify/NotifyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ObjectWaitNotify/WaitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ProducerConsumerModdle/ProducerConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ProducerConsumerModdle/ProducerConsumerLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/AchieveSynchronized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/Synchronized_A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/Synchronized_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/Synchronized_monitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/Synchronized/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ThreadLocal/ThreadLocalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ThreadPool/ExecutorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ThreadPool/FutureTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/ThreadPool/FutureThreadPoolDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/juc/CountDownLatchTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/juc/CyclicBarrierActionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/juc/CyclicBarrierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/juc/ExchangerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultiThread/src/com/juc/SemaphoreTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/724-寻找数组的中心索引.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/out/production/724-寻找数组的中心索引/iqqcode/leetcode/MySolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/724-寻找数组的中心索引/src/iqqcode/leetcode/MySolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/out/production/回文串LeetCode9/META-INF/回文串LeetCode9.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/HuiwenNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/HuiwenString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/out/production/回文串LeetCode9/com/algorithm/LongestPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/src/com/algorithm/HuiwenNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/src/com/algorithm/HuiwenString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/src/com/algorithm/LongestPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/回文串LeetCode9/回文串LeetCode9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/out/production/最长子串LeetCode3/com/argorithmic/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/out/production/最长子串LeetCode3/com/argorithmic/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/src/com/argorithmic/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/src/com/argorithmic/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/LeetCode/最长子串LeetCode3/最长子串LeetCode3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/out/production/BubbleSort/META-INF/BubbleSort.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/out/production/BubbleSort/iqqcode/algorithm/sort/BasicBubbleMaethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/out/production/BubbleSort/iqqcode/algorithm/sort/BasicBubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/out/production/BubbleSort/iqqcode/algorithm/sort/CocktailSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/out/production/BubbleSort/iqqcode/algorithm/sort/OptimalBubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/out/production/BubbleSort/iqqcode/algorithm/sort/OptimalBubblePlus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/0-Sort/a-冒泡排序/out/production/BubbleSort/iqqcode/algorithm/test/BubbleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/1-BinaryTree(key-value).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../d-集合/2-Maps/2-Maps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/out/production/1-BinaryTree/iqqcode/algorithm/bintree/BinTreeLinklist$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/out/production/1-BinaryTree/iqqcode/algorithm/bintree/BinTreeLinklist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/out/production/1-BinaryTree/iqqcode/algorithm/test/BinTreeOrderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/out/production/1-BinaryTree/iqqcode/algorithm/test/BinTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/src/iqqcode/algorithm/bintree/BinTreeLinklist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/src/iqqcode/algorithm/bintree/BinTreeLinklist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/src/iqqcode/algorithm/test/BinTreeOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/src/iqqcode/algorithm/test/BinTreeOrderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/src/iqqcode/algorithm/test/BinTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/src/iqqcode/algorithm/test/BinTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-JUC/src/main/java/com/iqqcode/juc03/ReadWriteLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-JUC/src/main/java/com/iqqcode/juc04/ArrayBlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-JUC/src/main/java/com/iqqcode/juc04/SynchronousQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/约瑟夫环问题/约瑟夫环问题.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT19-删除链表的倒数第N个节点/LT19-删除链表的倒数第N个节点.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT19-删除链表的倒数第N个节点/src/iqqcode/RemoveNthFromEnd_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT19-删除链表的倒数第N个节点/src/iqqcode/RemoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/LT21-合并两个有序链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/src/iqqcode/MergTwoLists_Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/src/iqqcode/MergeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/src/iqqcode/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/src/nodes/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/链表OJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ThreadPool/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ThreadPool/ExecutorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/进程与线程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-JUC/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3-JUC/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-JUC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3-JUC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,7 +64,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2-ThreadPlus" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -420,6 +189,7 @@
       <workItem from="1572072225324" duration="124000" />
       <workItem from="1590393605162" duration="1124000" />
       <workItem from="1590396338505" duration="84000" />
+      <workItem from="1591611791954" duration="5234000" />
     </task>
     <servers />
   </component>
@@ -448,10 +218,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1590395838457" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1590396397551">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1591629344097">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590396397551" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591629344097" />
     <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1590396284976">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -468,6 +238,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590396284976" />
+    <state x="349" y="167" key="IDE.errors.dialog" timestamp="1591616655353">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1591616655353" />
     <state x="270" y="77" key="SettingsEditor" timestamp="1590393615129">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -476,6 +250,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1590396420819" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1591616880342">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591616880342" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1591616876666">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1591616876666" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

@@ -25,6 +25,7 @@ public class ExecutorTest {
         ExecutorService executor = new ThreadPoolExecutor(2,3,
                 60,TimeUnit.SECONDS,
                 new LinkedBlockingQueue<>());
+
         ThreadPoolTest threadPoolTest = new ThreadPoolTest();
 
         for(int i = 0; i < 5; i ++) {

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b39faf20-aeef-4da4-88a8-6da677c56bd9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/0-ClassCollection/ClassCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/1-Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/src/com/iqqcode/collection/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/src/com/iqqcode/generic/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/src/com/iqqcode/set/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/1-Collections/src/com/iqqcode/set/hashset/LinkedHashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/src/com/iqqcode/hashmap/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/src/com/iqqcode/hashmap/TopicProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/src/com/iqqcode/hashtable/HashtableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/src/com/iqqcode/traverse/MapTravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/1-Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/src/com/iqqcode/lambda/LThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/src/com/iqqcode/lambda/LambdaLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-Lambda/src/com/iqqcode/lambda/Simplify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../d-集合/ClassCollection/src/com/iterator/TestIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/0317下午笔记.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/0317早上笔记.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/Lambda.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/out/production/Lambda/bit/Study/ILambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/out/production/Lambda/bit/Study/ISubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/out/production/Lambda/bit/Study/Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/out/production/Lambda/bit/Study/Method_References.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/src/bit/Study/Lambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda/src/bit/Study/Method_References.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/1-线程的实现方式.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread01/BeginThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread01/TestBegin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread02/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread02/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread02/RunnableAchieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread02/ThreadAchieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread03/InnerClassAchieve$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread03/InnerClassAchieve$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread03/InnerClassAchieve$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/out/production/1-线程的实现方式/com/iqqcode/thread03/InnerClassAchieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/src/com/iqqcode/thread01/TestBegin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/src/com/iqqcode/thread02/RunnableAchieve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/src/com/iqqcode/thread02/ThreadAchieve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-多线程/1-线程的实现方式/src/com/iqqcode/thread03/InnerClassAchieve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../e-DataStructure/2-Tree/a-BinaryTree/2-BinaryTree(key-value)/1-BinaryTree(key-value).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../d-集合/2-Maps/2-Maps.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="20" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectId" id="1SvD2SMoVR7Wj9DTlmw3ZxNx2Ni" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../h-多线程/1-Thread" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Method_References">
+    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bit.Study.Lambda" />
+      <module name="0-Lambda_bit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bit.Study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method_References" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bit.Study.Method_References" />
+      <module name="0-Lambda_bit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bit.Study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lambda" />
+      <item itemvalue="Application.Method_References" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Method_References" />
+        <item itemvalue="Application.Lambda" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b39faf20-aeef-4da4-88a8-6da677c56bd9" name="Default" comment="" />
+      <created>1553004446302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553004446302</updated>
+      <workItem from="1553004450292" duration="907000" />
+      <workItem from="1553050390087" duration="7165000" />
+      <workItem from="1554460948688" duration="103000" />
+      <workItem from="1554477103166" duration="31000" />
+      <workItem from="1572434970541" duration="8000" />
+      <workItem from="1590568870898" duration="180000" />
+      <workItem from="1590572465880" duration="28000" />
+      <workItem from="1590572513798" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1590572621798">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590572621798" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1590569050094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590569050094" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1590569050094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590569050094" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1590569050094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590569050094" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1590569050094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590569050094" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1590572494025">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590572494025" />
+  </component>
+</project>

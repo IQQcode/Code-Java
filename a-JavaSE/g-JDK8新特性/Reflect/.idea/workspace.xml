@@ -2,14 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d6b445-8e1f-4180-a289-7df902a40250" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iqqcode/reflect01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iqqcode/reflect01/ReflectDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iqqcode/reflect01/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iqqcode/reflect01/ReflectDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iqqcode/reflect01/ReflectDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/SolutionVolatileAtomicity1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/SolutionVolatileAtomicity2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/Annotations/Sex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Annotation/src/com/TestAnnotation/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/META-INF/Reflect.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Reflect/META-INF/Reflect.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/com/LearingReflect/IMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/com/LearingReflect/INews.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/com/LearingReflect/MyClassImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/com/LearingReflect/Person1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/com/LearingReflect/Reflect1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/com/LearingReflect/Reflect2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Reflect/com/LearingReflect/ReflectClass3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ClassLoader/DemoClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ClassLoader/DemoClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LearingReflect/Reflect1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LearingReflect/Reflect2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LearingReflect/ReflectClass3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../h-多线程/0-MultiThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../h-多线程/0-MultiThread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../h-多线程/0-MultiThread/src/com/ThreadPool/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../h-多线程/0-MultiThread/src/com/ThreadPool/ExecutorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../h-多线程/3-JUC/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../h-多线程/3-JUC/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../h-多线程/3-JUC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../h-多线程/3-JUC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/VolatileAtomicityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/VolatileAtomicityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/VolatileSeriaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/VolatileSeriaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/VolatileVisibilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/JMMVerification/src/iqqcode/jmm/VolatileVisibilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/out/production/JMMVerification/iqqcode/jmm/VolatileAtomicityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/out/production/JMMVerification/iqqcode/jmm/VolatileAtomicityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/out/production/JMMVerification/iqqcode/jmm/VolatileSeriaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/out/production/JMMVerification/iqqcode/jmm/VolatileSeriaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/out/production/JMMVerification/iqqcode/jmm/VolatileVisibilityTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../j-JVM/0-JMM内存模型/out/production/JMMVerification/iqqcode/jmm/VolatileVisibilityTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/Singleton.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/out/production/Singleton/www/bit/java/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/out/production/Singleton/www/bit/java/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Singleton/out/production/Singleton/www/bit/java/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/单例模式/src/iqqcode/single/lazy/Enum08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../h-设计模式/单例模式/src/iqqcode/single/lazy/Enum07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/单例模式/src/iqqcode/single/lazy/ThreadSafeSingleton05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../h-设计模式/单例模式/src/iqqcode/single/lazy/DoubleCheckLeton05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/图形界面窗口/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/图形界面窗口/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/图形界面窗口/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/图形界面窗口/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/图形界面窗口/out/production/图形界面窗口/TestFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/图形界面窗口/src/TestFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/图形界面窗口/图形界面窗口.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,19 +65,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ClassLoader/DemoClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,81 +75,19 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/ReflectClass2.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/ReflectClass2.java" />
-        <option value="$PROJECT_DIR$/src/www/javaSE/Reflect.java" />
-        <option value="$PROJECT_DIR$/src/com/test/reflect/User.java" />
-        <option value="$PROJECT_DIR$/反射笔记温习.java" />
-        <option value="$PROJECT_DIR$/src/com/pattern/SimpleFactoryPattern.java" />
-        <option value="$PROJECT_DIR$/src/com/pattern/ReflectFactoryPattern.java" />
-        <option value="$PROJECT_DIR$/src/com/javaSE/Reflect.java" />
-        <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect.java" />
-        <option value="$PROJECT_DIR$/src/com/ReflectApply/Emp.java" />
-        <option value="$PROJECT_DIR$/src/com/LearingReflect/ReflectClass3.java" />
-        <option value="$PROJECT_DIR$/src/com/ReflectApply/EmpAction.java" />
-        <option value="$PROJECT_DIR$/src/com/ReflectApply/BeanUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/ReflectApply/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect1.java" />
-        <option value="$PROJECT_DIR$/src/com/LearingReflect/Reflect2.java" />
-        <option value="$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java" />
-        <option value="$PROJECT_DIR$/src/com/ClassLoader/DemoClassLoader.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="160" />
-    <option name="y" value="20" />
-    <option name="width" value="1750" />
-    <option name="height" value="1030" />
-  </component>
+  <component name="ProjectId" id="1dIXCXlK5B0U9dUmBJeDPcoou0v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reflect" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Annotation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../h-设计模式/单例模式" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -123,21 +96,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.DemoClassLoader">
+  <component name="RunManager" selected="Application.ReflectDemo4">
     <configuration name="DemoClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ClassLoader.DemoClassLoader" />
       <module name="Reflect" />
@@ -145,20 +106,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ClassLoader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.reflect.DemoReflect" />
-      <module name="Reflect" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,13 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reflect2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LearingReflect.Reflect2" />
+    <configuration name="ReflectDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.reflect01.ReflectDemo2" />
       <module name="Reflect" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LearingReflect.*" />
+          <option name="PATTERN" value="com.iqqcode.reflect01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,13 +141,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ReflectApply.Test" />
+    <configuration name="ReflectDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.reflect01.ReflectDemo3" />
       <module name="Reflect" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ReflectApply.*" />
+          <option name="PATTERN" value="com.iqqcode.reflect01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.reflect01.ReflectDemo4" />
+      <module name="Reflect" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.reflect01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,19 +192,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Reflect1" />
-      <item itemvalue="Application.Reflect2" />
-      <item itemvalue="Application.DemoReflect" />
       <item itemvalue="Application.DemoClassLoader" />
+      <item itemvalue="Application.ReflectDemo2" />
+      <item itemvalue="Application.ReflectDemo3" />
+      <item itemvalue="Application.ReflectDemo4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectDemo4" />
+        <item itemvalue="Application.ReflectDemo3" />
+        <item itemvalue="Application.ReflectDemo2" />
         <item itemvalue="Application.DemoClassLoader" />
-        <item itemvalue="Application.DemoReflect" />
-        <item itemvalue="Application.Reflect2" />
         <item itemvalue="Application.Reflect1" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -279,205 +240,55 @@
       <workItem from="1563411054769" duration="1206000" />
       <workItem from="1563591847367" duration="2879000" />
       <workItem from="1563685584721" duration="258000" />
+      <workItem from="1592113455769" duration="11393000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79273000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20182292" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32769832" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5104167" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32899868" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3294271" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Tail" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" sideWeight="0.49799198" weight="0.020174848" />
-      <window_info anchor="right" id="aiXcoder" order="10" sideWeight="0.502008" side_tool="true" weight="0.01953125" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18359375" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32769832" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3138021" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32899868" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3294271" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Tail" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" sideWeight="0.49799198" weight="0.020174848" />
-      <window_info anchor="right" id="aiXcoder" order="10" sideWeight="0.502008" side_tool="true" weight="0.020174848" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Packages/903DB504.QQ_a99ra4d2cbcxa/LocalState/User/2726109782/NetworkFile/0317下午笔记.java" />
-    <entry file="file://$PROJECT_DIR$/src/ReflectClass2.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/Emp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/Reflect1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/Reflect2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2358">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/test/reflect/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/LearingReflect/ReflectClass3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/EmpAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pattern/SimpleFactoryPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pattern/ReflectFactoryPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/test/reflect/DemoReflect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1129">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ReflectApply/BeanUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2607#2608#0" expanded="true" />
-            <element signature="e#2679#2680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reflect.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/反射笔记温习.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ClassLoader/DemoClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1592124790657">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1592124790657" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1592132263820">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592132263820" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1592132264880">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592132264880" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1592132264880">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592132264880" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1592132264880">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592132264880" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1592132264880">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592132264880" />
+    <state x="349" y="167" key="IDE.errors.dialog" timestamp="1592131840272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1592131840272" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1592113465306">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592113465306" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1592126502281">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1592126502281" />
   </component>
 </project>

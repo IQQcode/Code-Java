@@ -24,6 +24,7 @@ public class VolatileAtomicityTest {
             threads[i].start();
         }
 
+        //主线程阻塞，等待线程数组中的10个线程执行完再继续执行
         for (Thread thread : threads) {
             thread.join();
         }

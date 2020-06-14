@@ -96,7 +96,7 @@ public class LinkList<T> implements Iterable<T> {
     /**
      * 在链表的第index个元素之前插入一个值为t的数据元素(尾插)
      * @param index
-     * @param index
+     * @param t
      */
     public void add(int index,T t) {
         //找到index位置前一个结点

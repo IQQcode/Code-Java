@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:生产者消费者模型,Author:,Date:,Solution:,Description:虚假唤醒,Description:生产者消费者问题--虚假唤醒验证,Description:生产者消费者问题--虚假唤醒验证2,Description:虚假唤醒验证1,Description:八锁问题一--谁先执行,Description:解决ArrayList线程不安全" />
+      <option name="myAdditionalJavadocTags" value="date,Description:生产者消费者模型,Author:,Date:,Solution:,Description:虚假唤醒,Description:生产者消费者问题--虚假唤醒验证,Description:生产者消费者问题--虚假唤醒验证2,Description:虚假唤醒验证1,Description:八锁问题一--谁先执行,Description:解决ArrayList线程不安全,Description:读写锁,Description:阻塞队列--抛出异常,Description:同步队列" />
     </inspection_tool>
   </profile>
 </component>

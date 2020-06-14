@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="Description:JMM内存模型验证,Author:,Date:,Description:volatile不保证原子性测试,Description:JMM内存模型验证--volatile保证可见性测试,Description:volatile保证有序性测试" />
+      <option name="myAdditionalJavadocTags" value="Description:JMM内存模型验证,Author:,Date:,Description:volatile不保证原子性测试,Description:JMM内存模型验证--volatile保证可见性测试,Description:volatile保证有序性测试,Description:CAS解决volatile原子性问题,Description:同步加锁解决volatile原子性问题" />
     </inspection_tool>
   </profile>
 </component>
