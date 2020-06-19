@@ -7,16 +7,16 @@ package iqqcode.single.lazy;
  */
 enum Singleton {
     INSTANCE; //属性
-    public void print() {
-        System.out.println("枚举实现单例模式...");
+
+    public static Singleton getInstance() {
+        return Singleton.INSTANCE;
     }
 }
 
 public class Enum07 {
     public static void main(String[] args) {
-        Singleton single = Singleton.INSTANCE;
-        Singleton single1 = Singleton.INSTANCE;
+        Singleton single = Singleton.getInstance();
+        Singleton single1 = Singleton.getInstance();
         System.out.println(single == single1);
-        single.print();
     }
 }

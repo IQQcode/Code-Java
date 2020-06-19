@@ -21,7 +21,7 @@ class SafeSingleton {
     private SafeSingleton() { }
 
     //同步代码块上锁
-    public static SafeSingleton getSingleton() {
+    public static SafeSingleton getInstance() {
         if(single == null) {
             synchronized (SafeSingleton.class) {
                 //双重检查
@@ -34,14 +34,14 @@ class SafeSingleton {
     }
 
     public void print() {
-        System.out.println("synchronized修饰同步代码块,双重检测的懒汉式单例");
+        System.out.println("双重检测锁的DCL单例");
     }
 }
 
 public class DoubleCheckLeton05 {
     public static void main(String[] args) {
         //静态方法取得类中已经产生好的对象
-        SafeSingleton single = SafeSingleton.getSingleton();
+        SafeSingleton single = SafeSingleton.getInstance();
         single.print();
     }
 }

@@ -64,7 +64,7 @@ public class HeapSort {
             max = left;
         }
         //找到了左右子树中的最大值，与父亲节点交换
-        if (max != root) { //如果父节点均大于子树，则不用交换
+        if (max != root) { //如果父节点均大于子树，则不用交换;不执行此处的if条件
             swap(data, max, root);            //继续对其下面的子树构建
             heapify(data, len, max);
         }

@@ -90,7 +90,8 @@ public class DoublyLinkList<T> implements Iterable<T>{
     }
 
     /**
-     * 读取并返回链表中的第index个元素的值(注意初始节点不是头结点)
+     * 读取并返回链表中的第index个元素的值
+     * 注意初始节点不是头结点(下标从head.next开始，到index节点)
      * @param index
      * @return
      */
@@ -134,7 +135,7 @@ public class DoublyLinkList<T> implements Iterable<T>{
      * @param index
      */
     public void add(int index,T t) {
-        //找到index位置的前一个节点befo
+        //找到index位置的前一个节点befo(下标从head开始，到index的前一个节点)
         Node befo = head;
         for (int i = 0; i < index; i++) {
             befo = befo.next;

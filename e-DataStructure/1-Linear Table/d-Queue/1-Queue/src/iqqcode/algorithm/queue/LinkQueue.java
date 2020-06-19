@@ -17,8 +17,8 @@ public class LinkQueue<T> implements Iterable<T>{
 
     //存放数据的内部节点
     private class Node {
-        private T data;
-        private Node next;
+        T data;
+        Node next;
 
         public Node(T data, Node next) {
             this.data = data;

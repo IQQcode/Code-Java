@@ -139,18 +139,24 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
         } else {
             // 如果key等于于node节点的键，则删除节点node
 
-            //元素个数减一
+            /*找到[要删除节点node]右子树中最小的节点(或者node的左子树中最大的节点)*/
+
+            //元素个数减1
             N--;
 
-            //找到[要删除节点的]右子树中最小的节点(或者左子树中最大的节点)
+            /*要删除的节点node其中一个子树为空*/
+
+            //若要删除的节点的右子树为空，则直接返回其左子树
             if (node.right == null) {
-                //若要删除的节点的右子树为空，则直接返回其左子树
                 return node.left;
             }
 
+            //若要删除的节点的左子树为空，则直接返回其右子树
             if (node.left == null) {
                 return node.right;
             }
+
+            /*要删除的节点node左右子树均不为空*/
 
             //寻找右子树最小节点
             Node minNode = node.right;
@@ -195,6 +201,7 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
      */
     private Node getMin(Node node) {
         if (node.left != null) {
+            //递归查找
             return getMin(node.left);
         } else {
             return node;
@@ -220,7 +227,7 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
 
     /**
      * 获取整个树的最大深度
-     * @return
+     * @return maxDepth
      */
     public int maxDepth() {
         return maxDepth(root);
@@ -230,7 +237,6 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
         if (node == null) {
             return 0;
         }
-        int max = 0;
         // 左子树的最大深度
         int leftMax = 0;
         // 右子树的最大深度
@@ -254,14 +260,12 @@ public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
 
     /**
      * 前序遍历
-     * 【总体思想】：首先需要另外创建一个空的队列，在判断二叉树不为空树的情况下,先将二叉树的根节点入队，
+     * 【总体思想】：首先需要额外创建一个空的队列，在判断二叉树不为空树的情况下,先将二叉树的根节点入队，
      * 然后在根节点出队的时候将它的左右孩子放到队列中，下一次它的左右孩子又是它左右子树的根节点，
      * 依次放到队列中，然后出队，直到队列为空。
-     * <p>
      * 队列中存放的是key键，遍历是根据key获取到value
-     *
-     * @return
      */
+
     public Queue<Key> preOrder() {
         Queue<Key> keys = new LinkedList<>();
         preOrder(root, keys);

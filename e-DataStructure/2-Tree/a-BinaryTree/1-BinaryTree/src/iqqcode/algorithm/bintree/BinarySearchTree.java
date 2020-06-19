@@ -216,28 +216,37 @@ public class BinarySearchTree<E extends Comparable<E>> {
             //如果data小于node节点，则继续递归向下找node节点的左子树
             node.left = remove(node.left, data);
         }else {
-            //如果key等于于node节点的键，则删除节点node
+            // 如果key等于于node节点的键，则删除节点node
 
-            //元素个数减一
+            /*找到[要删除节点node]右子树中最小的节点(或者node的左子树中最大的节点)*/
+
+            //元素个数减1
             N--;
 
-            //找到[要删除节点的]右子树中最小的节点(或者左子树中最大的节点)
+            /*要删除的节点node其中一个子树为空*/
+
+
+            //若要删除的节点的右子树为空，则直接返回其左子树
             if (node.right == null) {
-                //若要删除的节点的右子树为空，则直接返回其左子树
                 return node.left;
             }
 
+            //若要删除的节点的左子树为空，则直接返回其右子树
             if (node.left == null) {
-                //若要删除的节点的左子树为空，则直接返回其右子树
                 return node.right;
             }
+
+            /*要删除的节点node左右子树均不为空*/
+
             //寻找右子树最小节点
             Node minNode = node.right;
             while (minNode.left != null) {
                 minNode = minNode.left;
             }
+
             //删除右子树中最小节点
             Node n = node.right;
+
             //最小节点断开连接
             while (n.left != null) {
                 //某个节点的下一个节点的下一个节点为空，则断开连接
@@ -248,6 +257,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
                     n = n.left;
                 }
             }
+
             //让minNode节点补到原来待删除的node节点处
             minNode.left = node.left;
             minNode.right = node.right;
