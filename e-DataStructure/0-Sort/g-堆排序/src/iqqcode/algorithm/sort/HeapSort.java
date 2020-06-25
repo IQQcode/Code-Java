@@ -42,12 +42,12 @@ public class HeapSort {
     }
 
     /**
-     * 确保当前父节点大于左右子节点
-     * @param data 待排序数组
+     * 调整堆: 确保当前父节点大于左右子节点
+     * @param arr 待排序数组
      * @param len 树的节点个数
      * @param root 当前子树的根节点
      */
-    public static void heapify(int[] data, int len, int root) {
+    public static void heapify(int[] arr, int len, int root) {
         //递归的出口，当前根节点位置超出了树的范围
         if(root >= len) {
             return;
@@ -56,17 +56,17 @@ public class HeapSort {
         int right = root * 2 + 2;
         int max = root; //子树节点最大值
         //当前父节点有右孩子，并且父节点小于右子树
-        if (right < len && data[max] < data[right]) {
+        if (right < len && arr[max] < arr[right]) {
             max = right;
         }
         //当前父节点有左孩子，并且父节点小于左子树
-        if (left < len && data[max] < data[left]) {
+        if (left < len && arr[max] < arr[left]) {
             max = left;
         }
         //找到了左右子树中的最大值，与父亲节点交换
         if (max != root) { //如果父节点均大于子树，则不用交换;不执行此处的if条件
-            swap(data, max, root);            //继续对其下面的子树构建
-            heapify(data, len, max);
+            swap(arr, max, root);            //继续对其下面的子树构建
+            heapify(arr, len, max);
         }
     }
 

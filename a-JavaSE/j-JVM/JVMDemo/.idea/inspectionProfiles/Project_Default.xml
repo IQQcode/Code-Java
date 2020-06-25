@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="Description:大顶堆构建,Date:,Author:,Description:PriorityQueue,Description:PriorityQueueAPI实现堆,Description:PriorityQueue-API实现堆,Description:堆排序" />
+      <option name="myAdditionalJavadocTags" value="Description:查看类加载器层级关系,Author:,Date:,Description:PC计数器测试,Description:局部变量表容量测试" />
     </inspection_tool>
   </profile>
 </component>

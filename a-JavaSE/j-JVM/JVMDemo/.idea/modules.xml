@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JVMDemo.iml" filepath="$PROJECT_DIR$/JVMDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section0-BitBasic/Section0-BitBasic.iml" filepath="$PROJECT_DIR$/Section0-BitBasic/Section0-BitBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1-ClassLoader/Section1-ClassLoader.iml" filepath="$PROJECT_DIR$/Section1-ClassLoader/Section1-ClassLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2-RuntimeDataArea/Section2-RuntimeDataArea.iml" filepath="$PROJECT_DIR$/Section2-RuntimeDataArea/Section2-RuntimeDataArea.iml" />
+    </modules>
+  </component>
+</project>

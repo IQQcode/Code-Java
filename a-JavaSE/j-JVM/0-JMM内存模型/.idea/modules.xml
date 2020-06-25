@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/0-JMM内存模型.iml" filepath="$PROJECT_DIR$/0-JMM内存模型.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JMMVerification/JMMVerification.iml" filepath="$PROJECT_DIR$/JMMVerification/JMMVerification.iml" />
-    </modules>
-  </component>
-</project>

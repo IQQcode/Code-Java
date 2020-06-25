@@ -6,4 +6,5 @@ package iqqcode.algorithm.list;
  * @Description:循环链表
  */
 public class CircularList {
+    //TODO 
 }
