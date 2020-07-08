@@ -15,7 +15,7 @@ public class ArrayStack<T> implements Iterable<Object> {
     //最大元素个数
     private int maxsize;
     //当前栈中元素个数
-    private  int N;
+    private int N;
 
     //初始化数组
     public ArrayStack(int maxsize) {
@@ -48,7 +48,7 @@ public class ArrayStack<T> implements Iterable<Object> {
         //栈已满，需要扩容
         if (N == maxsize) {
             int oldSize = maxsize;
-            int newSize = maxsize << 1;
+            int newSize = maxsize << 1; //两倍扩容
             if(newSize + 1 > Integer.MAX_VALUE) {
                 System.err.println("栈已达到最大扩容,无法继续扩容！！！");
                 return false;

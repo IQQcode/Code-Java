@@ -55,7 +55,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
         if (compare > 0) {
             //如果data大于node节点，则继续递归向下找node节点的右子树
             node.right = add(node.right, data);
-        }else if (compare < 0) {
+        }else {
             //如果data小于node节点，则继续递归向下找node节点的左子树
             node.left = add(node.left, data);
         }
@@ -177,7 +177,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
     }
 
     private Node removeMax(Node node) {
-        //如果当前节点的左子树为空
+        //如果当前节点的右子树为空
         if (node.right == null) {
             //将node节点的左子树与node节点的父节点连接，让node节点指向为空
             Node leftNode = node.left;
@@ -199,69 +199,53 @@ public class BinarySearchTree<E extends Comparable<E>> {
      * 删除指定树中key对应的value，并返回删除后的新树
      *
      * @param node 给定需要添加元素的树的节点
-     * @param data
+     * @param e
      * @return 删除后的新树
      */
-    public Node remove(Node node, E data) {
+    public Node remove(Node node, E e) {
         //当前以node为根节点的树为空
         if (node == null) {
             return null;
         }
         //当前以node为根节点的树不为空,比较node节点与data的大小
-        int compare = data.compareTo(node.data);
+        int compare = e.compareTo(node.data);
         if (compare > 0) {
-            //如果data大于node节点，则继续递归向下找node节点的右子树
-            node.right = remove(node.right, data);
-        }else if (compare < 0) {
-            //如果data小于node节点，则继续递归向下找node节点的左子树
-            node.left = remove(node.left, data);
-        }else {
-            // 如果key等于于node节点的键，则删除节点node
-
-            /*找到[要删除节点node]右子树中最小的节点(或者node的左子树中最大的节点)*/
-
-            //元素个数减1
-            N--;
-
-            /*要删除的节点node其中一个子树为空*/
-
-
-            //若要删除的节点的右子树为空，则直接返回其左子树
-            if (node.right == null) {
-                return node.left;
-            }
-
-            //若要删除的节点的左子树为空，则直接返回其右子树
-            if (node.left == null) {
-                return node.right;
-            }
-
-            /*要删除的节点node左右子树均不为空*/
+            //如果e大于node节点，则继续递归向下找node节点的右子树
+            node.right = remove(node.right, e);
+        } else if (compare < 0) {
+            //如果e小于node节点，则继续递归向下找node节点的左子树
+            node.left = remove(node.left, e);
+        } else {
+            if (node.left == null)   return node.right;
+            if (node.right == null)  return node.left;
 
             //寻找右子树最小节点
             Node minNode = node.right;
             while (minNode.left != null) {
                 minNode = minNode.left;
             }
-
-            //删除右子树中最小节点
-            Node n = node.right;
-
+            //将minNode的值赋给node
+            node.data = minNode.data;
+            //删除右子树中的最小的节点
             //最小节点断开连接
-            while (n.left != null) {
-                //某个节点的下一个节点的下一个节点为空，则断开连接
-                if (n.left.left == null) {
-                    node.left = null;
-                }else {
-                    //变换n节点
-                    n = n.left;
-                }
-            }
-
-            //让minNode节点补到原来待删除的node节点处
-            minNode.left = node.left;
-            minNode.right = node.right;
-            minNode = node;
+            //【此删除为值覆盖】让节点5的的data赋值给节点4的data, 断开节点5
+            /**
+             *      【4为待删除节点】
+             *                       9
+             *                    /     \
+             *                   4        10
+             *                /    \        \
+             *              2       7 (n)    12
+             *             /  \   /   \     /  \
+             *            1   3  6     8   11  null
+             *                  / \
+             *                 5  null
+             *               /
+             *              null
+             */
+            //待删除节点的右子树的最小节点断开连接
+            node.right = remove(node.right, minNode.data);
+            N--;
         }
         return node;
     }

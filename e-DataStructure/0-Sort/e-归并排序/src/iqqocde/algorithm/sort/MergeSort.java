@@ -22,7 +22,7 @@ public class MergeSort {
             //向右递归进行分解排序
             mergeSort(arr, mid+1, high);
             //将两组排好序的子序列进行归并再排序
-            merge(arr, low, high, mid, temp);
+            merge(arr, low, mid, high, temp);
         }
     }
 
@@ -35,7 +35,7 @@ public class MergeSort {
      * @param mid 中间索引
      * @param temp 做中转的辅助数组
      */
-    public static void merge(int[] arr, int low, int high, int mid, int[] temp) {
+    public static void merge(int[] arr, int low, int mid, int high, int[] temp) {
         //左边有序序列的初始索引
         int p1 = low;
         //右边有序序列的初始索引(为中间位置的后一个位置)

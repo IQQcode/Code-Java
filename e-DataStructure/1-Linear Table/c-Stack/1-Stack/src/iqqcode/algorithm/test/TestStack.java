@@ -4,6 +4,10 @@ import iqqcode.algorithm.stack.ArrayStack;
 import iqqcode.algorithm.stack.LinkStack;
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
+
 /**
  * @Author: Mr.Q
  * @Date: 2020-05-09 14:40

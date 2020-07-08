@@ -5,46 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="853eb172-1364-457f-99af-df1195c83c85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/loaal/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/lock/lock2/FairUnfairLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/src/iqqcode/single/reflect/ReflectDCL01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/src/iqqcode/single/reflect/ReflectDCL02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/src/iqqcode/single/reflect/SafeSingleton02Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/out/production/2-ThreadPlus/com/iqqcode/lock/LockSync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/out/production/2-ThreadPlus/com/iqqcode/lock/Sync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/out/production/2-ThreadPlus/com/iqqcode/pool/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/lock/LockSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/lock/demo/LockSync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/pool/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc01/FakeAwake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/lock/lock1/FakeAwake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc01/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/lock/lock3/ProducerConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc01/TestPc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/2-ThreadPlus/src/com/iqqcode/lock/lock1/TestPc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc02/Sync01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc03/ReadWriteLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc1/ReadWriteLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc03/SafeArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc1/SafeArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc04/ArrayBlockingQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc2/ArrayBlockingQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc04/SynchronousQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/src/main/java/com/iqqcode/juc2/SynchronousQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc01/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc01/FakeAwake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc01/ProducerConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc01/ResData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc01/Resource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc01/TestPc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc02/Lock1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc02/Sync01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc03/MyCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc03/ReadWriteLockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc03/SafeArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc04/ArrayBlockingQueueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/h-多线程/3-JUC/target/classes/com/iqqcode/juc04/SynchronousQueueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/out/production/单例模式/iqqcode/single/lazy/LazySingleton03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/out/production/单例模式/iqqcode/single/lazy/LazySingleton03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/out/production/单例模式/iqqcode/single/lazy/Singleton03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/out/production/单例模式/iqqcode/single/lazy/Singleton03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/out/production/单例模式/iqqcode/single/lazy/Singleton04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/out/production/单例模式/iqqcode/single/lazy/Singleton04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/src/iqqcode/single/lazy/DoubleCheckLeton05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/src/iqqcode/single/lazy/DoubleCheckLeton05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/src/iqqcode/single/lazy/Enum07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../h-设计模式/单例模式/src/iqqcode/single/lazy/Enum07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JMM内存模型/JMMVerification/JMMVerification.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/2-RuntimeDataArea/2-RuntimeDataArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/2-RuntimeDataArea/src/heap/HeapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/2-RuntimeDataArea/src/heap/HeapInstanceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/2-RuntimeDataArea/src/method/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/2-RuntimeDataArea/src/pcregister/problemsAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/3-ExecutionEngine/3-ExecutionEngine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/SpringDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/artifacts/spring01_springstart_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/spring01_springstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/src/main/java/com/iqqcode/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/src/main/java/com/iqqcode/demo/UserDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../c-Java EE/1-Spring/SpringDemo/spring01_springstart/src/test/java/com/iqqcode/test/SpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section0-BitBasic/Section0-BitBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JMM内存模型/0-JMM内存模型.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section0-BitBasic/src/iqqcode/jvm/GCRoots/FinalizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/0-BitBasic/src/iqqcode/jvm/GCRoots/FinalizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section0-BitBasic/src/iqqcode/jvm/HeapOverflow/OOMError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/0-BitBasic/src/iqqcode/jvm/HeapOverflow/OOMError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section0-BitBasic/src/iqqcode/jvm/MemoryOverflow/StackLeakByThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/0-BitBasic/src/iqqcode/jvm/MemoryOverflow/StackLeakByThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section0-BitBasic/src/iqqcode/jvm/StackOverflow/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/0-BitBasic/src/iqqcode/jvm/StackOverflow/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section0-BitBasic/src/iqqcode/jvm/StackOverflow/StackOverFlowError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/0-BitBasic/src/iqqcode/jvm/StackOverflow/StackOverFlowError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section1-ClassLoader/Section1-ClassLoader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/0-BitBasic/0-BitBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section1-ClassLoader/src/iqqocde/loader/ClassLoaderView01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/1-ClassLoader/src/iqqocde/loader/ClassLoaderView01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section2-RuntimeDataArea/Section2-RuntimeDataArea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/1-ClassLoader/1-ClassLoader.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section2-RuntimeDataArea/src/iqqcode/jvmstack/LocalVariablesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/2-RuntimeDataArea/src/jvmstack/LocalVariablesTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/Section2-RuntimeDataArea/src/iqqcode/pcregister/PCRegisterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/2-RuntimeDataArea/src/pcregister/PCRegisterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/out/production/Section2-RuntimeDataArea/iqqcode/jvmstack/LocalVariablesTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../a-JavaSE/j-JVM/JVMDemo/out/production/Section2-RuntimeDataArea/iqqcode/pcregister/PCRegisterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../b-JavaWeb/JDBC/JDBCOperating/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../b-JavaWeb/JDBC/JDBCOperating/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../b-JavaWeb/JDBC/JDBCOperating/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../b-JavaWeb/JDBC/JDBCOperating/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +107,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2-BinaryTree(key-value)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1-BinaryTree" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -185,6 +201,7 @@
       <workItem from="1586532617317" duration="39000" />
       <workItem from="1592453911068" duration="34000" />
       <workItem from="1592468734036" duration="164000" />
+      <workItem from="1594091774692" duration="20000" />
     </task>
     <servers />
   </component>
@@ -204,10 +221,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1592468896577">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1594091793322">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592468896577" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594091793322" />
   </component>
   <component name="masterDetails">
     <states>

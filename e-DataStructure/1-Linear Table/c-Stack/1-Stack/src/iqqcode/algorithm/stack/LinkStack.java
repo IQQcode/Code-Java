@@ -11,7 +11,7 @@ public class LinkStack<T> implements Iterable<T> {
 
     //记录头结点
     private Node head;
-    //占中元素个数
+    //栈中元素个数
     private int N;
 
     private class Node {
@@ -45,7 +45,7 @@ public class LinkStack<T> implements Iterable<T> {
     }
 
     /**
-     * 压栈
+     * 压栈: 头插法
      * @param data
      */
     public void push(T data) {

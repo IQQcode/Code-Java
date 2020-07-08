@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="Description:查看类加载器层级关系,Author:,Date:,Description:PC计数器测试,Description:局部变量表容量测试" />
+      <option name="myAdditionalJavadocTags" value="Description:查看类加载器层级关系,Author:,Date:,Description:PC计数器测试,Description:局部变量表容量测试,Description:i++和++i指令验证,Description:堆空间分析工具测试,Description:堆空间分析工具-Java,Description:堆空间分析工具Java-VisualVM测试,Description:对象内存分配测试" />
     </inspection_tool>
   </profile>
 </component>

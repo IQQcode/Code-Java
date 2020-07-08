@@ -43,6 +43,6 @@ public class LinkListTest {
 
         //测试清空
         sl.clear();
-        System.out.println("清空顺序表，此时元素个数为： " + sl.length());
+        System.out.println("清空链表，此时元素个数为： " + sl.length());
     }
 }

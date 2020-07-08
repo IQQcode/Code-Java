@@ -82,7 +82,5 @@ public class BSTOrderTest {
         System.out.println("[层序遍历]");
         tree.levelOrder();
 
-        //遍历
-
     }
 }
