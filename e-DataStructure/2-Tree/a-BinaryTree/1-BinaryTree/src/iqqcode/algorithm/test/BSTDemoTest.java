@@ -1,15 +1,15 @@
 package iqqcode.algorithm.test;
 
-import iqqcode.algorithm.bintree.BSTree;
+import iqqcode.algorithm.bintree.BinarySearchTreeDemo;
 import org.junit.Test ;
 
 
-public class BSTreeTest {
+public class BSTDemoTest {
     static int[] nums = {9,4,10,2,7,12,1,3,6,8,11,5};
-    static BSTree<Integer> bsTree;
+    static BinarySearchTreeDemo<Integer> bsTree;
 
     static {
-        bsTree = new BSTree<>();
+        bsTree = new BinarySearchTreeDemo<>();
         for (int i = 0; i < nums.length; i++) {
             bsTree.add(nums[i]);
         }

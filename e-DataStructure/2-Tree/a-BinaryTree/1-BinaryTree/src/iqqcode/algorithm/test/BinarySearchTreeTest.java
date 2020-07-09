@@ -13,26 +13,37 @@ public class BinarySearchTreeTest {
     public  void testBinTreeLink() {
         BinarySearchTree<Integer> tree = new BinarySearchTree<>();
 
-        //构建二分搜索树
-        tree.add(9);
-        tree.add(4);
-        tree.add(10);
-        tree.add(2);
-        tree.add(7);
-        tree.add(12);
-        tree.add(1);
-        tree.add(3);
-        tree.add(6);
-        tree.add(8);
-        tree.add(11);
-        tree.add(5);
+        //构建二分搜索树, 往树中添加数据
+        int[] arr = {9, 4, 10, 2, 7, 12, 1, 3, 6, 8, 11, 5};
+        for (int i = 0; i < arr.length; i++) {
+            //构建二分搜索树
+            tree.add(arr[i]);
+        }
+
+        /**
+         *                              9
+         *                           /     \
+         *                          4        10
+         *                       /    \        \
+         *                     2       7 (n)    12
+         *                    /  \   /   \     /  \
+         *                   1   3  6     8   11  null
+         *                         / \
+         *                        5  null
+         *                      /
+         *                     null
+         */
+
         System.out.println("二叉树中元素个数为： " + tree.size());
 
         System.out.println("是否包含元素4?  ---" + tree.contains(4));
 
         System.out.println("二叉树中[最小的元素]为：" + tree.getMin());
         System.out.println("二叉树中[最大的元素]为：" + tree.getMax());
+
+
         System.out.println("二叉树的最大深度为：" + tree.maxDepth());
+        System.out.println("二叉树的最大深度为(loop)：" + tree.maxDepth_loop());
 
         //删除节点
         tree.remove(9);

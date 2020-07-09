@@ -8,6 +8,7 @@ import java.util.Queue;
  * @Date: 2020-05-16 09:23
  * @Description:二叉查找树---链表实现
  * @Solution:继承Comparable接口，对Key进行比较排序
+ * 参考链接: https://blog.csdn.net/u010853261/article/details/54174609
  */
 public class BinTreeLinklist<Key extends Comparable<Key>,Value> {
     //记录根节点

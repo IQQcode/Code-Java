@@ -10,14 +10,14 @@ import java.util.Stack ;
  * @author 七夜雪
  *
  */
-public class BSTree<E extends Comparable<E>> {
+public class BinarySearchTreeDemo<E extends Comparable<E>> {
 
     // 根节点
     private Node root ;
     // 树容量
     private int size ;
 
-    public BSTree() {
+    public BinarySearchTreeDemo() {
         this.root = null ;
         this.size = 0 ;
     }
@@ -58,7 +58,6 @@ public class BSTree<E extends Comparable<E>> {
         } else if (node.e.compareTo(e) < 0) {
             node.right = add(node.right, e) ;
         }
-
         return node ;
     }
 
@@ -216,26 +215,7 @@ public class BSTree<E extends Comparable<E>> {
     public void levelOrder(){
         // LinkedList实现了Queue接口
         Queue<Node> queue = new LinkedList<>();
-        /*
-         * 遍历过程:
-         * 1. 首先根节点入队
-         * 2. 每次出队时, 都将当前节点的左右孩子先后入队
-         * 3. 如果队列为空的话, 则表示层序遍历结束
-         *      5
-         *    /   \
-         *   3    6
-         *  / \    \
-         * 2  4     8
-         * 针对上面的二分搜索树, 详细描述一下层序遍历步骤
-         * 1. 5入队, 队列元素 : head->[5]<-tail
-         * 2. 5出队, 5的左子树3, 6入队, 由于队列是先入先出(FIFO), 所以先左后右, 队列元素 : head->[3, 6]<-tail
-         * 3. 3出队, 2, 4入队, 队列元素  : head->[6, 2, 4]<-tail
-         * 4. 6出队, 左孩子为空,所以8入队, 队列元素  : head->[2, 4, 8]<-tail
-         * 5. 2,4,8依次出队, 由于这三个节点都是叶子节点, 无子节点, 所以这三个节点出队后队列为空, 层序遍历完成
-         * 6. 按照出队的顺序演示的遍历结果为 : 5 3 6 2 4 8
-         */
         queue.add(root);
-
         while(!queue.isEmpty()){
             Node cur = queue.poll();
             if (cur.left != null) {
