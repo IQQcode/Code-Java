@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/0-BitBasic/0-BitBasic.iml" filepath="$PROJECT_DIR$/0-BitBasic/0-BitBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-ClassLoader/1-ClassLoader.iml" filepath="$PROJECT_DIR$/1-ClassLoader/1-ClassLoader.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-RuntimeDataArea/2-RuntimeDataArea.iml" filepath="$PROJECT_DIR$/2-RuntimeDataArea/2-RuntimeDataArea.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3-ExecutionEngine/3-ExecutionEngine.iml" filepath="$PROJECT_DIR$/3-ExecutionEngine/3-ExecutionEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-StringTable/3-StringTable.iml" filepath="$PROJECT_DIR$/3-StringTable/3-StringTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-ExecutionEngine/4-ExecutionEngine.iml" filepath="$PROJECT_DIR$/4-ExecutionEngine/4-ExecutionEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/JVMDemo.iml" filepath="$PROJECT_DIR$/JVMDemo.iml" />
     </modules>
   </component>

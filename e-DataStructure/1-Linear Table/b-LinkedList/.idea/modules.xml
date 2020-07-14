@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0-LinearList/0-LinearList.iml" filepath="$PROJECT_DIR$/0-LinearList/0-LinearList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-LinkListTopic/1-LinkListTopic.iml" filepath="$PROJECT_DIR$/1-LinkListTopic/1-LinkListTopic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/b-LinkedList.iml" filepath="$PROJECT_DIR$/.idea/b-LinkedList.iml" />
+    </modules>
+  </component>
+</project>
