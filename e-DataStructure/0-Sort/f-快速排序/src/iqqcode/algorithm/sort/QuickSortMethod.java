@@ -19,11 +19,11 @@ public class QuickSortMethod {
         }
         //需要对数组中lo索引到hi索引处的元素进行分组（左子组和右子组）
         //返回的是分组的分界值所在的索引，分界值位置变换后的索引
-        int partition = partition(arr, low, high);
+        int pivot = partition(arr, low, high);
         //递归调用让左子组有序
-        quickSortMethod(arr, low,partition-1);
+        quickSortMethod(arr, low,pivot - 1);
         //让右子组有序
-        quickSortMethod(arr, partition+1, high);
+        quickSortMethod(arr, pivot + 1, high);
     }
 
     //对数组a中，从索引 lo到索引 hi之间的元素进行分组，并返回分组界限对应的索引

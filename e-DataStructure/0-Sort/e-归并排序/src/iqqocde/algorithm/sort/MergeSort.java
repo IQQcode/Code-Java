@@ -55,13 +55,13 @@ public class MergeSort {
             }
         }
         //如有左右有一方没有走完(子序列没有全部放到temp)，那么顺序移动相应指针，将剩余元素放入temp
-         while (p1 <= mid) {
-             temp[index++] = arr[p1++];
-         }
+        while (p1 <= mid) {
+            temp[index++] = arr[p1++];
+        }
 
-         while (p2 <= high) {
-             temp[index++] = arr[p2++];
-         }
+        while (p2 <= high) {
+            temp[index++] = arr[p2++];
+        }
 
         //将辅助数组中的有序序列放回到源数组
         for (int i = low; i <= high; i++){

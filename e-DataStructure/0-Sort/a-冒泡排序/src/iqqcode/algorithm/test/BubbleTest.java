@@ -1,16 +1,15 @@
 package iqqcode.algorithm.test;
 
 
-import iqqcode.algorithm.sort.BasicBubbleMaethod;
 import org.junit.Test;
 
 import java.util.Arrays;
 
-import static iqqcode.algorithm.sort.BasicBubbleSort.bubbleSort_toLarge;
-import static iqqcode.algorithm.sort.BasicBubbleSort.bubbleSort_toSmall;
+import static iqqcode.algorithm.sort.BasicBubble.bubbleSort_toLarge;
+import static iqqcode.algorithm.sort.BasicBubble.bubbleSort_toSmall;
+import static iqqcode.algorithm.sort.Bubble_Border.bubble_Border;
+import static iqqcode.algorithm.sort.Bubble_Flag.bubble_Flag;
 import static iqqcode.algorithm.sort.CocktailSort.cocktailSort;
-import static iqqcode.algorithm.sort.OptimalBubble.optimalBubble;
-import static iqqcode.algorithm.sort.OptimalBubblePlus.optimalBubblePlus;
 
 /**
  * @Author: Mr.Q
@@ -26,30 +25,16 @@ public class BubbleTest {
     }
 
     @Test
-    public void test_toSmall() {
+    public void testBubble_Border() {
         int[] array = new int [] {5, 8, 6, 3, 9, 2, 1, 7};
-        bubbleSort_toSmall(array);
-        System.out.println("Large toSmall BubbleSort is : " + Arrays.toString(array));
-    }
-
-    @Test
-    public void testMethod() {
-        Integer[] arr = {4, 5, 6, 3, 2, 1};
-        BasicBubbleMaethod.bubbleSort_CompareTo(arr);
-        System.out.println(Arrays.toString(arr));
-    }
-
-    @Test
-    public void testOptimalBubble() {
-        int[] array = new int [] {5, 8, 6, 3, 9, 2, 1, 7};
-        optimalBubble(array);
+        bubble_Border(array);
         System.out.println(Arrays.toString(array));
     }
 
     @Test
-    public void testOptimalBubblePlus() {
+    public void testBubble_Flag() {
         int[] array = new int [] { 3, 4, 2, 1, 5, 6, 7, 8 };
-        optimalBubblePlus(array);
+        bubble_Flag(array);
         System.out.println(Arrays.toString(array));
     }
 
