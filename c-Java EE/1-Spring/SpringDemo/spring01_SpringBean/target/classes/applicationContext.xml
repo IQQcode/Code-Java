@@ -5,21 +5,65 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!--无参构造实例化Bean对象-->
-    <bean id="userDao" class="com.iqqcode.dao.impl.UserDaoImpl"/>
+    <bean id="userDao" class="com.iqqcode.dao.impl.UserDaoImpl">
+        <!--注入基本类型-->
+        <property name="name" value="iqqcode"/>
+        <property name="age" value="21"/>
 
-    <bean id="userService" class="com.iqqcode.service.impl.UserServiceImpl"/>
+        <!--注入集合-->
+        <!--数组-->
+        <property name="arr">
+            <array>
+                <value>111</value>
+                <value>222</value>
+            </array>
+        </property>
+        <!--List-->
+        <property name="list">
+            <list>
+                <value>01010101</value>
+                <value>10101010</value>
+            </list>
+        </property>
+        <!--Map-->
+        <property name="map">
+            <map>
+                <entry key="u1" value-ref="user1"/>
+                <entry key="u2" value-ref="user2"/>
+            </map>
+        </property>
+        <!--Properties-->
+        <property name="propt">
+            <props>
+                <prop key="config">iqqcode</prop>
+                <prop key="settings">Mr.Q</prop>
+            </props>
+        </property>
+    </bean>
 
+    <bean id="user1" class="com.iqqcode.domain.User">
+        <property name="username" value="Tom"/>
+        <property name="password" value="2020"/>
+    </bean>
+    <bean id="user2" class="com.iqqcode.domain.User">
+        <property name="username" value="Jack"/>
+        <property name="password" value="2021"/>
+    </bean>
 
+    <!--1.构造方法注入-->
+    <bean id="userService" class="com.iqqcode.service.impl.UserServiceImpl">
+        <constructor-arg name="userDao" ref="userDao"/>
+    </bean>
 
-    <!--工厂静态方法创建Bean对象-->
-    <!--<bean id="static_factory" class="com.iqqcode.factory.StaticFactory" factory-method="getStaticFactory"/>-->
+    <!--2.Setter注入，将userDao注入到userService中-->
+    <!--<bean id="userService" class="com.iqqcode.service.impl.UserServiceImpl">
+        <property name="userDao" ref="userDao"/>
+    </bean>-->
 
+    <!--p命名空间-->
+    <!--<bean id="userService" class="com.iqqcode.service.impl.UserServiceImpl" p:userDao-ref="userDao"/>-->
 
-
-    <!--工厂实例方法创建Bean对象-->
-    <!--1.先创建工厂对象-->
-    <!--<bean id="factory" class="com.iqqcode.factory.InstanceFactory"/>-->
-    <!--2.从工厂中获取创建的对象-->
-    <!--<bean id="instance_factory" factory-bean="factory" factory-method="getInstanceFactory"/>-->
+    <!--引入其他配置文件-->
+    <import resource="applicationContext-user.xml"/>
 
 </beans>

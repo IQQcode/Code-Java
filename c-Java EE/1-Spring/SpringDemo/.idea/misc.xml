@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring01_SpringBean/pom.xml" />
+        <option value="$PROJECT_DIR$/spring02_SpringAnnotation/pom.xml" />
       </list>
     </option>
   </component>
