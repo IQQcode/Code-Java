@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:用户持久层接口,Date:,Author:,Description:工厂静态方法实例化Bean,Description:工厂实例方法实例化Bean,Description:,Description:单元测试类" />
+      <option name="myAdditionalJavadocTags" value="date" />
     </inspection_tool>
   </profile>
 </component>

@@ -1,70 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82cae1b9-2736-4fde-b7bf-06c5ee11dc45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../a-JavaSE/j-JVM/JVMDemo/4-ExecutionEngine/src/iqqocde/gc/SystemCGTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/factory/InstanceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/factory/StaticFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/web/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SpringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/j-JVM/JVMDemo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/j-JVM/JVMDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SpringDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring01_springstart_Web_exploded.xml" beforeDir="false" />
+    <list default="true" id="b9c2f7f8-7d48-47dd-9fc5-2c3d6ca8cc5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01_SpringBean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/SpringDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/com/iqqcode/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/com/iqqcode/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/com/iqqcode/factory/InstanceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/com/iqqcode/factory/StaticFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/com/iqqcode/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/com/iqqcode/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/classes/com/iqqcode/web/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringDemo/target/test-classes/SpringTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/spring01_springstart.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/src/main/java/com/iqqcode/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/src/main/java/com/iqqcode/demo/UserDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_springstart/src/test/java/com/iqqcode/test/SpringTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/1-BinaryTree/src/iqqcode/algorithm/bintree/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_SpringBeans/spring01_SpringBeans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringDemo/spring01_SpringBeans/spring01_SpringBeans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/demo/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/demo/UserDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/factory/InstanceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/factory/StaticFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/classes/com/iqqcode/web/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_springstart/target/test-classes/com/iqqcode/test/SpringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/factory/InstanceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/factory/InstanceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/factory/StaticFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/factory/StaticFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iqqcode/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/web/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/test/java/SpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/factory/InstanceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/factory/StaticFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/iqqcode/web/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SpringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/spring01_SpringBean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/java/com/iqqcode/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/java/com/iqqcode/factory/InstanceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/java/com/iqqcode/factory/StaticFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/java/com/iqqcode/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/java/com/iqqcode/web/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/src/test/java/com/iqqcode/test/SpringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/target/classes/com/iqqcode/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/target/classes/com/iqqcode/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/target/classes/com/iqqcode/demo/UserDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/target/classes/com/iqqcode/factory/InstanceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/target/classes/com/iqqcode/factory/StaticFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring01_SpringBean/target/test-classes/com/iqqcode/test/SpringTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -73,11 +97,12 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="C:\Users\j2726\.m2\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1fHGaglMu4qS024vWf1XWI8KZka" />
+  <component name="ProjectId" id="1fIOOtJHxlXc9DpSkIzKgpOMe8S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -92,17 +117,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring01_SpringBeans/webapp/WEB-INF" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20344828" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\src\main\resources" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.SpringTest.test1">
+  <component name="RunManager">
     <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.iqqcode.web.UserController" />
-      <module name="SpringDemo" />
+      <module name="spring01_SpringBean" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iqqcode.web.*" />
@@ -113,19 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringDemo" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SpringTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringTest.test1" />
         <item itemvalue="Application.UserController" />
       </list>
     </recent_temporary>
@@ -135,13 +147,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="82cae1b9-2736-4fde-b7bf-06c5ee11dc45" name="Default Changelist" comment="" />
-      <created>1595867669232</created>
+      <changelist id="b9c2f7f8-7d48-47dd-9fc5-2c3d6ca8cc5c" name="Default Changelist" comment="" />
+      <created>1595902111247</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1595867669232</updated>
-      <workItem from="1595867674287" duration="882000" />
-      <workItem from="1595868568814" duration="218000" />
+      <updated>1595902111247</updated>
+      <workItem from="1595902115551" duration="71000" />
+      <workItem from="1595902210694" duration="1195000" />
+      <workItem from="1595903448190" duration="620000" />
     </task>
     <servers />
   </component>
@@ -152,29 +165,41 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1595868005023">
+    <state x="441" y="339" width="724" height="185" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1595903242934">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1595868005023" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1595868786487">
+    <state x="441" y="339" width="724" height="185" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.864@0.0.1536.864" timestamp="1595903242934" />
+    <state x="557" y="339" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1595903288610">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595868786487" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1595868786487">
+    <state x="557" y="339" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.864@0.0.1536.864" timestamp="1595903288610" />
+    <state x="411" y="174" key="FileChooserDialogImpl" timestamp="1595902939400">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595868786487" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1595868786487">
+    <state x="411" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595902939400" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1595903704233">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595868786487" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1595868786487">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595903704233" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1595903704233">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595868786487" />
-    <state x="445" y="115" key="spring file set editor" timestamp="1595868141398">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595903704233" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1595903704232">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="445" y="115" key="spring file set editor/0.0.1536.864@0.0.1536.864" timestamp="1595868141398" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595903704232" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1595903704233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595903704233" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1595903306812">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595903306812" />
+    <state x="178" y="93" key="new project wizard" timestamp="1595903681303">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="93" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1595903681303" />
   </component>
 </project>
