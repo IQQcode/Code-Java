@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvc01_mvc:war exploded">
+    <output-path>$PROJECT_DIR$/springmvc01_mvc/target/springmvc01_mvc</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>springmvc01_mvc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springmvc01_mvc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.12" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.21" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:5.2.3.RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/springmvc01_mvc/target/springmvc01_mvc/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="springmvc01_mvc/web/Web" />
+    </root>
+  </artifact>
+</component>

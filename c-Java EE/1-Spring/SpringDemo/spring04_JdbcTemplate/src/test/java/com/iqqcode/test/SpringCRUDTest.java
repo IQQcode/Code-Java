@@ -33,7 +33,7 @@ public class SpringCRUDTest {
 
     @Test
     public void test_update() {
-        int update = jdbcTemplate.update("update account set money=? where name=?", 100000, "Tom");
+        int update = jdbcTemplate.update("update account set money=? where name=?", 5000, "Lisa");
         System.out.println(update);
     }
 
