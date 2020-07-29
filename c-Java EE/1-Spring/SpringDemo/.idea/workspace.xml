@@ -2,42 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9c2f7f8-7d48-47dd-9fc5-2c3d6ca8cc5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/resources/applicationContext-user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/config/DataSourceConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/config/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/test/DataSourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/test/SpringJunitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/resources/applicationContext-user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itheima_spring_aop/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/anno/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/anno/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/anno/TargetInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/aop/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/aop/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/aop/TargetInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/proxy/cglib/Advice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/proxy/cglib/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/proxy/cglib/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/proxy/jdk/Advice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/proxy/jdk/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/proxy/jdk/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/java/com/iqqcode/proxy/jdk/TargetInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/resources/applicationContext-anno.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/test/java/com/iqqcode/test/Anno_AOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/src/test/java/com/iqqcode/test/AopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/target/classes/applicationContext-anno.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/target/classes/com/iqqcode/anno/MyAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/target/classes/com/iqqcode/anno/TargetInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring03_SpringAOP/target/test-classes/com/iqqcode/test/Anno_AOPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/src/main/java/com/iqqcode/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/src/test/java/com/iqqcode/test/JdbcTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring04_JdbcTemplate/src/test/java/com/iqqcode/test/SpringCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_PartB/.idea/Spring_PartB.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bacbd082-1c07-4c49-ad10-3cad76b89a97.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bacbd082-1c07-4c49-ad10-3cad76b89a97.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/src/main/java/com/iqqcode/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring02_SpringAnnotation/src/test/java/com/iqqcode/web/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/web/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/web/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring01_SpringBean/target/classes/com/iqqcode/web/UserController.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +54,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="Aspect" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -72,6 +80,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -81,52 +90,44 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring_PartB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring04_JdbcTemplate/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20344828" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.iqqcode.web" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring02_SpringAnnotation\src\test\resources" />
-      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.iqqcode.web" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring02_SpringAnnotation\src\test\java\com\iqqcode" />
       <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring02_SpringAnnotation\src\test\java\com\iqqcode\" />
       <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring02_SpringAnnotation\src\test" />
       <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring02_SpringAnnotation\src\test\resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.iqqcode.web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iqqcode.proxy.cglib" />
+      <recent name="com.iqqcode.web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring04_JdbcTemplate\src\main\resources" />
+      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring03_SpringAOP\src\main\resources" />
+      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring03_SpringAOP\src\main\java\com\iqqcode\aop" />
+      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo\spring02_SpringAnnotation\src\test\resources" />
+      <recent name="F:\Code-Java\c-Java EE\1-Spring\SpringDemo" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.SpringJunitTest">
-    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iqqcode.web.Controller" />
-      <module name="spring02_SpringAnnotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.iqqcode.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataSourceTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring02_SpringAnnotation" />
+  <component name="RunManager" selected="JUnit.SpringCRUDTest.test_queryCount">
+    <configuration name="SpringCRUDTest.test_delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04_JdbcTemplate" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iqqcode.test.*" />
@@ -134,15 +135,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.iqqcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.DataSourceTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.SpringCRUDTest" />
+      <option name="METHOD_NAME" value="test_delete" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataSourceTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring02_SpringAnnotation" />
+    <configuration name="SpringCRUDTest.test_queryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04_JdbcTemplate" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iqqcode.test.*" />
@@ -150,15 +151,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.iqqcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.DataSourceTest" />
-      <option name="METHOD_NAME" value="test4" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.SpringCRUDTest" />
+      <option name="METHOD_NAME" value="test_queryAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringJunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring02_SpringAnnotation" />
+    <configuration name="SpringCRUDTest.test_queryCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04_JdbcTemplate" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.iqqcode.test.*" />
@@ -166,37 +167,65 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.iqqcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.SpringJunitTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringJunitTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring02_SpringAnnotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.iqqcode.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.iqqcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.SpringJunitTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.SpringCRUDTest" />
+      <option name="METHOD_NAME" value="test_queryCount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringCRUDTest.test_queryOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04_JdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iqqcode.test" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.SpringCRUDTest" />
+      <option name="METHOD_NAME" value="test_queryOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCRUDTest.test_update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04_JdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iqqcode.test" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.test.SpringCRUDTest" />
+      <option name="METHOD_NAME" value="test_update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringCRUDTest.test_delete" />
+      <item itemvalue="JUnit.SpringCRUDTest.test_update" />
+      <item itemvalue="JUnit.SpringCRUDTest.test_queryAll" />
+      <item itemvalue="JUnit.SpringCRUDTest.test_queryOne" />
+      <item itemvalue="JUnit.SpringCRUDTest.test_queryCount" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringJunitTest" />
-        <item itemvalue="JUnit.SpringJunitTest.test" />
-        <item itemvalue="Application.Controller" />
-        <item itemvalue="JUnit.DataSourceTest.test4" />
-        <item itemvalue="JUnit.DataSourceTest.test2" />
+        <item itemvalue="JUnit.SpringCRUDTest.test_queryCount" />
+        <item itemvalue="JUnit.SpringCRUDTest.test_queryOne" />
+        <item itemvalue="JUnit.SpringCRUDTest.test_queryAll" />
+        <item itemvalue="JUnit.SpringCRUDTest.test_update" />
+        <item itemvalue="JUnit.SpringCRUDTest.test_delete" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -211,7 +240,9 @@
       <workItem from="1595902115551" duration="71000" />
       <workItem from="1595902210694" duration="1195000" />
       <workItem from="1595903448190" duration="19731000" />
-      <workItem from="1595929961774" duration="1332000" />
+      <workItem from="1595929961774" duration="4797000" />
+      <workItem from="1595936897821" duration="64000" />
+      <workItem from="1595936985021" duration="18237000" />
     </task>
     <servers />
   </component>
@@ -230,69 +261,101 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="651" y="294" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1595929967103" />
-    <state x="361" y="91" width="863" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595915896640">
+    <state x="249" y="7" key="#Project_Structure" timestamp="1595934807408">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="91" width="863" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595915896640" />
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1595923420887">
+    <state x="249" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1595934807408" />
+    <state x="179" y="274" key="#SQL_Dialects" timestamp="1595993602200">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1595923420887" />
-    <state x="441" y="339" width="724" height="185" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1595903242934">
+    <state x="179" y="274" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1595993602200" />
+    <state x="340" y="295" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog" timestamp="1595993052321">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="441" y="339" width="724" height="185" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.864@0.0.1536.864" timestamp="1595903242934" />
+    <state x="340" y="295" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog/0.0.1536.864@0.0.1536.864" timestamp="1595993052321" />
+    <state x="361" y="91" width="1013" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595986550810">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" width="1013" height="682" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595986550810" />
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1595937420711">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1595937420711" />
+    <state x="499" y="207" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595990236588">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="207" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1595990236588" />
+    <state x="441" y="339" width="724" height="185" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1595987160503">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="441" y="339" width="724" height="185" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.864@0.0.1536.864" timestamp="1595987160503" />
     <state x="557" y="339" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1595903288610">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="557" y="339" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.864@0.0.1536.864" timestamp="1595903288610" />
+    <state x="449" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595991835312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="167" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1595991835312" />
     <state x="486" y="299" width="564" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595923762746">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="486" y="299" width="564" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1595923762746" />
-    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595926491961">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595984719956">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1595926491961" />
-    <state x="411" y="174" key="FileChooserDialogImpl" timestamp="1595929866996">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1595984719956" />
+    <state x="411" y="174" key="FileChooserDialogImpl" timestamp="1595989333320">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="411" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595929866996" />
-    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1595931118973">
+    <state x="411" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595989333320" />
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1595995104012">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595931118973" />
-    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1595931118973">
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595995104012" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1595995104012">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595931118973" />
-    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1595931118973">
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595995104012" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1595995104012">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595931118973" />
-    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1595931118973">
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595995104012" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1595995104012">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595931118973" />
-    <state x="249" y="7" key="SettingsEditor" timestamp="1595924071358">
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595995104012" />
+    <state x="349" y="175" key="IDE.errors.dialog" timestamp="1595994458098">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595924071358" />
-    <state x="178" y="93" key="new project wizard" timestamp="1595915266437">
+    <state x="349" y="175" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1595994458098" />
+    <state x="408" y="136" key="NewModule_or_Project.wizard" timestamp="1595985963683">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="178" y="93" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1595915266437" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1595924349071">
+    <state x="408" y="136" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1595985963683" />
+    <state x="157" y="7" width="1138" height="797" key="SettingsEditor" timestamp="1595991128629">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1595924349071" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1595930093121">
+    <state x="157" y="7" width="1138" height="797" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595991128629" />
+    <state x="540" y="164" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595990239827">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1595930093121" />
-    <state x="381" y="115" key="spring file set editor" timestamp="1595904991524">
+    <state x="540" y="164" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1595990239827" />
+    <state x="225" y="73" key="new project wizard" timestamp="1595989402667">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="381" y="115" key="spring file set editor/0.0.1536.864@0.0.1536.864" timestamp="1595904991524" />
+    <state x="225" y="73" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1595989402667" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1595994782515">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1595994782515" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1595994534861">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1595994534861" />
+    <state x="381" y="115" key="spring file set editor" timestamp="1595991125750">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="381" y="115" key="spring file set editor/0.0.1536.864@0.0.1536.864" timestamp="1595991125750" />
   </component>
 </project>

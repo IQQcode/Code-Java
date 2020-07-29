@@ -790,35 +790,29 @@
     <user id="248" parent="1" name="root">
       <Host>localhost</Host>
     </user>
-    <table id="249" parent="8" name="message"/>
-    <table id="250" parent="8" name="province"/>
-    <table id="251" parent="8" name="spring_user"/>
-    <table id="252" parent="8" name="user">
+    <table id="249" parent="8" name="account"/>
+    <table id="250" parent="8" name="message"/>
+    <table id="251" parent="8" name="province"/>
+    <table id="252" parent="8" name="spring_user"/>
+    <table id="253" parent="8" name="user">
       <Engine>MyISAM</Engine>
     </table>
-    <column id="253" parent="249" name="id">
+    <column id="254" parent="249" name="name">
       <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
+      <DataType>varchar(32)|0s</DataType>
       <NotNull>1</NotNull>
-      <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="254" parent="249" name="PRIMARY">
-      <NameSurrogate>1</NameSurrogate>
-      <ColNames>id</ColNames>
-      <Primary>1</Primary>
-    </key>
-    <column id="255" parent="250" name="id">
-      <Position>1</Position>
-      <DataType>int(11)|0s</DataType>
-      <NotNull>1</NotNull>
-      <SequenceIdentity>1</SequenceIdentity>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <column id="256" parent="250" name="NAME">
+    <column id="255" parent="249" name="money">
       <Position>2</Position>
-      <DataType>varchar(20)|0s</DataType>
+      <DataType>int(16)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="256" parent="250" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
     <key id="257" parent="250" name="PRIMARY">
@@ -833,52 +827,70 @@
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="259" parent="251" name="name">
+    <column id="259" parent="251" name="NAME">
       <Position>2</Position>
-      <DataType>varchar(32)|0s</DataType>
+      <DataType>varchar(20)|0s</DataType>
+      <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="260" parent="251" name="age">
-      <Position>3</Position>
-      <DataType>int(10)|0s</DataType>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <key id="261" parent="251" name="PRIMARY">
+    <key id="260" parent="251" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="262" parent="252" name="id">
+    <column id="261" parent="252" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="262" parent="252" name="name">
+      <Position>2</Position>
+      <DataType>varchar(32)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="263" parent="252" name="age">
+      <Position>3</Position>
+      <DataType>int(10)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <key id="264" parent="252" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="265" parent="253" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="263" parent="252" name="name">
+    <column id="266" parent="253" name="name">
       <Position>2</Position>
       <DataType>varchar(20)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="264" parent="252" name="password">
+    <column id="267" parent="253" name="password">
       <Position>3</Position>
       <DataType>varchar(32)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="265" parent="252" name="birthday">
+    <column id="268" parent="253" name="birthday">
       <Position>4</Position>
       <DataType>date|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="266" parent="252" name="QQ">
+    <column id="269" parent="253" name="QQ">
       <Position>5</Position>
       <DataType>int(10)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="267" parent="252" name="u_id">
+    <column id="270" parent="253" name="u_id">
       <Position>6</Position>
       <DataType>int(11)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="268" parent="252" name="fk_user_message">
+    <index id="271" parent="253" name="fk_user_message">
       <ColNames>u_id</ColNames>
       <Type>btree</Type>
     </index>

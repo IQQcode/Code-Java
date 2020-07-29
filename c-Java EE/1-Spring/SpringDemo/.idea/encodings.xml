@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/spring01_SpringBean/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring02_SpringAnnotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring02_SpringAnnotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring03_SpringAOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring03_SpringAOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04_JdbcTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04_JdbcTemplate/src/main/resources" charset="UTF-8" />
   </component>
 </project>
