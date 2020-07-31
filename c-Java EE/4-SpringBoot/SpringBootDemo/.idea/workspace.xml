@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bcad5d1-60e3-4034-aec3-ebc489ff0307" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__org_springframework_spring_web_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/filter/ContextLoaderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/filter/WebApplicationContextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/web/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/interceptor/MyInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/iqqcode.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/iqqcode/redis/RedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/iqqcode/service/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/d4366503-bff3-4c66-8e5f-74df5949c6b9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/d4366503-bff3-4c66-8e5f-74df5949c6b9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/dadca8d9-80e1-4dfa-86c2-ccfd9ddf8fa9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/dadca8d9-80e1-4dfa-86c2-ccfd9ddf8fa9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/01_SpringBoot_contact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/config/JdbcProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/config/JdbcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/config/JdbcProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/01_SpringBoot_yml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/java/com/iqqcode/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/java/com/iqqcode/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/java/com/iqqcode/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/resources/application-account.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/resources/application-user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/application-account.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/application-user.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/config/JdbcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/config/JdbcProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/artifacts/springmvc01_mvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/artifacts/springmvc01_mvc_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/springmvc01_mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/springmvc01_mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/jdbc.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1fPTQ5ukPHENO0Yq5kKEtS9lmkm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.iqqcode.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code-Java\c-Java EE\4-SpringBoot\SpringBootDemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RedisTest.test">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iqqcode.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.redis.RedisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.queryById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iqqcode.service" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="queryById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iqqcode.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iqqcode.service" />
+      <option name="MAIN_CLASS_NAME" value="com.iqqcode.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBootDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.iqqcode.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisTest.test" />
+        <item itemvalue="JUnit.UserServiceTest.save" />
+        <item itemvalue="JUnit.UserServiceTest.queryById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bcad5d1-60e3-4034-aec3-ebc489ff0307" name="Default Changelist" comment="" />
+      <created>1596118709911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596118709911</updated>
+      <workItem from="1596118711098" duration="7901000" />
+      <workItem from="1596155297481" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="111" key="#Inspections" timestamp="1596121159713">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="111" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1596121159713" />
+    <state x="502" y="255" key="#Notifications" timestamp="1596155310968">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="502" y="255" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1596155310968" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596120497160">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1596120497160" />
+    <state x="404" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1596122517256">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="404" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1596122517256" />
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1596120080172">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1596120080172" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1596155019891">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596155019891" />
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1596154973443">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596154973443" />
+    <state width="1493" height="283" key="GridCell.Tab.0.center" timestamp="1596154973443">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1596154973443" />
+    <state width="1493" height="283" key="GridCell.Tab.0.left" timestamp="1596154973442">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1596154973442" />
+    <state width="1493" height="283" key="GridCell.Tab.0.right" timestamp="1596154973443">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="283" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1596154973443" />
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom" timestamp="1596123026665">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596123026665" />
+    <state width="1493" height="223" key="GridCell.Tab.1.center" timestamp="1596123026665">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1596123026665" />
+    <state width="1493" height="223" key="GridCell.Tab.1.left" timestamp="1596123026664">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1596123026664" />
+    <state width="1493" height="223" key="GridCell.Tab.1.right" timestamp="1596123026665">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1596123026665" />
+    <state width="1493" height="277" key="GridCell.Tab.2.bottom" timestamp="1596118985094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1596118985094" />
+    <state width="1493" height="277" key="GridCell.Tab.2.center" timestamp="1596118985094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1596118985094" />
+    <state width="1493" height="277" key="GridCell.Tab.2.left" timestamp="1596118985094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1596118985094" />
+    <state width="1493" height="277" key="GridCell.Tab.2.right" timestamp="1596118985094">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1596118985094" />
+    <state x="349" y="167" key="IDE.errors.dialog" timestamp="1596154164801">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1596154164801" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1596155343812">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1596155343812" />
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596122277508">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1596122277508" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1596153973778">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1596153973778" />
+  </component>
+</project>

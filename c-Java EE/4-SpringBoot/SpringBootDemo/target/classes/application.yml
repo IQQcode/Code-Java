@@ -1,0 +1,40 @@
+jdbc:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/db_test
+  username: root
+  password: 1234
+
+
+# 激活配置文件，指定配置文件名称
+spring:
+  profiles:
+    active: user
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/db_test
+    username: root
+    password: 1234
+  redis:
+    host: localhost
+    port: 6379
+
+# mybatis配置
+mybatis:
+  # 实体类别名包路径
+  type-aliases-package: com.iqqcode.domain
+  # 映射文件路径
+  # mapper-locations: classpath:mappers/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+# Tomcat端口修改
+server:
+  port: 8081
+
+# 日志记录级别
+logging:
+  level:
+    com.iqqcode: debug
+    org.springframework: info
+
+

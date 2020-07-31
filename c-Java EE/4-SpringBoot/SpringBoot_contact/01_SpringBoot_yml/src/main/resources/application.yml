@@ -1,0 +1,12 @@
+jdbc:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/db_test
+  username: root
+  password: 1234
+
+
+
+# 激活配置文件，指定配置文件名称
+spring:
+  profiles:
+    active: user, account
