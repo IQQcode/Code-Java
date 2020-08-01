@@ -5,88 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bcad5d1-60e3-4034-aec3-ebc489ff0307" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__org_springframework_spring_web_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/filter/ContextLoaderListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/filter/WebApplicationContextUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/web/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/config/MvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/interceptor/MyInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iqqcode/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-user.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/iqqcode.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/iqqcode/redis/RedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/iqqcode/service/UserServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/d4366503-bff3-4c66-8e5f-74df5949c6b9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/d4366503-bff3-4c66-8e5f-74df5949c6b9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/dadca8d9-80e1-4dfa-86c2-ccfd9ddf8fa9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/dataSources/dadca8d9-80e1-4dfa-86c2-ccfd9ddf8fa9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/01_SpringBoot_contact.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/config/JdbcProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/java/com/iqqcode/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/config/JdbcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/config/JdbcProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_contact/target/classes/com/iqqcode/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/01_SpringBoot_yml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/java/com/iqqcode/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/java/com/iqqcode/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/java/com/iqqcode/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/resources/application-account.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/resources/application-user.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/application-account.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/application-user.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/config/JdbcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/config/JdbcProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringBoot_contact/01_SpringBoot_yml/target/classes/com/iqqcode/controller/Controller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/artifacts/springmvc01_mvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/artifacts/springmvc01_mvc_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/pom.xml" afterDir="false" />
@@ -94,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/java/com/iqqcode/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../2-SpringMVC/SpringMVC-Demo/springmvc01_mvc/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,17 +83,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.RedisTest.test">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringBootDemo" />
       <extension name="coverage">
@@ -247,7 +155,8 @@
       <option name="presentableId" value="Default" />
       <updated>1596118709911</updated>
       <workItem from="1596118711098" duration="7901000" />
-      <workItem from="1596155297481" duration="361000" />
+      <workItem from="1596155297481" duration="1117000" />
+      <workItem from="1596196501196" duration="113000" />
     </task>
     <servers />
   </component>
@@ -275,10 +184,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1596120080172" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1596155019891">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1596156411271">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596155019891" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596156411271" />
     <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1596154973443">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

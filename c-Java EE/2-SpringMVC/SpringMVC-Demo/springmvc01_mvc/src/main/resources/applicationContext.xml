@@ -8,6 +8,27 @@
 
 
     <!--引入外部配置文件-->
-    <context:property-placeholder location="classpath:classpath:jdbc.properties"/>
+    <context:property-placeholder location="classpath:jdbc.properties"/>
+
+    <!--配置数据源-->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+        <property name="driverClassName" value="${jdbc.driver}"/>
+        <property name="url" value="${jdbc.url}"/>
+        <property name="username" value="${jdbc.username}"/>
+        <property name="password" value="${jdbc.password}"/>
+    </bean>
+
+    <!--JdbcTemplate模板对象-->
+    <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <!--配置Dao-->
+    <bean id="ud" class="com.iqqcode.dao.impl.UserDaoImpl"/>
+    
+    <!--配置Service-->
+    <bean id="userService" class="com.iqqcode.service.impl.UserServiceImpl">
+        <property name="userDao" ref="ud"/>
+    </bean>
 
 </beans>
