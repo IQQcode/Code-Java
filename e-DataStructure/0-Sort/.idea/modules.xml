@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/0-Sort.iml" filepath="$PROJECT_DIR$/.idea/0-Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-冒泡排序/a-冒泡排序.iml" filepath="$PROJECT_DIR$/a-冒泡排序/a-冒泡排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b-选择排序/b-选择排序.iml" filepath="$PROJECT_DIR$/b-选择排序/b-选择排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c-插入排序/c-插入排序.iml" filepath="$PROJECT_DIR$/c-插入排序/c-插入排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d-希尔排序/d-希尔排序.iml" filepath="$PROJECT_DIR$/d-希尔排序/d-希尔排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-归并排序/e-归并排序.iml" filepath="$PROJECT_DIR$/e-归并排序/e-归并排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f-快速排序/f-快速排序.iml" filepath="$PROJECT_DIR$/f-快速排序/f-快速排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/g-堆排序/g-堆排序.iml" filepath="$PROJECT_DIR$/g-堆排序/g-堆排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/h-计数排序/h-计数排序.iml" filepath="$PROJECT_DIR$/h-计数排序/h-计数排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-基数排序/i-基数排序.iml" filepath="$PROJECT_DIR$/i-基数排序/i-基数排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j-桶排序/j-桶排序.iml" filepath="$PROJECT_DIR$/j-桶排序/j-桶排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l-二分查找/l-二分查找.iml" filepath="$PROJECT_DIR$/l-二分查找/l-二分查找.iml" />
+    </modules>
+  </component>
+</project>
