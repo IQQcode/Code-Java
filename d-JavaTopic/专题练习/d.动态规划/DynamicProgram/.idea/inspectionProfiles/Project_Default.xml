@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="Description:查看类加载器层级关系,Author:,Date:,Description:PC计数器测试,Description:局部变量表容量测试,Description:i++和++i指令验证,Description:堆空间分析工具测试,Description:堆空间分析工具-Java,Description:堆空间分析工具Java-VisualVM测试,Description:对象内存分配测试,date,Description:new,Description:,Description:System.gc()调用测试,Description:GCRoots查看,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:查看垃圾回收器,Description:0-1背包问题" />
+      <option name="myAdditionalJavadocTags" value="date,Date:,Author:,Description:0-1背包问题,Description:硬币问题lt-322,Description:不相邻的数相加求得和最大,Description:在已知数列中,元素能否凑齐目标值,Description:在已知数列中,元素能否凑齐目标值" />
     </inspection_tool>
   </profile>
 </component>

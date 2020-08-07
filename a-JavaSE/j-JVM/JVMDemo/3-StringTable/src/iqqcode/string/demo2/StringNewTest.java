@@ -7,7 +7,7 @@ import org.junit.Test;
  * @Date: 2020-07-12 18:14
  * @Description: new String("1") + new String("1");在字符串常量池中是否存在
  */
-public class StringNewTest1 {
+public class StringNewTest {
     @Test
     public void test1() {
         String s1 = new String("1");
