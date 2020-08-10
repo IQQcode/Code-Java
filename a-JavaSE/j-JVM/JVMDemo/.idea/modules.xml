@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/2-RuntimeDataArea/2-RuntimeDataArea.iml" filepath="$PROJECT_DIR$/2-RuntimeDataArea/2-RuntimeDataArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-StringTable/3-StringTable.iml" filepath="$PROJECT_DIR$/3-StringTable/3-StringTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-ExecutionEngine/4-ExecutionEngine.iml" filepath="$PROJECT_DIR$/4-ExecutionEngine/4-ExecutionEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-GCLogs/5-GCLogs.iml" filepath="$PROJECT_DIR$/5-GCLogs/5-GCLogs.iml" />
       <module fileurl="file://$PROJECT_DIR$/JVMDemo.iml" filepath="$PROJECT_DIR$/JVMDemo.iml" />
     </modules>
   </component>

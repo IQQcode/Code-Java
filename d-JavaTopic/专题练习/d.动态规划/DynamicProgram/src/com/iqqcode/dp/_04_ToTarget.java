@@ -1,4 +1,4 @@
-package com.iqqcode;
+package com.iqqcode.dp;
 
 /**
  * @Author: Mr.Q
@@ -57,6 +57,6 @@ public class _04_ToTarget {
     public static void main(String[] args) {
         int[] arr = {3, 34, 4, 12, 5, 2};
         //System.out.println(rec_subSet(arr, arr.length-1, 9));
-        System.out.println(dp_subSet(arr, 13));
+        System.out.println(dp_subSet(arr, 12));
     }
 }
