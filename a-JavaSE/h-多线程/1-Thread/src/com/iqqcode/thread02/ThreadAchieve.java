@@ -10,6 +10,7 @@ class MyThread extends Thread {
     public MyThread(String thread) {
         this.thread = thread;
     }
+
     @Override
     public void run() {
         for(int i = 0; i < 10;i++) {

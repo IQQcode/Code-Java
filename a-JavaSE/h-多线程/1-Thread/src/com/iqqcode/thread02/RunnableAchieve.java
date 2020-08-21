@@ -21,7 +21,7 @@ public class RunnableAchieve {
         //实例化Runnable接口的实现类
         MyRunnable run = new MyRunnable();
         //创建 Thread类对象，构造方法中传递 Runnable接口的实现类对象
-        //调用 Threa类中的start方法，开启新的线程来执行run方法
+        //调用 Thread类中的start方法，开启新的线程来执行run方法
         new Thread(run,"A").start();
         new Thread(run,"B").start();
         new Thread(run,"C").start();

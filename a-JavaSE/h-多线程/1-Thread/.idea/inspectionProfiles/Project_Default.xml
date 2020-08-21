@@ -1,6 +1,7 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+    <inspection_tool class="AlibabaAvoidManuallyCreateThread" enabled="false" level="CRITICAL" enabled_by_default="false" />
     <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="TOP_LEVEL_CLASS_OPTIONS">
         <value>
@@ -30,7 +31,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:多线程开始喽！,Date:,Author:,Description:实现多线程--继承Thread类,Description:实现多线程【一】--继承Thread类,Description:匿名内部类实现Thread,Description:买票带来的并发问题,Description:并发问题--龟兔赛跑,Description:实现多线程【一】--实现Runnable接口,Description:实现多线程【二】--实现Runnable接口,Description:实现多线程【三】--实现Callable接口,Description:同步代码块,Description:同步方法,Description:Synchronized对象锁,Description:静态同步方法--全局锁,Description:同步方法--对象锁,Description:线程停止,Description:线程停止--设置标志位,Description:interrupt来中断当前线程的执行,Description:yiled---线程让步,Description:Join--线程插队,Description:线程的优先级,Description:守护线程,Description:死锁,Description:可重入锁验证" />
+      <option name="myAdditionalJavadocTags" value="date,Description:多线程开始喽！,Date:,Author:,Description:实现多线程--继承Thread类,Description:实现多线程【一】--继承Thread类,Description:匿名内部类实现Thread,Description:买票带来的并发问题,Description:并发问题--龟兔赛跑,Description:实现多线程【一】--实现Runnable接口,Description:实现多线程【二】--实现Runnable接口,Description:实现多线程【三】--实现Callable接口,Description:同步代码块,Description:同步方法,Description:Synchronized对象锁,Description:静态同步方法--全局锁,Description:同步方法--对象锁,Description:线程停止,Description:线程停止--设置标志位,Description:interrupt来中断当前线程的执行,Description:yiled---线程让步,Description:Join--线程插队,Description:线程的优先级,Description:守护线程,Description:死锁,Description:可重入锁验证,Description:Lambda简化Runnable书写,Description:线程让步测试,Description:isInterrupted" />
     </inspection_tool>
   </profile>
 </component>

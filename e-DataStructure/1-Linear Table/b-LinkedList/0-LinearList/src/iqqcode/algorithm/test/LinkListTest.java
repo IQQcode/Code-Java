@@ -3,8 +3,6 @@ package iqqcode.algorithm.test;
 import iqqcode.algorithm.list.LinkList;
 import org.junit.Test;
 
-import java.util.HashMap;
-
 /**
  * @Author: Mr.Q
  * @Date: 2020-05-03 10:09

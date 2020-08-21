@@ -32,6 +32,7 @@ public class ThreadDaemon {
         //设置上帝为守护线程
         thread.setDaemon(true);
         thread.start();
+        //启动用户线程
         new Thread(per).start();
     }
 }
