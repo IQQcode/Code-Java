@@ -7,7 +7,7 @@ import java.util.Stack ;
 /**
  * 递归实现二分搜索树
  * 这里设计的树是不存储重复元素的, 重复添加元素只保存一个
- * @author 七夜雪
+ * @author liuyubobobo
  *
  */
 public class BinarySearchTreeDemo<E extends Comparable<E>> {
@@ -20,6 +20,19 @@ public class BinarySearchTreeDemo<E extends Comparable<E>> {
     public BinarySearchTreeDemo() {
         this.root = null ;
         this.size = 0 ;
+    }
+
+    //节点类
+    private class Node {
+        public E	e ;
+        // 左右子树
+        public Node	left , right ;
+
+        public Node(E e) {
+            this.e = e ;
+            this.left = null ;
+            this.right = null ;
+        }
     }
 
     public boolean isEmpty() {
@@ -333,7 +346,7 @@ public class BinarySearchTreeDemo<E extends Comparable<E>> {
      * 删除指定元素e所在的节点
      * @param e
      */
-    public void remove(E e){
+    public void remove(E e) {
         root = remove(root, e);
     }
 
@@ -425,22 +438,5 @@ public class BinarySearchTreeDemo<E extends Comparable<E>> {
             res.append("--");
         }
         return res;
-    }
-
-    /**
-     * 二分搜索树节点类
-     * @author 七夜雪
-     *
-     */
-    private class Node {
-        public E	e ;
-        // 左右子树
-        public Node	left , right ;
-
-        public Node(E e) {
-            this.e = e ;
-            this.left = null ;
-            this.right = null ;
-        }
     }
 }

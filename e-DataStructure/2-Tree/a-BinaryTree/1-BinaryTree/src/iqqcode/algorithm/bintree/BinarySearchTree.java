@@ -154,11 +154,19 @@ public class BinarySearchTree<E extends Comparable<E>> {
     public E removeMin() {
         //获取当前树中最小的节点(不一定为叶节点)
         E min = getMin();
-        //让min的父亲节点指向min的右孩子节点
+        //让min的父亲节点指向min的右孩子节点，并且返回删除后的新树
         root = removeMin(root);
         return min;
     }
 
+    /**
+     * 删除最小元素节点：
+     *    1. 我们只需要先找到该树的最左端元素节点
+     *    2. 判断该节点有没有右子树，如果有，则将其右子树先保存起来，再将其从二分搜索树断开，最后返回该右子树节点
+     *    [返回该右子树节点后，因为是递归操作，会自然地将该右子树与二分搜索树连接起来]，此时便将最小元素节点安全的断开了
+     * @param node
+     * @return
+     */
     private Node removeMin(Node node) {
         //如果当前节点的左子树为空
         if (node.left == null) {
@@ -169,6 +177,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
             return rightNode;
         }
         //如果当前节点的左子树不为空，递归寻找叶子节点
+        //对node的左子树进行删除最小元素的值，并将运行结果返回给node的左子树
         node.left = removeMin(node.left);
         return node;
     }
@@ -181,7 +190,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
     public E removeMax() {
         //获取当前树中最大的节点(不一定为叶节点)
         E max = getMax();
-        //让max的父亲节点指向max的左孩子节点
+        //让max的父亲节点指向max的左孩子节点，并且返回删除后的新树
         root = removeMax(root);
         return max;
     }
@@ -202,7 +211,8 @@ public class BinarySearchTree<E extends Comparable<E>> {
 
     //删除树中任意节点
     public void remove(E data) {
-        remove(root, data);
+        //返回删除后的新树
+        root = remove(root, data);
     }
 
     /**
@@ -222,11 +232,13 @@ public class BinarySearchTree<E extends Comparable<E>> {
 
         if (compare > 0) {
             //如果e大于node节点，则继续递归向下找node节点的右子树
+            //删除后的结果再返回给node的右子树
             node.right = remove(node.right, e);
         } else if (compare < 0) {
             //如果e小于node节点，则继续递归向下找node节点的左子树
+            //删除后的结果再返回给node的左子树
             node.left = remove(node.left, e);
-        } else {
+        } else { // compare == 0
             if (node.left == null) return node.right;
             if (node.right == null) return node.left;
 
