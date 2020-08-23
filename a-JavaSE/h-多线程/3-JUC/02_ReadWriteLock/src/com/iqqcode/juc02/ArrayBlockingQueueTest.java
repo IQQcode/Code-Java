@@ -1,4 +1,4 @@
-package com.iqqcode.juc2;
+package com.iqqcode.juc02;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package com.iqqcode.lock.demo;
+package com.iqqcode.lock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

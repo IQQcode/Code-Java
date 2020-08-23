@@ -1,13 +1,13 @@
-package com.iqqcode.lock.lock3;
+package com.iqqcode.lock4;
 
-import	java.util.concurrent.locks.Condition;
-import  java.util.concurrent.locks.Lock;
-import	java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @Author: Mr.Q
  * @Date: 2020-06-03 18:41
- * @Description:生产者消费者模型
+ * @Description:Condition条件变量实现精准的等待唤醒
  * @Solution: 线程A -> 线程B -> 线程C (交替执行,依次唤醒，同一时刻只有一个在执行)
  */
 
@@ -30,9 +30,9 @@ class Data {
         try {
             //业务：判断 -> 执行 -> 通知
             while (number != 1) {
-               condition1.await(); //等待
+                condition1.await(); //等待
             }
-            System.out.println(Thread.currentThread().getName() + " --> " + number);
+            System.out.println(Thread.currentThread().getName() + " -> " + number);
             number = 2;
             //线程A执行完，唤醒线程B
             condition2.signal();
@@ -60,6 +60,7 @@ class Data {
             lock.unlock();
         }
     }
+
     //执行C业务
     public void workC() {
         lock.lock();
@@ -79,7 +80,7 @@ class Data {
     }
 }
 
-public class ProducerConsumer {
+public class Condition_wait_notify {
     public static void main(String[] args) {
         Data data = new Data();
 
@@ -102,3 +103,4 @@ public class ProducerConsumer {
         },"线程C").start();
     }
 }
+

@@ -1,4 +1,4 @@
-package com.iqqcode.lock.lock2;
+package com.iqqcode.lock2;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @Author: Mr.Q
  * @Date: 2020-06-16 09:44
- * @Description:公平锁与非公平锁
+ * @Description:ReentrantLock公平锁与非公平锁
  */
 class FairUnfair {
     private Lock lock;

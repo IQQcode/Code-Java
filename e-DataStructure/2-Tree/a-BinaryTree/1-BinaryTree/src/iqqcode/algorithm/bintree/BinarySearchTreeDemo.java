@@ -360,7 +360,6 @@ public class BinarySearchTreeDemo<E extends Comparable<E>> {
         if (node == null) {
             return null;
         }
-
         // node.e > e
         if (node.e.compareTo(e) > 0) {
             node.left =remove(node.left, e);

@@ -268,7 +268,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
              *               /
              *              null
              */
-            //待删除节点的右子树的最小节点断开连接
+            //待删除节点的右子树的最小节点断开连接(将minNode[节点5]断开连接)
             node.right = remove(node.right, minNode.data);
             N--;
         }

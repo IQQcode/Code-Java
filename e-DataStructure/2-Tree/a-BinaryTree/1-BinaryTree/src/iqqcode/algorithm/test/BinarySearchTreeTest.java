@@ -47,7 +47,7 @@ public class BinarySearchTreeTest {
 
         //删除节点
         tree.remove(9);
-        System.out.println("删除节点后，是否包含元素?  ---" + tree.contains(9));
+        System.out.println("删除节点9后，是否包含元素?  ---" + tree.contains(9));
         //删除最小节点
         System.out.println("删除最小节点" + tree.removeMin());
         //删除最大节点

@@ -33,7 +33,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:Lock锁,Author:,Date:,Description:线程同步--标志位法,Description:线程同步--wait和notify的理解,Description:生产者消费者模型,Description:生产者消费者模型--先消费在生产,Description:线程池,Description:可重入锁验证,Description:公平锁与非公平锁,Description:synchronized实现生产者消费者,Description:双向链表LinkedHashMap和synchronized结合,Description:BlockingQueue实现生产者消费者模式,Description:双向链表LinkedHashMap和lock结合" />
+      <option name="myAdditionalJavadocTags" value="date,Description:Lock锁,Author:,Date:,Description:线程同步--标志位法,Description:线程同步--wait和notify的理解,Description:生产者消费者模型,Description:生产者消费者模型--先消费在生产,Description:线程池,Description:可重入锁验证,Description:公平锁与非公平锁,Description:synchronized实现生产者消费者,Description:双向链表LinkedHashMap和synchronized结合,Description:BlockingQueue实现生产者消费者模式,Description:双向链表LinkedHashMap和lock结合,Description:虚假唤醒验证1" />
     </inspection_tool>
   </profile>
 </component>

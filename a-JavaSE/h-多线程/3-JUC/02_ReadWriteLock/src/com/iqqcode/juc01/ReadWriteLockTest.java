@@ -1,4 +1,4 @@
-package com.iqqcode.juc1;
+package com.iqqcode.juc01;
 
 import java.util.HashMap;
 import java.util.Map;

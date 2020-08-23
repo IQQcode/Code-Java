@@ -1,4 +1,4 @@
-package com.iqqcode.loaal;
+package com.iqqcode.local;
 
 /**
  * @Author: Mr.Q

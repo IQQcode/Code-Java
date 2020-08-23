@@ -1,4 +1,4 @@
-package com.iqqcode.lock.lock1;
+package com.iqqcode.waitnotify;
 
 /**
  * @Author: Mr.Q
