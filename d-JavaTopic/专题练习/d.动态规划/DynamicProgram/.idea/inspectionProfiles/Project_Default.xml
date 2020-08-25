@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Date:,Author:,Description:0-1背包问题,Description:硬币问题lt-322,Description:不相邻的数相加求得和最大,Description:在已知数列中,元素能否凑齐目标值,Description:在已知数列中,元素能否凑齐目标值,Description:在已知数列中,元素能否凑齐目标值,Description:斐波那切数列,Description:在已知数列中,元素能否凑齐目标值,Description:70-爬楼梯,Description:120-三角形最小路径和,Description:343-整数拆分" />
+      <option name="myAdditionalJavadocTags" value="date,Date:,Author:,Description:0-1背包问题,Description:硬币问题lt-322,Description:不相邻的数相加求得和最大,Description:在已知数列中,元素能否凑齐目标值,Description:在已知数列中,元素能否凑齐目标值,Description:在已知数列中,元素能否凑齐目标值,Description:斐波那切数列,Description:在已知数列中,元素能否凑齐目标值,Description:70-爬楼梯,Description:120-三角形最小路径和,Description:343-整数拆分,Description:在已知数列中,元素能否凑齐目标值" />
     </inspection_tool>
   </profile>
 </component>

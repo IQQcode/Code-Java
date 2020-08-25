@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_ReentrantLock/01_ReentrantLock.iml" filepath="$PROJECT_DIR$/01_ReentrantLock/01_ReentrantLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_ReadWriteLock/02_ReadWriteLock.iml" filepath="$PROJECT_DIR$/02_ReadWriteLock/02_ReadWriteLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_CAS/03_CAS.iml" filepath="$PROJECT_DIR$/03_CAS/03_CAS.iml" />
     </modules>
   </component>
 </project>
