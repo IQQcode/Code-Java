@@ -10,8 +10,10 @@ import java.util.*;
 public interface Account {
     // 获取余额
     Integer getBalance();
+
     // 取款
     void withdraw(Integer amount);
+
     /**
      * 方法内会启动 1000 个线程，每个线程做 -10 元 的操作
      * 如果初始余额为 10000 那么正确的结果应当是 0

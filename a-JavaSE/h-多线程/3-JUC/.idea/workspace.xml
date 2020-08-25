@@ -7,16 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ad9f2e1-c9e2-47af-955d-2b8d4cbdd66c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_CAS/src/com/iqqcode/cas/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_CAS/src/com/iqqcode/cas/Account_CAS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_CAS/src/com/iqqcode/cas/Account_Sync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/d.动态规划/DynamicProgram/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/d.动态规划/DynamicProgram/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0ad9f2e1-c9e2-47af-955d-2b8d4cbdd66c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +182,7 @@
       <workItem from="1598170189378" duration="2347000" />
       <workItem from="1598173032280" duration="289000" />
       <workItem from="1598337571707" duration="312000" />
-      <workItem from="1598337911696" duration="4191000" />
+      <workItem from="1598337911696" duration="4497000" />
     </task>
     <task id="LOCAL-00001" summary="ReentrantLock">
       <created>1598173290911</created>
@@ -200,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598173290911</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CAS test">
+      <created>1598349244800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598349244800</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ReentrantLock" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReentrantLock" />
+    <MESSAGE value="CAS test" />
+    <option name="LAST_COMMIT_MESSAGE" value="CAS test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="111" key="#Inspections" timestamp="1598172103262">
@@ -228,10 +227,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="403" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1598170032613" />
-    <state x="262" y="15" key="CommitChangelistDialog2" timestamp="1598173282195">
+    <state x="262" y="15" key="CommitChangelistDialog2" timestamp="1598349234216">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="262" y="15" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598173282195" />
+    <state x="262" y="15" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598349234216" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598173320539">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -264,10 +263,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598337978594" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598173295576">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598349249503">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598173295576" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598349249503" />
     <state x="527" y="276" key="cloudConfig.PluginsDialog" timestamp="1591583633327">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

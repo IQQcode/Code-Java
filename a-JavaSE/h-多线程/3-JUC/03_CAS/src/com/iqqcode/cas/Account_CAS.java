@@ -8,6 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @Description:CAS无锁保证安全
  */
 public class Account_CAS implements Account {
+
     private AtomicInteger balance;
 
     public Account_CAS(Integer balance) {

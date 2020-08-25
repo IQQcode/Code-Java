@@ -6,14 +6,18 @@ package com.iqqcode.cas;
  * @Description:synchronized加锁保证安全
  */
 public class Account_Sync implements Account{
+
     private Integer balance;
+
     public Account_Sync(Integer balance) {
         this.balance = balance;
     }
+
     @Override
     public synchronized Integer getBalance() {
         return balance;
     }
+
     @Override
     public synchronized void withdraw(Integer amount) {
         balance -= amount;
