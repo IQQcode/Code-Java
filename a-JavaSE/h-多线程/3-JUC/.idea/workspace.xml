@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ad9f2e1-c9e2-47af-955d-2b8d4cbdd66c" name="Default Changelist" comment="" />
+    <list default="true" id="0ad9f2e1-c9e2-47af-955d-2b8d4cbdd66c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_CAS/src/com/iqqcode/cas/Account_CAS.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_CAS/src/com/iqqcode/cas/Account_CAS.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Chatib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -130,17 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Account_CAS" />
@@ -182,7 +174,8 @@
       <workItem from="1598170189378" duration="2347000" />
       <workItem from="1598173032280" duration="289000" />
       <workItem from="1598337571707" duration="312000" />
-      <workItem from="1598337911696" duration="4497000" />
+      <workItem from="1598337911696" duration="5536000" />
+      <workItem from="1598402183880" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="ReentrantLock">
       <created>1598173290911</created>
@@ -198,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598349244800</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CAS test">
+      <created>1598349533660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598349533660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,30 +227,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="403" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1598170032613" />
-    <state x="262" y="15" key="CommitChangelistDialog2" timestamp="1598349234216">
+    <state x="262" y="15" key="CommitChangelistDialog2" timestamp="1598349528555">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="262" y="15" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598349234216" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598173320539">
+    <state x="262" y="15" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598349528555" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598402213654">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598173320539" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1598347344201">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598402213653" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1598350290800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598347344201" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1598347344200">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598350290800" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1598350290800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598347344200" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1598347344200">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598350290800" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1598350290800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598347344200" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1598347344200">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598350290800" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1598350290800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598347344200" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598350290800" />
     <state x="349" y="167" key="IDE.errors.dialog" timestamp="1591586021904">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -263,10 +263,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598337978594" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598349249503">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598349538235">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598349249503" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598349538235" />
     <state x="527" y="276" key="cloudConfig.PluginsDialog" timestamp="1591583633327">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

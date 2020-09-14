@@ -1,6 +1,7 @@
 package test;
 
 import org.junit.Test;
+import sort.CountSort;
 import sort.CountSort_Stable;
 
 import java.util.Arrays;
@@ -13,7 +14,7 @@ import java.util.Arrays;
 public class CountTest {
     @Test
     public void test() {
-        int[] arr = {1, 1, 0, 2, 6, 2, 5, 8, 9,7};
-        System.out.println(Arrays.toint(CountSort_Stable.count_stable(arr)));
+        int[] arr = {10, 10, 15, 20, 16, 12, 15, 18, 19, 17};
+        System.out.println(Arrays.toString(CountSort.count(arr)));
     }
 }

@@ -2,75 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="689f46c6-b4c1-4a48-9f4c-c5ad6d0345f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Druid.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/Log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/LogConfigurationException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/LogFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/LogSource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/class-use/Log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/class-use/LogConfigurationException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/class-use/LogFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/class-use/LogSource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/AvalonLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/Jdk13LumberjackLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/Jdk14Logger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/Log4JLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/LogFactoryImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/LogKitLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/NoOpLog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/ServletContextCleaner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/SimpleLog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/WeakHashtable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/AvalonLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/Jdk13LumberjackLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/Jdk14Logger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/Log4JLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/LogFactoryImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/LogKitLogger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/NoOpLog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/ServletContextCleaner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/SimpleLog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/class-use/WeakHashtable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/impl/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/org/apache/commons/logging/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/resources/background.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/resources/tab.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/resources/titlebar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/resources/titlebar_end.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/c3p0-0.9.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-logging-1.2-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/druid-1.0.9-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/druid-1.0.9-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/druid-1.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/druid.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mchange-commons-java-0.2.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-beans-5.1.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-core-5.1.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jdbc-5.1.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-tx-5.1.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/登录案例.md" beforeDir="false" afterPath="$PROJECT_DIR$/登录案例.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ServletSystem/src/org/iqqcode/web/requestForward/ServletA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ServletSystem/src/org/iqqcode/web/requestForward/ServletB.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../a-JavaSE/h-多线程/3-JUC/03_CAS/03_CAS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/1-Collections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/1-Collections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/META-INF/2-Maps.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashmap/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashmap/HashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashmap/TestHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashmap/TestHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashmap/TopicProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashmap/TopicProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashtable/HashtableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/hashtable/HashtableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/table/BeanTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/table/BeanTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/table/ListMapTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/table/ListMapTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/table/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/table/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/traverse/MapTravel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/traverse/MapTravel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/treemap/ObjCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/treemap/ObjCompare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/treemap/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/treemap/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/treemap/TreeMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/out/production/2-Maps/com/iqqcode/treemap/TreeMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/src/com/iqqcode/traverse/MapTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/2-Maps/src/com/iqqcode/traverse/MapTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/CollectionDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/d-集合/CollectionDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/h-多线程/3-JUC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/h-多线程/3-JUC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../a-JavaSE/h-多线程/3-JUC/03_CAS/src/com/iqqcode/cas/Account_CAS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../a-JavaSE/h-多线程/3-JUC/03_CAS/src/com/iqqcode/cas/Account_CAS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP/UserQuary/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JSP/UserQuary/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginServlet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LoginServlet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginServlet/src/org/iqqcode/checkcode/VerificationCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginServlet/src/org/iqqcode/servlet/ServletLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/1-BinaryTree/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/2-Tree/a-BinaryTree/1-BinaryTree/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,20 +61,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="F:\Code-Java\JavaWeb\Servlet\LoginDemo\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1XY2inKZ3tWqskJCyjga4EN8ruG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -125,11 +77,13 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/LoginServlet/src/org/org/iqqcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../动态生成验证码" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -138,10 +92,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -209,18 +164,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -235,64 +179,26 @@
       <workItem from="1581214903140" duration="5947000" />
       <workItem from="1581220878811" duration="571000" />
       <workItem from="1581221477779" duration="300000" />
+      <workItem from="1598924680285" duration="311000" />
+      <workItem from="1598925056305" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="94" key="#Project_Structure" timestamp="1581221562141">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598925083380">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1581221562141" />
-    <state x="316" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581220708102">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598925083380" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1598924839686">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="316" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1581220708102" />
-    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1581210429666">
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598924839686" />
+    <state x="565" y="210" key="chooseDestDirectoryDialog" timestamp="1598924893966">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1581210429666" />
-    <state x="523" y="151" key="DetectedRootsChooserDialog" timestamp="1581221130593">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="523" y="151" key="DetectedRootsChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1581221130593" />
-    <state x="468" y="187" key="FileChooserDialogImpl" timestamp="1581221765719">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="468" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581221765719" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1581221776900">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581221776900" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1581221776899">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581221776899" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1581221776899">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581221776899" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1581221776899">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581221776899" />
-    <state x="272" y="21" key="SettingsEditor" timestamp="1581221595172">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="272" y="21" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1581221595172" />
-    <state x="485" y="334" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581219336344">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="485" y="334" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1581219336344" />
-    <state x="178" y="35" key="new project wizard" timestamp="1581221775218">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="178" y="35" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1581221775218" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1581215767331">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1581215767331" />
+    <state x="565" y="210" key="chooseDestDirectoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1598924893966" />
   </component>
 </project>

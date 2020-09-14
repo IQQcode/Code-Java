@@ -31,7 +31,7 @@ public class Account_CAS implements Account {
             /**
              * compareAndSet正是做检查，在Set前，先比较 prev 与当前值
              *     - 不一致，next 作废，返回 false 表示失败
-             *            比如，别的线程已经做了减法，当前值已经被减成了 990
+             *            比如，别的线程已经做了减法，当前值已经被减成了 800
              *            那么本线程的这次 990 就作废了，进入 while 下次循环重试
              *     - 一致，以 next 设置为新值，返回 true 表示成功
              */

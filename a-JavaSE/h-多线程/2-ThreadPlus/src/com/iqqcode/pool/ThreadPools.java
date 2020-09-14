@@ -24,6 +24,6 @@ public class ThreadPools {
         es.submit(new Sync());
 
         //调用ExecutorService中的shutdown方法销毁线程池（不建议执行）
-        //es.shutdown();
+        es.shutdown();
     }
 }
