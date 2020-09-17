@@ -1,4 +1,4 @@
-package sept14.baidu;
+package baidu;
 
 import java.util.*;
 

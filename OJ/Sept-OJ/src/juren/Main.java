@@ -2,6 +2,9 @@ package juren;
 
 import java.util.*;
 
+/**
+ * 两个字符串的最长公共子串
+ */
 
 public class Main {
     public static void main(String[] args) {

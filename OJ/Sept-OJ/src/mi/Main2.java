@@ -43,11 +43,13 @@ public class Main2 {
     public static void main(String[] args) {
         //String str = "()[]{}";
         Scanner in = new Scanner(System.in);
-        //ArrayList<String> list = new ArrayList<String> ();
-//        String[] ss = null;
         while (in.hasNext()) {
             String str = in.nextLine();
-            System.out.println(isValid(str));
+            if (str.equals("")) {
+                System.out.println("true");
+            } else {
+                System.out.println(isValid(str));
+            }
         }
     }
 }
