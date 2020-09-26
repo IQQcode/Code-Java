@@ -130,7 +130,8 @@ public class MapTravel {
             System.out.println("key: " + key);
         }
 
-        //遍历map的值
+        //获取到 map的value集合
+        Collection<String> values = map.values();
         for (String value : map.values()) {
             System.out.println("value: " + value);
         }
