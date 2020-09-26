@@ -32,7 +32,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:HashMap使用,Date:,Author:,Description:Map集合的遍历,Description:Hashtable使用,Description:计算一个字符串中每个字符出现次数,Solution:,Description:测试hash算法,Description:TreeMap使用,Description:自定义对象的比较,Description:TreeMap自定义对象的排序,Description:存储表格,Description:JavaBean存储表格" />
+      <option name="myAdditionalJavadocTags" value="date,Description:HashMap使用,Date:,Author:,Description:Map集合的遍历,Description:Hashtable使用,Description:计算一个字符串中每个字符出现次数,Solution:,Description:测试hash算法,Description:TreeMap使用,Description:自定义对象的比较,Description:TreeMap自定义对象的排序,Description:存储表格,Description:JavaBean存储表格,Description:HashMap,Description:根据value获取key" />
     </inspection_tool>
   </profile>
 </component>
