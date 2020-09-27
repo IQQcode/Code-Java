@@ -329,7 +329,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
                 queue.add(node.left);
             }
             if (node.right != null) {
-                queue.add(node.left);
+                queue.add(node.right);
             }
             //当前层节点已访问完，即将访问下一层
             if (levelSize == 0) {
