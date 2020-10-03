@@ -8,23 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ad9f2e1-c9e2-47af-955d-2b8d4cbdd66c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../OJ/Sept-OJ/src/dahua/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../OJ/Sept-OJ/src/dahua/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../OJ/Sept-OJ/src/xishanju/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../OJ/Sept-OJ/src/xishanju/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../OJ/Sept-OJ/src/xishanju/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Semaphore_Count_Cyc/04_Semaphore_Count_Cyc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Semaphore_Count_Cyc/src/count/DiskMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Semaphore_Count_Cyc/src/count/TestCountDownLatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Semaphore_Count_Cyc/src/sema/TestSemaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OJ/Sept-OJ/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OJ/Sept-OJ/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,24 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountDownLatchExample" />
-        <item itemvalue="Application.TestCountDownLatch" />
         <item itemvalue="Application.TestSemaphore" />
-        <item itemvalue="Application.Account_CAS" />
+        <item itemvalue="Application.TestCountDownLatch" />
+        <item itemvalue="Application.CountDownLatchExample" />
         <item itemvalue="Application.Account_Sync" />
+        <item itemvalue="Application.Account_CAS" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +181,8 @@
       <workItem from="1598402183880" duration="31000" />
       <workItem from="1601607096251" duration="7244000" />
       <workItem from="1601631767839" duration="616000" />
-      <workItem from="1601701630202" duration="1330000" />
+      <workItem from="1601701630202" duration="2621000" />
+      <workItem from="1601712987900" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="ReentrantLock">
       <created>1598173290911</created>
@@ -231,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598349533660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dick total - 大华">
+      <created>1601711832368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601711832368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +222,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ReentrantLock" />
     <MESSAGE value="CAS test" />
-    <option name="LAST_COMMIT_MESSAGE" value="CAS test" />
+    <MESSAGE value="dick total - 大华" />
+    <option name="LAST_COMMIT_MESSAGE" value="dick total - 大华" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2414" y="139" key="#Inspections" timestamp="1601711652753">
@@ -254,9 +236,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="403" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1598170032613" />
-    <state x="262" y="15" key="CommitChangelistDialog2" timestamp="1598349528555">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="2248" y="19" key="CommitChangelistDialog2" timestamp="1601711823594">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2248" y="19" key="CommitChangelistDialog2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601711823594" />
     <state x="262" y="15" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1598349528555" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1601631608655">
       <screen x="0" y="0" width="1536" height="864" />
@@ -283,14 +266,19 @@
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1601631733033" />
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598350290800" />
+    <state x="349" y="175" key="IDE.errors.dialog" timestamp="1601712900340">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="175" key="IDE.errors.dialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1601712900340" />
     <state x="2231" y="9" key="SettingsEditor" timestamp="1601711640404">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2231" y="9" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601711640404" />
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1598337978594" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1598349538235">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="2371" y="206" key="Vcs.Push.Dialog.v2" timestamp="1601711841411">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2371" y="206" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601711841411" />
     <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1598349538235" />
     <state x="384" y="85" key="new project wizard" timestamp="1601607287323">
       <screen x="0" y="0" width="1536" height="864" />
