@@ -31,7 +31,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date" />
+      <option name="myAdditionalJavadocTags" value="date,Description:西山居,Date:,Author:,Description:子字符串第一次出现的位置,Description:子串出现位置" />
     </inspection_tool>
   </profile>
 </component>

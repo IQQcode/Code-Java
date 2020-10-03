@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01_ReentrantLock/01_ReentrantLock.iml" filepath="$PROJECT_DIR$/01_ReentrantLock/01_ReentrantLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_ReadWriteLock/02_ReadWriteLock.iml" filepath="$PROJECT_DIR$/02_ReadWriteLock/02_ReadWriteLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_CAS/03_CAS.iml" filepath="$PROJECT_DIR$/03_CAS/03_CAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Semaphore_Count_Cyc/04_Semaphore_Count_Cyc.iml" filepath="$PROJECT_DIR$/04_Semaphore_Count_Cyc/04_Semaphore_Count_Cyc.iml" />
     </modules>
   </component>
 </project>

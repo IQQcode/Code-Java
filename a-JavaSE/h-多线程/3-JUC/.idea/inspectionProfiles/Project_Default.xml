@@ -1,7 +1,9 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+    <inspection_tool class="AlibabaAvoidCommentBehindStatement" enabled="false" level="MAJOR" enabled_by_default="false" />
     <inspection_tool class="AlibabaAvoidManuallyCreateThread" enabled="false" level="CRITICAL" enabled_by_default="false" />
+    <inspection_tool class="AlibabaCommentsMustBeJavadocFormat" enabled="false" level="MAJOR" enabled_by_default="false" />
     <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="TOP_LEVEL_CLASS_OPTIONS">
         <value>
@@ -31,7 +33,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:生产者消费者模型,Author:,Date:,Solution:,Description:虚假唤醒,Description:生产者消费者问题--虚假唤醒验证,Description:生产者消费者问题--虚假唤醒验证2,Description:虚假唤醒验证1,Description:八锁问题一--谁先执行,Description:解决ArrayList线程不安全,Description:读写锁,Description:阻塞队列--抛出异常,Description:同步队列,Description:公平锁与非公平锁,Description:ReentrantLock公平锁与非公平锁,Description:可重入锁,Description:可中断,Description:超时获取,Description:Condition实现精准的等待唤醒,Description:Condition条件变量实现精准的等待唤醒,Description:CAS无锁保证线程安全测试,Description:CAS无锁保证安全,Description:synchronized加锁保证安全" />
+      <option name="myAdditionalJavadocTags" value="date,Description:生产者消费者模型,Author:,Date:,Solution:,Description:虚假唤醒,Description:生产者消费者问题--虚假唤醒验证,Description:生产者消费者问题--虚假唤醒验证2,Description:虚假唤醒验证1,Description:八锁问题一--谁先执行,Description:解决ArrayList线程不安全,Description:读写锁,Description:阻塞队列--抛出异常,Description:同步队列,Description:公平锁与非公平锁,Description:ReentrantLock公平锁与非公平锁,Description:可重入锁,Description:可中断,Description:超时获取,Description:Condition实现精准的等待唤醒,Description:Condition条件变量实现精准的等待唤醒,Description:CAS无锁保证线程安全测试,Description:CAS无锁保证安全,Description:synchronized加锁保证安全,Description:信号量-用来限制访问共享资源的线程上限,Description:三个线程任务协同工作，主线程等待计数为时被唤醒,Description:三个线程任务协同工作，主线程等待计数为0时被唤醒,Description:三个线程任务协同工作，主线程等待计数为0时被唤醒,主线程继续执行,Description:三个线程任务协同工作，主线程等待计数为0时被唤醒,主线程继续执行" />
     </inspection_tool>
   </profile>
 </component>
