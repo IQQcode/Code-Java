@@ -3,7 +3,8 @@ package dahua;
 /**
  * @Author: iqqcode
  * @Date: 2020-10-01 16:25
- * @Description: 有4个线程分别获取C、D、E、F盘的大小，第5个线程统计总大小
+ * @Description:[大华]
+ * 有4个线程分别获取C、D、E、F盘的大小，第5个线程统计总大小
  */
 
 import java.util.*;

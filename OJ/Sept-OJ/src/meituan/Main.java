@@ -3,6 +3,10 @@ package meituan;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * @Author: iqqcode
+ * @Description:[美团]
+ */
 public class Main {
     /**
      * 8 3

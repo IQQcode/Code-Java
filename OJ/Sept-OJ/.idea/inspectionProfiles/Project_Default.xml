@@ -32,7 +32,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:西山居,Date:,Author:,Description:子字符串第一次出现的位置,Description:子串出现位置" />
+      <option name="myAdditionalJavadocTags" value="date,Description:西山居,Date:,Author:,Description:子字符串第一次出现的位置,Description:子串出现位置,Description:[多益网络],Description:[滴滴笔试题一],Description:[jibite],Description:[吉比特],Description:[巨人网络],Description:[美团],Description:二倍均值法,Description:线段切割法" />
     </inspection_tool>
   </profile>
 </component>

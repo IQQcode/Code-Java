@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @Author: iqqcode
  * @Date: 2020-09-14 09:53
- * @Description: 滴滴笔试题一
+ * @Description:[滴滴笔试题一]
  *
  * 样例输入：
  * 2

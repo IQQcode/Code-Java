@@ -3,9 +3,11 @@ package juren;
 import java.util.*;
 
 /**
+ * @Author: iqqcode
+ * @Date: 2020-09-25 21:34
+ * @Description:[巨人网络]
  * 两个字符串的最长公共子串
  */
-
 public class Main {
     public static void main(String[] args) {
         //"abccade","dgcadde"

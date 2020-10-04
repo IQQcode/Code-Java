@@ -4,7 +4,8 @@ import java.util.*;
 /**
  * @Author: iqqcode
  * @Date: 2020-09-25 21:34
- * @Description:求质因数
+ * @Description:[吉比特]
+ *   求质因数
  */
 public class Solution {
     public static void main(String[] args) {
