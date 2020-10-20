@@ -32,7 +32,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date,Description:掌上先机,Date:,Author:,Description:美莱网,Description:网宿科技,Description:Bosszhi直聘,Description:滴滴实习,Description:计数排序" />
+      <option name="myAdditionalJavadocTags" value="date,Description:掌上先机,Date:,Author:,Description:美莱网,Description:网宿科技,Description:Bosszhi直聘,Description:滴滴实习,Description:计数排序,Description:迅雷笔试,Description:迅雷笔试-2" />
     </inspection_tool>
   </profile>
 </component>
