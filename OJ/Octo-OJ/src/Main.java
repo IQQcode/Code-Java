@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.*;
 
 /**
  * @Author: iqqcode
@@ -7,8 +8,6 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
-        int[][] arr = {{1, 3, 2}, {9, 20, 5}, {8, 9}};
-        Arrays.stream(arr);
-        int i = 0;
+        System.out.println(5 & 1);
     }
 }
