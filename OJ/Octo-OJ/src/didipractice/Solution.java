@@ -10,6 +10,16 @@ import java.util.*;
 
 public class Solution {
     public static void main(String[] args) {
+        System.out.println(random(20, 4));
+    }
 
+    public static int random(int m, int n) {
+        int k = new Random().nextInt();
+        int max = n - 1;
+        while (k < m) {
+            k = k * n + new Random().nextInt();
+            max = max * n + n - 1;
+        }
+        return k / (max / n);
     }
 }
