@@ -9,17 +9,13 @@ public class Main {
         int m = in.nextInt();
         int n = in.nextInt();
         in.nextLine();
-        //输入的字符串数量为：(n+2)/3*m;4*6的为：(4+2)/3*4=8
+        //输入的字符串数量为：(n+2)/3*m; 4*6的为：(4+2)/3*4=8
         int numStr = (n + 2) / 3 * m;
-        System.out.println(numStr);
         String[] strs = new String[numStr];
         char[][] chars = new char[numStr][5];
         char[][] map = new char[m][n];
         for (int i = 0; i < numStr; i++) {
             strs[i] = in.next();
-        }
-
-        for (int i = 0; i < numStr; i++) {
             chars[i] = strs[i].toCharArray();
         }
 

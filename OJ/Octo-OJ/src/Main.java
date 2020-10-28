@@ -8,18 +8,38 @@ import java.util.*;
  */
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
-        int target = 7;
-        int left = 0, right = arr.length - 1;
-        while(left < right) {
-            int mid = (left + right) >>> 1;
-            if(target > arr[mid]) {
-                left = mid + 1;
-            } else {
-                right = mid;
-            }
+        Scanner in = new Scanner(System.in);
+        int m = in.nextInt();
+        int n = in.nextInt();
+        in.nextLine();
+        int numStr = n / 3 * m;
+        String[] strs = new String[numStr];
+        char[][] chars = new char[numStr][5];
+        char[][] map = new char[m][n];
+        for (int i = 0; i < numStr; i++) {
+            strs[i] = in.next();
+            chars[i] = strs[i].toCharArray();
         }
-        //return arr[left] == target ? left : -1;
-        System.out.println(left);
+        int k = 0;
+        for (int i = 0, j = 0; i < m; i++,j++) {
+            k = 0;
+            map[j][k++] = chars[i][4];
+            map[j][k++] = chars[i][0];
+            map[j][k++] = chars[i][2];
+
+        }
+        for (int i = numStr - 1, j = 0; i >= m; i--, j++) {
+            k = 3;
+            map[j][k++] = chars[i][4];
+            map[j][k++] = chars[i][0];
+            map[j][k++] = chars[i][2];
+        }
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                System.out.print(map[i][j]);
+            }
+            System.out.println();
+        }
     }
 }
