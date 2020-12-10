@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我们的聊天室</title>
+    <link href="https://cdn.bootcdn.net/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet"/>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+</head>
+<body>
+<style>
+    .main {
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        top: 0px;
+        bottom: 0px;
+        background-color: rgb(247, 247, 247);
+    }
+
+    .main .list {
+        padding: 5px;
+    }
+
+    .message.show {
+        position: absolute;
+        top: 0px;
+        width: 450px;
+        bottom: 200px;
+        border: solid 1px rgb(212, 212, 213);;
+        background-color: white;
+    }
+
+    .message.show > .list {
+        position: absolute;
+        bottom: 5px;
+        left: 0;
+        right: 0;
+        top: 25px;
+        overflow-y: auto;
+    }
+
+    .message.show img:not(.emoji) {
+        max-width: 150px;
+        height: auto;
+        display: block;
+        border: solid 1px rgb(229, 229, 229);
+        cursor: pointer;
+    }
+
+    .message.show img.avatar.image {
+        display: inline-block !important;
+    }
+
+    .message.show .item .content {
+        max-width: 80% !important;
+    }
+
+    .message.show .item.current .content label {
+        float: right;
+        font-size: 0.9rem;
+    }
+
+    .message.show .item.current img {
+        float: right;
+    }
+
+    .message.send {
+        position: absolute;
+        width: 450px;
+        height: 200px;
+        bottom: 0px;
+        border: solid 1px rgb(212, 212, 213);
+        border-top: none;
+    }
+
+    .message.send .menu {
+        margin-bottom: 0;
+    }
+
+    .user.list {
+        position: absolute;
+        bottom: 0;
+        top: 0;
+        margin-left: 450px;
+        width: 150px;
+        border: solid 1px rgb(212, 212, 213);;
+        border-left: none;
+        background-color: grey;
+        color: white;
+    }
+
+    #text_area {
+        height: 100px;
+        padding: 2px;
+        outline: none;
+        overflow-y: auto;
+    }
+
+    .popup.emoji {
+        max-width: 250px;
+        max-height: 200px;
+        padding-left: 5px;
+        padding-bottom: 0;
+        padding-top: 0px;
+    }
+
+    .popup.emoji img.emoji {
+        cursor: pointer;
+    }
+
+    img.emoji {
+        width: 25px !important;
+        height: auto;
+        display: inline-block !important;
+    }
+
+    #text_area img {
+        max-width: 100px;
+        height: auto;
+    }
+
+
+</style>
+
+<!--主体框架-->
+<div class="main">
+
+
+    <div class="ui text container">
+        <!--消息展示区     -->
+        <div class="message show">
+            <!-- 标题           -->
+            <h5 class="ui top attached  header">
+                年薪百万技术交流群(<span id="user_count"></span>)
+            </h5>
+            <div id="msg_list" class="ui list">
+                <div class="item current">
+                    <img class="ui avatar image" src="/images/mark.png">
+                    <div class="rigth floated content">
+                        <label class="ui rigth pointing label green ">
+                            <div><b>我把源码发这个群里</b><br></div>
+                            <div>如果已经加入阅读网内测群的就不用在加了，一样发会的</div>
+                            <img class="ui emoji image" src="./images/emoji/44.png"> </label>
+                    </div>
+                </div>
+                <div class="item current">
+                    <div class="right floated content">
+                        <img class="ui avatar image" src="./images/mark.png">
+                    </div>
+                    <a href="javascript:void(0)" onclick="openImage(this);"> <img
+                            src="/images/%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg"></a>
+                </div>
+            </div>
+        </div>
+
+        <!--消息发送区    -->
+        <div class="message send">
+            <div class="ui icon  secondary menu">
+                <div class="item">
+                    <i id="emoji_button" class=" link icon   large smile grey"></i>
+                    <!--  表情图片-->
+                    <div class="ui popup emoji" href="./images/emoji/" size="50">
+                        <table class="ui very basic collapsing celled compact table">
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <!-- <div class="item">
+                     <i class=" link icon large  folder grey"></i>
+                 </div>-->
+            </div>
+            <div id="text_area" contenteditable="true">
+
+            </div>
+            <div id="send_button" class="ui button" style="float: right">发送</div>
+        </div>
+        <!--群成员列表-->
+        <div class="user list" style="overflow-y: auto;">
+            <div id="user_list" class="ui list">
+                <div class="item">
+                    <img class="ui avatar image" src="./images/daniel.jpg">
+                    <div class="content" style="margin-top: 5px">
+                        <div class="user name">小华</div>
+                    </div>
+                </div>
+                <div class="item">
+                    <img class="ui avatar image" src="./images/christian.jpg">
+                    <div class="content" style="margin-top: 5px">
+                        <div class="user name">小明</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="image_dialog" class="ui  modal">
+    <i class="close icon"></i>
+    <div class="image content">
+        <img class="ui centered image" src=""/>
+    </div>
+</div>
+<script>
+    //初始化表情包
+    function initEmoji() {
+        let $emoji = $(".popup.emoji");
+        let root = $emoji.attr("href");
+        let size = $emoji.attr("size");
+        let $currentRow;
+        for (let i = 0; i < size; i++) {
+            if (i == 0 || i % 10 == 0) {
+                $currentRow = $("<tr></tr>");
+                $currentRow.appendTo($(".emoji .table tbody"));
+            }
+            $(format("<td><img class='ui emoji image' src='{0}{1}.png'></div></td>", [root, i + ""])).appendTo($currentRow);
+        }
+        $(".emoji .table tbody img").click(function () {
+            $(this).clone().appendTo("#text_area")
+        });
+        $("#emoji_button").popup({
+            on: "click",
+            hover: true
+        });
+
+    }
+
+    $(function () {
+        initEmoji();
+        onOpen();
+    });
+
+
+    var ws;
+    var currentUser
+
+    function sendMsg() {
+
+        $("#text_area img:not(.emoji)").each((index, item) => {
+            ws.send("$img" + $(item).prop("outerHTML")); // 单独发送图片消息
+        });
+        $("#text_area img:not(.emoji)").remove(); // 删除图片元素
+        if ($("#text_area").html().trim() == "") {
+            return; // 不发空消息
+        }
+        var html = $("#text_area").html();
+        if (html.length > 2048) {
+            alert("内容太长了");
+            return;
+        }
+        ws.send($("#text_area").html());// 发送其它消息
+        $("#text_area").empty(); // 清空消息
+        // 拆分消息
+    }
+
+    function onOpen() {
+        let name = prompt("输入用户名", "");
+        ws = new WebSocket("ws://" + window.location.host + "/chat/" + name)
+        currentUser = name;
+        ws.onmessage = onmessage;
+        // 发送消息
+        $("#send_button").click(function () {
+            sendMsg();
+        })
+    }
+
+    var user_item_template = '<div class="item">\n' +
+        '                    <img class="ui avatar image" src="/images/{0}">\n' +
+        '                    <div class="content" style="margin-top: 5px">\n' +
+        '                        <div class="user name">{1}</div>\n' +
+        '                    </div>\n' +
+        '                </div>';
+
+    var msg_item_template =
+        '<div class="item">\n' +
+        '                    <img class="ui avatar image" src="/images/{0}">\n' +
+        '                    <div class="content">\n' +
+        '                        <div class="user name">{1}</div>\n' +
+        '                        <label class="ui left pointing label ">{2}</label>\n' +
+        '                    </div>\n' +
+        '                </div>';
+    var msg_item_current_tempate = '<div class="item current">\n' +
+        '                        <img class="ui avatar image" src="/images/{1}">\n' +
+        '                    <div class="right floated content">\n' +
+        '                        <label class="ui right pointing label green ">\n' +
+        '                            {0}' +
+        '                        </label>\n' +
+        '                    </div>\n' +
+        '                </div>';
+    var img_msg_item_template = '<div class="item ">\n' +
+        '                    <img class="ui avatar image" src="./images/{0}">\n' +
+        '                    <div class="content">\n' +
+        '                        <div class="user name">{1}</div>\n' +
+        '                       <a href="javascript:void(0)" onclick="openImage(this);">  {2}</a>\n' +
+        '                    </div>\n' +
+        '                </div>';
+    var img_msg_item_current_template = '<div class="item current">\n' +
+        '                    <div class="right floated content">\n' +
+        '                        <img class="ui avatar image" src="./images/{0}">\n' +
+        '                    </div>\n' +
+        '                   <a href="javascript:void(0)" onclick="openImage(this);"> {1}</a>\n' +
+        '                </div>';
+
+    function onmessage(event) {
+        let data = JSON.parse(event.data);
+        if (data.type == "err_user_exist") {
+            alert("用户名已存在");
+            window.location.reload();
+        } else if (data.type == "update_user") {
+            $("#user_list").empty();
+            data.users.forEach((user) => {
+                $(format(user_item_template, [user.head, user.name])).appendTo("#user_list");
+            });
+            $("#user_count").text(data.users.length);
+        } else if (data.type == "normal_msg") {
+            if (data.user.name == currentUser) {
+                var $item = $(format(msg_item_current_tempate, [data.msg, data.user.head]));
+                $item.appendTo("#msg_list");
+            } else {
+                var $item = $(format(msg_item_template, [data.user.head, data.user.name, data.msg]));
+                $item.appendTo("#msg_list");
+            }
+            refreshMessage();
+        } else if (data.type == "img_msg") {
+            if (data.user.name == currentUser) {
+                var $item = $(format(img_msg_item_current_template, [data.user.head, data.msg]));
+                $item.appendTo("#msg_list");
+            } else {
+                var $item = $(format(img_msg_item_template, [data.user.head, data.user.name, data.msg]));
+                $item.appendTo("#msg_list");
+            }
+            refreshMessage();
+        }
+    }
+
+    // 消息滚动条显示至底部
+    function refreshMessage() {
+        $("#msg_list")[0].scrollTop = $("#msg_list")[0].scrollHeight;
+    }
+
+    function format(format, args) {
+        return format.replace(/\{(\d+)\}/g, function (m, n) {
+            return args[n] ? args[n] : m;
+        });
+    }
+
+    //放大图片
+    function openImage(item) {
+        $("#image_dialog img").attr('src', $(item).find("img").attr('src'));
+        $("#image_dialog").modal('show');
+    }
+
+</script>
+
+</body>
+</html>
