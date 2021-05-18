@@ -1,30 +1,488 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c7d150c-d192-4b0d-ae1d-4f8e22b62823" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="0c7d150c-d192-4b0d-ae1d-4f8e22b62823" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../OJ/Octo-OJ/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/ChartRoom_WebSocket/.idea/ChartRoom_WebSocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/ChartRoom_WebSocket/ChartRoom_WebSocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/SpringBoot_WebSocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_38.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_aop_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_test_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_web_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_springframework_spring_websocket_5_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/main/java/top/iqqcode/demo01/Demo01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/main/java/top/iqqcode/demo01/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/main/java/top/iqqcode/demo01/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/main/java/top/iqqcode/demo01/domain/MessageBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/main/resources/static/app-websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo01/src/test/java/top/iqqcode/demo01/Demo01ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo02/src/main/java/top/iqqcode/demo/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo02/src/main/java/top/iqqcode/demo/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo02/src/main/java/top/iqqcode/demo/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo02/src/main/java/top/iqqcode/demo/model/MessageBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo02/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo02/src/main/resources/static/app-websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo02/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/java/top/iqqcode/demo/config/MyChannelInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/java/top/iqqcode/demo/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/java/top/iqqcode/demo/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/java/top/iqqcode/demo/model/MessageBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/java/top/iqqcode/demo/model/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/java/top/iqqcode/demo/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/resources/static/app-websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo03/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/config/HttpHandshakeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/config/HttpHandshakeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/config/HttpWebSocketHandlerDecoratorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/model/MessageBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/java/top/iqqcode/demo04/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/resources/static/app-websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/SpringBoot_WebSocket/demo04/src/main/resources/static/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/WebSocketChatDemo/WebSocketChatDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/main/java/top/iqqcode/demo01/Demo01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/main/java/top/iqqcode/demo01/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/main/java/top/iqqcode/demo01/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/main/java/top/iqqcode/demo01/domain/MessageBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/main/resources/static/app-websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../g-Projects/WebSocketDemos/demo01/src/test/java/top/iqqcode/demo01/Demo01ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/abstract05/AmericanDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/abstract05/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/abstract05/DessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/abstract05/ItalyDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/abstract05/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/abstract05/Tiramisu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/basic01/CoffeeHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/basic01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/domain/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/domain/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/domain/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/methods04/AmericanCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/methods04/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/methods04/CoffeeHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/methods04/LatteCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/methods04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/simple02/CoffeeHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/simple02/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/simple02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/static03/CoffeeHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/static03/StaticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/top/iqqcode/static03/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/src/iqqcode/romotions/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/src/iqqcode/romotions/SalesMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/src/iqqcode/romotions/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/src/iqqcode/romotions/StrategyA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/src/iqqcode/romotions/StrategyB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/src/iqqcode/romotions/StrategyC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/src/iqqcode/romotions/Usre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/策略模式.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-7随机数.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OJ/Octo-OJ/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OJ/Octo-OJ/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OJ/Sept-OJ/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OJ/Sept-OJ/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../h-设计模式/策略模式/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/ChartRoom_WebSocket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/artifacts/ChartRoom_WebSocket_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/ChartRoom_WebSocket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/Database/db_webchat.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/config/FreeMarkerListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/dao/BaseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/entity/MessageFromClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/entity/MessageToClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/service/WebSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/java/com/chartroom/utils/CommUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/resources/datasource.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/build.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/common_form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/css/qq.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/file.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/robot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/img/robot2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/js/common_form_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/assets/js/jquery_min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/chat.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/main/webapp/websocketTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/src/test/com/chartroom/dao/AccountDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/config/FreeMarkerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/controller/AccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/dao/BaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/entity/MessageFromClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/entity/MessageToClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/service/WebSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/com/chartroom/utils/CommUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/classes/datasource.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/commons-io-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/gson-2.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/junit-4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/build.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/common_form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/css/qq.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/file.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/robot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/img/robot2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/js/common_form_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/assets/js/jquery_min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/chat.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/Demo-1.0-SNAPSHOT/websocketTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/config/FreeMarkerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/controller/AccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/dao/BaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/entity/MessageFromClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/entity/MessageToClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/service/WebSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/com/chartroom/utils/CommUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/ChartRoom_WebSocket/target/classes/datasource.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/java/coderead/chat/ChatApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/java/coderead/chat/ChatHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/java/coderead/chat/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/chat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/christian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/daniel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/elliot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/83.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/emoji/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/helen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/jenny.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/lena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/lindsay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/matt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/molly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/steve.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/stevie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/tom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/veronika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/main/resources/static/images/交流群.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../g-Projects/coderead-chat/src/test/java/coderead/chat/ChatApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/Factory Pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/ARM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/AbstractFactoryA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/AbstractFactoryB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/AbstractFactoryC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/GalaxyS10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/HUAWEI_P30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/HUAWEI_RAM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/Hisilicon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/PhonePartsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/SAMSUNG_RAM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/AbstratFactory/Snapdragon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/META-INF/Factory Pattern.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/BMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/BMW320.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/BMW523.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/ComputerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryBMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryBMW320.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryBMW523.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryMethodA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryMethodB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/FactoryMethodC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/ProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/ProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/Surface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/SurfaceFectory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/iPaid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/MethodFactory/iPaidFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/HUAWEI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/Mi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/ReflectSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/SAMSUNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/SimpleFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/SmartPhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/out/production/Factory Pattern/com/DesignPattern/SmartPhoneReflect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/src/AbstratFactory/AbstractFactoryA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/src/MethodFactory/FactoryMethodA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/src/MethodFactory/FactoryMethodB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/src/MethodFactory/FactoryMethodC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/src/com/DesignPattern/ReflectSimple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/Factory Pattern/src/com/DesignPattern/SimpleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/META-INF/工厂模式.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/www/bit/java/AlienWare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/www/bit/java/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/www/bit/java/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/www/bit/java/ComputerFatory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/www/bit/java/FactoryMethord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/www/bit/java/MacBookPro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/out/production/工厂模式/www/bit/java/SurfaceBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../h-设计模式/工厂模式/src/www/bit/java/FactoryMethord.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Class8.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Class8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="96" selection-start-line="96" selection-end-line="96" />
-              <folding>
-                <element signature="e#0#1313#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +490,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,6 +516,8 @@
     <option name="width" value="1750" />
     <option name="height" value="1030" />
   </component>
+  <component name="ProjectId" id="1qWdJPCiHcpRH6jYgmGnYB4ykIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -81,70 +544,48 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Class8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class8" />
       <module name="interface" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
@@ -152,6 +593,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -166,6 +608,8 @@
       <workItem from="1552296086217" duration="599000" />
       <workItem from="1552388362778" duration="613000" />
       <workItem from="1552553647408" duration="5111000" />
+      <workItem from="1617199212696" duration="421000" />
+      <workItem from="1617199668801" duration="73000" />
     </task>
     <servers />
   </component>
@@ -206,10 +650,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Class8.java">

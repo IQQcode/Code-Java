@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="false" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+      <option name="myAdditionalJavadocTags" value="date,Description:抽象策略类-促销活动接口,Author:,Date:,Description:实现促销接口，负责展示该促销活动的内容,function:促销活动接口,Description:抽象策略类-提供接口,function:实现促销接口，负责展示该促销活动的内容,Description:具体策略类，封装算法,Description:环境类-聚合策略类,function:促销员,Description:用户测试类" />
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot_WebSocket.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot_WebSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo01/demo01.iml" filepath="$PROJECT_DIR$/demo01/demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/demo02.iml" filepath="$PROJECT_DIR$/demo02/demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/demo03.iml" filepath="$PROJECT_DIR$/demo03/demo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04/demo04.iml" filepath="$PROJECT_DIR$/demo04/demo04.iml" />
+    </modules>
+  </component>
+</project>
