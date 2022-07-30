@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1c34ce-4ac1-431f-8a8b-afc2cff8a9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../3-JUC/src/main/java/com/iqqcode/juc03/ReadWriteLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-JUC/src/main/java/com/iqqcode/juc04/ArrayBlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3-JUC/src/main/java/com/iqqcode/juc04/SynchronousQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/约瑟夫环问题/约瑟夫环问题.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT19-删除链表的倒数第N个节点/LT19-删除链表的倒数第N个节点.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT19-删除链表的倒数第N个节点/src/iqqcode/RemoveNthFromEnd_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT19-删除链表的倒数第N个节点/src/iqqcode/RemoveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/LT21-合并两个有序链表.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/src/iqqcode/MergTwoLists_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/src/iqqcode/MergeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/LT21-合并两个有序链表/src/iqqcode/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/src/nodes/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../d-JavaTopic/专题练习/a.链表/链表OJ/链表OJ.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ThreadPool/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ThreadPool/ExecutorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/进程与线程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3-JUC/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3-JUC/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3-JUC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3-JUC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../e-DataStructure/1-Linear Table/b-LinkedList/0-LinearList/src/iqqcode/algorithm/list/LinkList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1OZk8ILZOktUy9MkLzEqgMw1Kl8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,30 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2-ThreadPlus" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jiazihui/Documents/Code/Code-Java/a-JavaSE/h-多线程/0-MultiThread&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Code-Java\JavaSE\MultiThread" />
@@ -104,6 +67,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,ALPHA_COMPARATOR,SHOW_ANONYMOUS" />
   </component>
@@ -190,23 +154,30 @@
       <workItem from="1590393605162" duration="1124000" />
       <workItem from="1590396338505" duration="84000" />
       <workItem from="1591611791954" duration="5234000" />
+      <workItem from="1656819205800" duration="41000" />
+      <workItem from="1659168827458" duration="121000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
