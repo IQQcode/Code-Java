@@ -11,9 +11,9 @@ public class OOMError {
 
     static class OOMObject{ }
 
-    //JVM 程序启动时通过JVM参数指定最大最小容量
-    //-Xmx20m -Xms20m
-    //-XX:+HeapDumpOnOutOfMemoryError 记录堆异常信息
+    // JVM 程序启动时通过JVM参数指定最大最小容量
+    // -Xmx20m -Xms20m
+    // -XX:+HeapDumpOnOutOfMemoryError 记录堆异常信息
     public static void main(String[] args) {
         List<OOMObject> list = new ArrayList<>();
         while(true) {

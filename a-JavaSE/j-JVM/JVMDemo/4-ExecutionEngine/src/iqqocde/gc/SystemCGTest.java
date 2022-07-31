@@ -8,10 +8,10 @@ package iqqocde.gc;
 public class SystemCGTest {
     public static void main(String[] args) {
         new SystemCGTest();
-        //提醒JVM的垃级回收器执行gc，但是不确定是否马上执行gc
+        // 提醒JVM的垃级回收器执行gc，但是不确定是否马上执行gc
         System.gc();
 
-        //调用finalize(),强制GC立即进行垃圾回收
+        // 调用finalize(),强制GC立即进行垃圾回收
         System.runFinalization();
     }
 

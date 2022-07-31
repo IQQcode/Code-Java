@@ -32,5 +32,41 @@
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
       <option name="myAdditionalJavadocTags" value="Description:查看类加载器层级关系,Author:,Date:,Description:PC计数器测试,Description:局部变量表容量测试,Description:i++和++i指令验证,Description:堆空间分析工具测试,Description:堆空间分析工具-Java,Description:堆空间分析工具Java-VisualVM测试,Description:对象内存分配测试,date,Description:new,Description:,Description:System.gc()调用测试,Description:GCRoots查看,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:查看垃圾回收器,Description:0-1背包问题,Description:-XX:PrintGCDetails" />
     </inspection_tool>
+    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ADDITIONAL_TAGS" value="Description:查看类加载器层级关系,Author:,Date:,Description:PC计数器测试,Description:局部变量表容量测试,Description:i++和++i指令验证,Description:堆空间分析工具测试,Description:堆空间分析工具-Java,Description:堆空间分析工具Java-VisualVM测试,Description:对象内存分配测试,date,Description:new,Description:,Description:System.gc()调用测试,Description:GCRoots查看,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:堆空间OOM测试,dump快照分析,Description:查看垃圾回收器,Description:0-1背包问题,Description:-XX:PrintGCDetails,Description:finalize()对象的自我拯救,Description:堆溢出,JVM参数" />
+    </inspection_tool>
+    <inspection_tool class="MissingJavadoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="PACKAGE_SETTINGS">
+        <Options>
+          <option name="ENABLED" value="false" />
+        </Options>
+      </option>
+      <option name="MODULE_SETTINGS">
+        <Options>
+          <option name="ENABLED" value="false" />
+        </Options>
+      </option>
+      <option name="TOP_LEVEL_CLASS_SETTINGS">
+        <Options>
+          <option name="ENABLED" value="false" />
+        </Options>
+      </option>
+      <option name="INNER_CLASS_SETTINGS">
+        <Options>
+          <option name="ENABLED" value="false" />
+        </Options>
+      </option>
+      <option name="METHOD_SETTINGS">
+        <Options>
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+          <option name="ENABLED" value="false" />
+        </Options>
+      </option>
+      <option name="FIELD_SETTINGS">
+        <Options>
+          <option name="ENABLED" value="false" />
+        </Options>
+      </option>
+    </inspection_tool>
   </profile>
 </component>
